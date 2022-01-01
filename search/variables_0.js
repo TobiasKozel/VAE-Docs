@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['_5f_5fregistermydsp_0',['__registermydsp',['../namespacevae_1_1core_1_1effect.html#a3f557bb915b5e5fcf1b34ba9e72c13c1',1,'vae::core::effect']]],
+  ['_5f_5fregistervaereverb_1',['__registerVAEReverb',['../namespacevae_1_1core_1_1effect.html#adf53e365cd62274dec8db023e8ef69d0',1,'vae::core::effect']]],
+  ['_5fpreallocatedemitters_2',['_preAllocatedEmitters',['../structvae_1_1_engine_config.html#a9d9f50698353d93a038c3b12c48269fa',1,'vae::EngineConfig']]],
+  ['_5fvae_5fbank_5fsize_3',['_VAE_BANK_SIZE',['../namespacevae_1_1core.html#a78cc64e479fe4d6b90a0cf4ba6533d95',1,'vae::core']]],
+  ['_5fvae_5fbuf_5fsize_4',['_VAE_BUF_SIZE',['../namespacevae_1_1core.html#a75fab7d9bb0bd00b3847e5befdb38ecb',1,'vae::core']]],
+  ['_5fvae_5fdevice_5fsize_5',['_VAE_DEVICE_SIZE',['../namespacevae_1_1core.html#a9b51f28323419d73be49c755da3e80ba',1,'vae::core']]],
+  ['_5fvae_5femitter_5fsize_6',['_VAE_EMITTER_SIZE',['../namespacevae_1_1core.html#a64452fcd40883448aba42f00c3bd376a',1,'vae::core']]],
+  ['_5fvae_5fengine_5fsize_7',['_VAE_ENGINE_SIZE',['../namespacevae_1_1core.html#a66f8441e4bdfe8893acfd6143300e1f5',1,'vae::core']]],
+  ['_5fvae_5fevent_5fsize_8',['_VAE_EVENT_SIZE',['../namespacevae_1_1core.html#a19f4b920fdab25019b47dde6d16b72b0',1,'vae::core']]],
+  ['_5fvae_5flistener_5fsize_9',['_VAE_LISTENER_SIZE',['../namespacevae_1_1core.html#a30d765c20a8cf2a18cbadaeeeb53dd47',1,'vae::core']]],
+  ['_5fvae_5fmixer_5fsize_10',['_VAE_MIXER_SIZE',['../namespacevae_1_1core.html#a33e810f54a6b2ac3a807434691628ffb',1,'vae::core']]],
+  ['_5fvae_5fsize_5fbank_5fmanager_11',['_VAE_SIZE_BANK_MANAGER',['../namespacevae_1_1core.html#a10a94ccfaf0a57366dd13831df6cc021',1,'vae::core']]],
+  ['_5fvae_5fsize_5fspatial_5fmanager_12',['_VAE_SIZE_SPATIAL_MANAGER',['../namespacevae_1_1core.html#a3050f1dfb7fa210d43a65cdae3dd611a',1,'vae::core']]],
+  ['_5fvae_5fsize_5fvoice_5fmanager_13',['_VAE_SIZE_VOICE_MANAGER',['../namespacevae_1_1core.html#a9679eb9e78770b0afabace59c808cf4e',1,'vae::core']]],
+  ['_5fvae_5fsource_5fsize_14',['_VAE_SOURCE_SIZE',['../namespacevae_1_1core.html#aa021a7b02ef20d08deb4d370eeadf4c3',1,'vae::core']]],
+  ['_5fvae_5fspatial_5fprocessor_5fsize_15',['_VAE_SPATIAL_PROCESSOR_SIZE',['../namespacevae_1_1core.html#a2cfef63ef73d4ff763f3552f6b10ac20',1,'vae::core']]],
+  ['_5fvae_5fvoice_5ffilter_5ffiltered_5fsize_16',['_VAE_VOICE_FILTER_FILTERED_SIZE',['../namespacevae_1_1core.html#a77c71503a454ba5d22c059fc961cddb9',1,'vae::core']]],
+  ['_5fvae_5fvoice_5fhrtf_5fsize_17',['_VAE_VOICE_HRTF_SIZE',['../namespacevae_1_1core.html#a3af8a2a4bbcc7f59162c13e96b501916',1,'vae::core']]],
+  ['_5fvae_5fvoice_5fpan_5fpip_5fsize_18',['_VAE_VOICE_PAN_PIP_SIZE',['../namespacevae_1_1core.html#a219690f92e3e06f9388d072800fc3c0f',1,'vae::core']]],
+  ['_5fvae_5fvoice_5fsize_19',['_VAE_VOICE_SIZE',['../namespacevae_1_1core.html#a66c3adf094697231fb7231b03329912c',1,'vae::core']]],
+  ['_5fvae_5fworker_5fsize_20',['_VAE_WORKER_SIZE',['../classvae_1_1core_1_1_device.html#a85b03abc47a0596d619201523122ee40',1,'vae::core::Device']]]
+];
