@@ -1,0 +1,11 @@
+<map id="reverb_gen.hpp" name="reverb_gen.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="61,5,184,32"/>
+<area shape="rect" id="node2" href="$vae__effects__list_8hpp.html" title=" " alt="" coords="46,80,199,107"/>
+<area shape="rect" id="node3" href="$vae__effects__factory_8hpp.html" title=" " alt="" coords="34,155,211,181"/>
+<area shape="rect" id="node4" href="$vae__bank__manager_8hpp.html" title=" " alt="" coords="35,229,211,256"/>
+<area shape="rect" id="node5" href="$vae__engine_8hpp.html" title=" " alt="" coords="45,453,171,480"/>
+<area shape="rect" id="node8" href="$vae__spatial__manager_8hpp.html" title=" " alt="" coords="95,304,283,331"/>
+<area shape="rect" id="node6" href="$main_8cpp.html" title=" " alt="" coords="5,528,88,555"/>
+<area shape="rect" id="node7" href="$vae__pimpl_8cpp.html" title=" " alt="" coords="112,528,229,555"/>
+<area shape="rect" id="node9" href="$vae__spatial__processor_8hpp.html" title=" " alt="" coords="146,379,339,405"/>
+</map>

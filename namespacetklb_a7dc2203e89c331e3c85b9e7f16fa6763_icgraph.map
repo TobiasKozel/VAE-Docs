@@ -1,0 +1,71 @@
+<map id="tklb::max" name="tklb::max">
+<area shape="rect" id="node1" title=" " alt="" coords="1717,489,1801,515"/>
+<area shape="rect" id="node2" href="$structvae_1_1core_1_1effect_1_1_u_i.html#a805fa81e02bb21a41d50f297c935dbbc" title=" " alt="" coords="1475,28,1669,69"/>
+<area shape="rect" id="node3" href="$structvae_1_1core_1_1effect_1_1_u_i.html#a0932a3f853c77e270f5ad6564d494dee" title=" " alt="" coords="1495,93,1649,135"/>
+<area shape="rect" id="node5" href="$structtklb_1_1_std_allocator.html#a2d7d53deb36d3cd889dd246ae91243f2" title=" " alt="" coords="1505,159,1639,200"/>
+<area shape="rect" id="node6" href="$structvae_1_1core_1_1memory_1_1_allocator.html#ab9d50dc662897c7fe691368feffa2f98" title=" " alt="" coords="1495,224,1649,265"/>
+<area shape="rect" id="node14" href="$classvae_1_1core_1_1_h_r_t_f_loader.html#a38e07107ad81acdbaed1ac6874978534" title=" " alt="" coords="957,95,1125,136"/>
+<area shape="rect" id="node18" href="$namespacetklb.html#a0a519f635e29bdadb0f815972f8c693c" title=" " alt="" coords="1525,341,1619,367"/>
+<area shape="rect" id="node19" href="$structvae_1_1core_1_1_h_r_t_f_util.html#a392b376835a2b07a508377e8471a4525" title="Looks for the best matching IR in a HRTF." alt="" coords="1499,416,1645,457"/>
+<area shape="rect" id="node20" href="$classtklb_1_1_heap_buffer.html#a682dc231ff65beb7114cb0e476affd6b" title=" " alt="" coords="1481,481,1663,523"/>
+<area shape="rect" id="node36" href="$classtklb_1_1_audio_buffer_tpl.html#af91434689c277747417b84a3717cd811" title="calculate the scale factor needed between the types" alt="" coords="1493,547,1651,588"/>
+<area shape="rect" id="node37" href="$classvae_1_1core_1_1_device.html#aaab56a24f9f040b6a4be004ff94eff40" title="initializes buffers, queues and resamplers if needed Has to be called in openDevice once the samplera..." alt="" coords="1490,613,1654,639"/>
+<area shape="rect" id="node42" href="$classtklb_1_1_audio_buffer_tpl.html#a69b2ad6d83210aad8ea20338af06e247" title="Figure out if conversions between types like float &#45;&gt; int or int &#45;&gt; short need scaling applied." alt="" coords="1496,664,1648,705"/>
+<area shape="rect" id="node43" href="$classvae_1_1core_1_1_voice_manger.html#a56795adf1dfc9e96a8ef00fba1ae03ca" title=" " alt="" coords="1486,805,1658,847"/>
+<area shape="rect" id="node52" href="$classvae_1_1core_1_1_engine.html#afecf53f2eaf92d13a933c05c821b3819" title="Main processing function." alt="" coords="703,1049,845,1091"/>
+<area shape="rect" id="node58" href="$classtklb_1_1_audio_buffer_tpl.html#aa499f1955434db5b9a50811c47b7e6ba" title="Resize to the provided length and keep the channelcount." alt="" coords="1496,1061,1648,1103"/>
+<area shape="rect" id="node59" href="$classvae_1_1core_1_1_voice_manger.html#a51b077f535b7eebcc1e62d5ca5a0d95d" title="Stops a voice." alt="" coords="1486,1127,1658,1168"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1effect_1_1_v_a_e_reverb.html#a7910cdc1f3703dda297ad01370e31307" title=" " alt="" coords="1204,93,1427,135"/>
+<area shape="rect" id="node7" href="$classvae_1_1core_1_1_bank_loader.html#aa6ba40f8098e00d26c335490092fa10a" title=" " alt="" coords="1232,159,1399,200"/>
+<area shape="rect" id="node13" href="$classvae_1_1core_1_1_h_r_t_f_loader.html#a7c489c0405f35d7b636509be7ed302fb" title=" " alt="" coords="1231,224,1399,265"/>
+<area shape="rect" id="node8" href="$classvae_1_1core_1_1_bank_loader.html#a2a1f294f67b451b337f65b033dd6f0bd" title="Load a bank.json and all wav files referenced in it." alt="" coords="957,29,1124,71"/>
+<area shape="rect" id="node9" href="$classvae_1_1core_1_1_bank_manager.html#a246219d73b46775ec119e704c758dd0b" title=" " alt="" coords="685,29,863,71"/>
+<area shape="rect" id="node10" href="$classvae_1_1core_1_1_engine.html#a97b644aa0736003315870a1e05620ac3" title="Load bank from filesystem." alt="" coords="480,103,623,144"/>
+<area shape="rect" id="node11" href="$classvae_1_1_engine_pimpl.html#a1843b334cf225ba8b3f85c0c64fd78bb" title="Load bank from filesystem." alt="" coords="227,110,431,137"/>
+<area shape="rect" id="node12" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="65,779,119,806"/>
+<area shape="rect" id="node15" href="$classvae_1_1core_1_1_spatial_processor.html#ad598b5dcbe8bed69fa6cb0b726170dd3" title=" " alt="" coords="675,95,873,136"/>
+<area shape="rect" id="node16" href="$classvae_1_1core_1_1_engine.html#a98bb7b9ed016675701fb91069fb1a066" title=" " alt="" coords="480,404,623,445"/>
+<area shape="rect" id="node17" href="$classvae_1_1_engine_pimpl.html#a27d216a0e4169074b38559d77b876748" title=" " alt="" coords="227,462,432,489"/>
+<area shape="rect" id="node21" href="$classtklb_1_1_heap_buffer.html#a4cde91bbb793df74ff45d47398d478ad" title="Push the object to the back of the buffer TODO tklb move version." alt="" coords="1231,341,1399,367"/>
+<area shape="rect" id="node25" href="$classtklb_1_1_heap_buffer.html#aea890defe7d21d9273e005464b04f784" title="Resize the buffer If the memory is borrowed it will become unique and owned by this instance as soon ..." alt="" coords="1227,489,1403,515"/>
+<area shape="rect" id="node22" href="$classtklb_1_1_event_bus.html#a2d0bbc8013b6d7ea8ce782a95328f6f9" title=" " alt="" coords="933,161,1149,187"/>
+<area shape="rect" id="node24" href="$string_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="1013,211,1068,238"/>
+<area shape="rect" id="node23" href="$classtklb_1_1_event_bus_1_1_subscription.html#a2d207145c91831a84c72acf78f4d7657" title=" " alt="" coords="672,160,876,201"/>
+<area shape="rect" id="node26" href="$classtklb_1_1_heap_buffer.html#ac595de86ab0e2f33c79034b9e64db0a8" title="Clears the buffer but doesn&#39;t free the memory." alt="" coords="956,262,1125,289"/>
+<area shape="rect" id="node27" href="$classtklb_1_1_heap_buffer.html#a7f018ade21d320cf220186a52e256b93" title="If T is a pointer type, delete will be called for all pointers in buffer and resize(0) is called." alt="" coords="947,313,1134,355"/>
+<area shape="rect" id="node28" href="$classtklb_1_1_heap_buffer.html#a219e440c13837426f4a9f03e12ad769e" title="Setup the buffer with a size." alt="" coords="935,379,1146,406"/>
+<area shape="rect" id="node29" href="$classtklb_1_1_heap_buffer.html#aedbbae6aeac4dab858a9734d7c02d240" title="Provide foreign memory to borrow." alt="" coords="954,430,1127,457"/>
+<area shape="rect" id="node31" href="$classtklb_1_1_convolver_mono_tpl.html#a67f9498b46370c1a273b47ccc4863e21" title="Load a impulse response and prepare the convolution." alt="" coords="953,481,1129,523"/>
+<area shape="rect" id="node32" href="$namespacetklb_1_1ogg.html#a8a0c549ee31780a868d551ff5536c71e" title="Decode ogg/vorbis from memory or file path." alt="" coords="983,547,1098,574"/>
+<area shape="rect" id="node33" href="$namespacetklb_1_1wave.html#aa283efa758de590bb8f167e32a1ba2a5" title="Decode wav from memory or file path." alt="" coords="977,598,1104,625"/>
+<area shape="rect" id="node34" href="$classtklb_1_1_heap_buffer.html#a7a9a54468dbd1fe9b3dbf02fa2b574b4" title="Set data from array." alt="" coords="962,649,1119,675"/>
+<area shape="rect" id="node35" href="$classtklb_1_1_heap_buffer.html#a833c723b6838bb28f7b6886d6df8b65c" title=" " alt="" coords="972,700,1109,741"/>
+<area shape="rect" id="node30" href="$classtklb_1_1_heap_buffer.html#a320950100dd32e8bbf4f5118f41c4533" title="Provide const foreign memory to use Using non const accessors will cause assertions in debug mode." alt="" coords="687,430,861,457"/>
+<area shape="rect" id="node38" href="$classvae_1_1core_1_1_device_dummy.html#ad85627cd3e6556da54cb511720b09f04" title="Tries to open the default audio device whith desired in out channels." alt="" coords="1222,572,1409,613"/>
+<area shape="rect" id="node40" href="$classvae_1_1core_1_1_device_portaudio.html#a9a6538b4e9555085a36b67a1850f333d" title="Opens a specific audio device." alt="" coords="1217,637,1414,679"/>
+<area shape="rect" id="node41" href="$classvae_1_1core_1_1_device_rtaudio.html#a755c0aea3ee53c858f2dc3e61503de95" title="Opens a specific audio device." alt="" coords="1223,703,1408,744"/>
+<area shape="rect" id="node39" href="$classvae_1_1core_1_1_device_dummy.html#af40b5ee7c4ac8116abfcfd41a427b7f7" title="Opens a specific audio device." alt="" coords="947,765,1134,807"/>
+<area shape="rect" id="node44" href="$classvae_1_1core_1_1_engine.html#a4721a2bf236efae669ee51ba148e193a" title="Main mechanism to start and stop sounds." alt="" coords="1244,883,1387,924"/>
+<area shape="rect" id="node45" href="$classvae_1_1_engine_pimpl.html#ad8012513afde9dd3bb976b5440858bef" title="Main mechanism to start and stop sounds." alt="" coords="939,831,1142,858"/>
+<area shape="rect" id="node46" href="$classvae_1_1core_1_1_engine.html#a11a6ae8ce62130f33dad382a4e4cf07e" title="Works like fireEvent but with a global Event identifier." alt="" coords="969,883,1112,924"/>
+<area shape="rect" id="node51" href="$classvae_1_1core_1_1_engine.html#adb4e1cb3bd1ea11bb9d3b806d552fb75" title="Update function needs to be called regularly to handle outbound events and other housekeeping." alt="" coords="969,948,1112,989"/>
+<area shape="rect" id="node47" href="$main_8cpp.html#a7b09579eb01449ba8f8ac324485001c2" title=" " alt="" coords="727,897,821,923"/>
+<area shape="rect" id="node48" href="$main_8cpp.html#a6f5c91847864279624ba2247527e3cea" title=" " alt="" coords="692,947,856,974"/>
+<area shape="rect" id="node49" href="$main_8cpp.html#afe1c3ff6204d9b675caf60b5545e3e54" title=" " alt="" coords="290,779,369,806"/>
+<area shape="rect" id="node50" href="$classvae_1_1_engine_pimpl.html#aee133a1fa8e89e70b4f7414c10d58c62" title="Works like fireEvent but with a global Event identifier." alt="" coords="671,831,877,872"/>
+<area shape="rect" id="node57" href="$classvae_1_1_engine_pimpl.html#a8e9296021147373d9b8c415c460fe842" title="Update function needs to be called regularly to handle outbound events and other housekeeping." alt="" coords="680,998,868,1025"/>
+<area shape="rect" id="node53" href="$classvae_1_1core_1_1_engine.html#ab31b2381a1d916efdcffe8db7971ce15" title="Called from audio device when it needs more audio." alt="" coords="480,984,623,1025"/>
+<area shape="rect" id="node56" href="$classvae_1_1core_1_1_engine.html#aca852d5c0e30b0641582f175bf95fbea" title="Called from own audio thread, not the device." alt="" coords="480,1049,623,1091"/>
+<area shape="rect" id="node54" href="$classvae_1_1core_1_1_engine.html#aa974f739b3f2dc8004eede720d01d229" title="Tries to open default device and start audio thread." alt="" coords="258,984,401,1025"/>
+<area shape="rect" id="node55" href="$classvae_1_1_engine_pimpl.html#af773bc095b97e185c17b23a702572479" title="Tries to open default device and start audio thread." alt="" coords="5,991,179,1018"/>
+<area shape="rect" id="node60" href="$classvae_1_1core_1_1_voice_manger.html#a9df59537b8863e7f8add0eb11553942a" title="Callback provided to iterate voices, needs to return a bool to indicate when a voice needs to be stop..." alt="" coords="1229,1061,1401,1103"/>
+<area shape="rect" id="node63" href="$classvae_1_1core_1_1_engine.html#abb865b15d89996cc1fe51bcd9089443f" title="Unregister a emiter an kill all its voices." alt="" coords="1244,1127,1387,1168"/>
+<area shape="rect" id="node65" href="$classvae_1_1core_1_1_voice_manger.html#a2a7b9612c7a656a0a0978d6a8498c04b" title="Stop voice based on a member value and optionally an emitter." alt="" coords="1229,1192,1401,1233"/>
+<area shape="rect" id="node66" href="$classvae_1_1core_1_1_engine.html#afbff0864c479d3e2d12ff92ab23429ae" title="Stop all voices from emitter." alt="" coords="1244,1257,1387,1299"/>
+<area shape="rect" id="node68" href="$classvae_1_1core_1_1_engine.html#abea30c08570fa87a026542a8c2abdc4e" title="Unload bank from handle." alt="" coords="1244,1323,1387,1364"/>
+<area shape="rect" id="node61" href="$classvae_1_1core_1_1_processor.html#a3ad452ff4deb16a37907fd5fd6390f85" title="Process a single bank." alt="" coords="947,1065,1134,1091"/>
+<area shape="rect" id="node62" href="$classvae_1_1core_1_1_spatial_processor.html#a9acbf42573db468c02381dadb81f3fcd" title="Process a single bank." alt="" coords="925,1139,1156,1166"/>
+<area shape="rect" id="node64" href="$classvae_1_1_engine_pimpl.html#ac099c7622ce0ac5cf6b7bd78e79e5d27" title="Unregister a emiter an kill all its voices." alt="" coords="944,1191,1137,1232"/>
+<area shape="rect" id="node67" href="$classvae_1_1_engine_pimpl.html#add7390f50b78d7ace8ccebc9fa84f6bc" title="Stop all voices from emitter." alt="" coords="931,1258,1150,1285"/>
+<area shape="rect" id="node69" href="$classvae_1_1_engine_pimpl.html#ac6486cc1ff31aeacf852766bb6890f10" title="Unload bank from handle." alt="" coords="947,1360,1134,1401"/>
+</map>

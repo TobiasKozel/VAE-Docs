@@ -1,0 +1,8 @@
+<map id="vae::core::MixerProcessor::init" name="vae::core::MixerProcessor::init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,195,105"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_effects_processor.html#ac3ac18c642115e7d7046d3bbc2a0dd41" title=" " alt="" coords="243,64,441,105"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_audio_buffer_tpl.html#a35b40f6d6b1fc2939613b1b84313b0bc" title="! Will not keep the contents! Resizes the buffer to the desired length and channel count." alt="" coords="489,64,641,105"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_audio_buffer_tpl.html#a7859b26033cbb893c2ea7acea54d8013" title="Returns the amount of channels." alt="" coords="689,5,841,47"/>
+<area shape="rect" id="node5" href="$namespacetklb.html#a3080595da18d742645ec41d61828a426" title=" " alt="" coords="725,71,805,98"/>
+<area shape="rect" id="node6" href="$classtklb_1_1_audio_buffer_tpl.html#af6df8d7e6840eee3f84807bd1662c3ed" title="Returns the allocated length of the buffer." alt="" coords="689,123,841,164"/>
+</map>

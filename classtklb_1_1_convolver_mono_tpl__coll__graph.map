@@ -1,0 +1,21 @@
+<map id="tklb::ConvolverMonoTpl&lt; T &gt;" name="tklb::ConvolverMonoTpl&lt; T &gt;">
+<area shape="rect" id="node1" title="Single stage mono convolver based on HiFi&#45;Lofis convolver The FFT and buffers use the tklb types and ..." alt="" coords="161,2573,376,2695"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,2331,55,2408"/>
+<area shape="rect" id="node3" title=" " alt="" coords="107,2331,265,2408"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_heap_buffer.html" title=" " alt="" coords="237,1172,436,1513"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_heap_buffer.html" title="Basically a bad std::vector without exceptions which can also work with foreign memory." alt="" coords="361,432,552,729"/>
+<area shape="rect" id="node16" href="$classtklb_1_1_heap_buffer.html" title=" " alt="" coords="367,792,547,1148"/>
+<area shape="rect" id="node6" title=" " alt="" coords="503,241,563,318"/>
+<area shape="rect" id="node7" href="$structtklb_1_1_std_allocator.html" title=" " alt="" coords="269,204,412,355"/>
+<area shape="rect" id="node8" href="$structtklb_1_1_std_allocator.html" title=" " alt="" coords="255,5,427,141"/>
+<area shape="rect" id="node9" title=" " alt="" coords="436,241,477,318"/>
+<area shape="rect" id="node10" title=" " alt="" coords="924,241,1027,318"/>
+<area shape="rect" id="node11" href="$classtklb_1_1_f_f_tpffft.html" title=" " alt="" coords="549,2301,657,2437"/>
+<area shape="rect" id="node12" title=" " alt="" coords="481,2015,595,2092"/>
+<area shape="rect" id="node13" href="$classtklb_1_1_audio_buffer_tpl.html" title=" " alt="" coords="619,1883,795,2224"/>
+<area shape="rect" id="node14" href="$classtklb_1_1_audio_buffer_tpl.html" title="Class for handling the most basic audio needs." alt="" coords="619,1537,795,1820"/>
+<area shape="rect" id="node15" title=" " alt="" coords="925,931,1082,1009"/>
+<area shape="rect" id="node17" title=" " alt="" coords="571,931,620,1009"/>
+<area shape="rect" id="node18" title=" " alt="" coords="644,931,757,1009"/>
+<area shape="rect" id="node19" title=" " alt="" coords="781,931,900,1009"/>
+</map>

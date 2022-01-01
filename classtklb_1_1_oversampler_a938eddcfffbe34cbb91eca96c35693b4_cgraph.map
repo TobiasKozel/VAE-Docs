@@ -1,0 +1,11 @@
+<map id="tklb::Oversampler::process" name="tklb::Oversampler::process">
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,152,139"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_audio_buffer_tpl.html#a97728ddd08f299f5965e4e4b519d3809" title="Fills an 2d array of size maxChannels() with pointers to each channel." alt="" coords="200,64,352,105"/>
+<area shape="rect" id="node9" href="$classtklb_1_1_audio_buffer_tpl.html#af6df8d7e6840eee3f84807bd1662c3ed" title="Returns the allocated length of the buffer." alt="" coords="200,129,352,171"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_audio_buffer_tpl.html#a4e0c07e687fa445e8b058381a696d0b7" title=" " alt="" coords="412,5,569,47"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_audio_buffer_tpl.html#aee0540e90ae2790f9a809917bc5a04fd" title=" " alt="" coords="629,71,811,98"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_audio_buffer_tpl.html#ad8dfcd5de2eff24076178f14474b4751" title="Fill the provided array with the contents of this buffer." alt="" coords="400,122,581,149"/>
+<area shape="rect" id="node6" href="$namespacetklb_1_1memory.html#ab89ec197028f903f4ea125eae46c4a10" title="memcpy wrapper" alt="" coords="645,122,795,149"/>
+<area shape="rect" id="node7" href="$namespacetklb.html#a3080595da18d742645ec41d61828a426" title=" " alt="" coords="680,173,760,199"/>
+<area shape="rect" id="node8" href="$classtklb_1_1_audio_buffer_tpl.html#a86cec40e8c99a90d93db996d92ddfece" title="Returns the length of actually valid audio in the buffer." alt="" coords="644,224,796,265"/>
+</map>

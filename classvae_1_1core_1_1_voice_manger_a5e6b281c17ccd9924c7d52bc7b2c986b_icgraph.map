@@ -1,0 +1,7 @@
+<map id="vae::core::VoiceManger::stopEmitter" name="vae::core::VoiceManger::stopEmitter">
+<area shape="rect" id="node1" title="Stop all voice from a emitter." alt="" coords="463,39,635,80"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_engine.html#abb865b15d89996cc1fe51bcd9089443f" title=" " alt="" coords="272,5,415,47"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1_engine.html#afbff0864c479d3e2d12ff92ab23429ae" title="Stop all voices from emitter." alt="" coords="272,71,415,112"/>
+<area shape="rect" id="node3" href="$classvae_1_1_engine_pimpl.html#ac099c7622ce0ac5cf6b7bd78e79e5d27" title=" " alt="" coords="18,5,211,47"/>
+<area shape="rect" id="node5" href="$classvae_1_1_engine_pimpl.html#add7390f50b78d7ace8ccebc9fa84f6bc" title="Stop all voices from emitter." alt="" coords="5,78,224,105"/>
+</map>

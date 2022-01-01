@@ -1,0 +1,5 @@
+<map id="tklb::memory::tracer::checkHeap" name="tklb::memory::tracer::checkHeap">
+<area shape="rect" id="node1" title="Checks the MagicBlocks for all allocations." alt="" coords="5,5,161,47"/>
+<area shape="rect" id="node2" href="$structtklb_1_1memory_1_1tracer_1_1_magic_block.html#ad6d7ec91fc6ebe3cf9ff6326f1d4bfc2" title="checks if the allocation is still intact" alt="" coords="209,5,365,47"/>
+<area shape="rect" id="node3" href="$structtklb_1_1memory_1_1tracer_1_1_magic_block.html#a79e6e6f126eaf3a73f2f16530da06158" title=" " alt="" coords="413,5,583,47"/>
+</map>

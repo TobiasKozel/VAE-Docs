@@ -1,0 +1,4 @@
+<map id="vae::EnginePimpl::stop" name="vae::EnginePimpl::stop">
+<area shape="rect" id="node1" title="Stops processing and waits for audio thead to clean up." alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_engine.html#a92b20a72012c37bb553a9e064fbf3882" title="Stops processing and waits for audio thead to clean up." alt="" coords="224,5,395,32"/>
+</map>

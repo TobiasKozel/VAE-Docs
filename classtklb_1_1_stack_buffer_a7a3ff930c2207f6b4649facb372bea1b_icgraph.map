@@ -1,0 +1,13 @@
+<map id="tklb::StackBuffer::size" name="tklb::StackBuffer::size">
+<area shape="rect" id="node1" title="Returns the amount of elements in the container." alt="" coords="443,194,608,221"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_event_bus.html#a64551167ab4214545bcca21bc056e7ab" title=" " alt="" coords="212,70,395,97"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_stack_buffer.html#a28d2735cec547bed463b7fe53f64d964" title="! Doesn&#39;t do anything" alt="" coords="234,121,373,163"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_stack_buffer.html#a0bc626a85358bcfd1f950be8aa983033" title="Resize the buffer If the memory is borrowed it will become unique and owned by this instance as soon ..." alt="" coords="234,187,373,228"/>
+<area shape="rect" id="node8" href="$classtklb_1_1_stack_buffer.html#a009f35b399fd54fd358d101f2b3ccb80" title="Setup the buffer with a size." alt="" coords="15,253,154,295"/>
+<area shape="rect" id="node10" href="$classtklb_1_1_stack_buffer.html#aba85db83485537c7932e78ce6e14f14b" title="Resizes and copies the contents of the source Buffer This will do a memory::copy,so none of the objec..." alt="" coords="224,327,383,354"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_stack_buffer.html#ac65d8fac750e16fe0408f4db13a129fa" title="Clears the buffer but doesn&#39;t free the memory." alt="" coords="15,5,154,47"/>
+<area shape="rect" id="node6" href="$classtklb_1_1_stack_buffer.html#af94f2cf470e5657c94d94b27b31544cd" title="If T is a pointer type, delete will be called for all pointers in buffer and resize(0) is called." alt="" coords="15,71,154,112"/>
+<area shape="rect" id="node7" href="$classtklb_1_1_stack_buffer.html#a9d4bc70afedaeb36aa5743a86382d145" title="Set data from array." alt="" coords="5,137,164,163"/>
+<area shape="rect" id="node9" href="$classtklb_1_1_stack_buffer.html#a989ca33fdbf9932a81b683f33bf071d5" title=" " alt="" coords="15,188,154,229"/>
+<area shape="rect" id="node11" href="$classtklb_1_1_stack_buffer.html#ad2b79ee683c21e8b6aa6236bf50813a3" title="Copy Constructor, calls set() Failed allocations have to be checked." alt="" coords="15,320,154,361"/>
+</map>

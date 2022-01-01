@@ -1,0 +1,7 @@
+<map id="vae::core::SpatialProcessor::init" name="vae::core::SpatialProcessor::init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,204,105"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_audio_buffer_tpl.html#a35b40f6d6b1fc2939613b1b84313b0bc" title="! Will not keep the contents! Resizes the buffer to the desired length and channel count." alt="" coords="252,64,404,105"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_audio_buffer_tpl.html#a7859b26033cbb893c2ea7acea54d8013" title="Returns the amount of channels." alt="" coords="452,5,604,47"/>
+<area shape="rect" id="node4" href="$namespacetklb.html#a3080595da18d742645ec41d61828a426" title=" " alt="" coords="488,71,568,98"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_audio_buffer_tpl.html#af6df8d7e6840eee3f84807bd1662c3ed" title="Returns the allocated length of the buffer." alt="" coords="452,123,604,164"/>
+</map>

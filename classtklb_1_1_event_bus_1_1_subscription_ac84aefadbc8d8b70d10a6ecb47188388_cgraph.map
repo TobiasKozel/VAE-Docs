@@ -1,0 +1,5 @@
+<map id="tklb::EventBus::Subscription::~Subscription" name="tklb::EventBus::Subscription::~Subscription">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,209,47"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_event_bus.html#ac52a735b0aa31b6e5a19a23b3b267660" title=" " alt="" coords="257,13,500,39"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_heap_buffer.html#a14c3dc8f50da994d41cc098049b65b2f" title="Removes the object at a given index and fills the gap with another Will never shrink the buffer/alloc..." alt="" coords="548,13,735,39"/>
+</map>

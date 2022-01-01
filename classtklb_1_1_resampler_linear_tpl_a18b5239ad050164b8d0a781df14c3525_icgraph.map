@@ -1,0 +1,5 @@
+<map id="tklb::ResamplerLinearTpl::init" name="tklb::ResamplerLinearTpl::init">
+<area shape="rect" id="node1" title="setup the resampler" alt="" coords="239,39,424,80"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_resampler_linear_tpl.html#a46ae5f07a9f880e5b6bda4884c382816" title="Resamples the provided buffer from its sampleRate to the target rate." alt="" coords="5,5,191,47"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_resampler_linear_tpl.html#a73a24771d54b98f9b09446b5acf1203a" title=" " alt="" coords="5,71,191,112"/>
+</map>

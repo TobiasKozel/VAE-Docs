@@ -1,0 +1,7 @@
+<map id="vae::core::effect::EffectsList" name="vae::core::effect::EffectsList">
+<area shape="rect" id="node1" title=" " alt="" coords="33,403,169,524"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,255,65,333"/>
+<area shape="rect" id="node3" href="$structvae_1_1core_1_1effect_1_1_effects_list_1_1_registered_effect.html" title=" " alt="" coords="89,248,296,340"/>
+<area shape="rect" id="node4" title=" " alt="" coords="105,57,155,134"/>
+<area shape="rect" id="node5" href="$classvae_1_1core_1_1effect_1_1_effect_base.html" title="Base for all effects." alt="" coords="180,5,331,185"/>
+</map>

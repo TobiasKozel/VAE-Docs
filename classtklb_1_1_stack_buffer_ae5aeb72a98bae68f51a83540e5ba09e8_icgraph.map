@@ -1,0 +1,6 @@
+<map id="tklb::StackBuffer::data" name="tklb::StackBuffer::data">
+<area shape="rect" id="node1" title=" " alt="" coords="399,59,567,85"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_stack_buffer.html#aba85db83485537c7932e78ce6e14f14b" title="Resizes and copies the contents of the source Buffer This will do a memory::copy,so none of the objec..." alt="" coords="192,29,351,56"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_stack_buffer.html#a89b2de2769b4e5fba8a374e1ae3f2814" title=" " alt="" coords="202,81,341,122"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_stack_buffer.html#ad2b79ee683c21e8b6aa6236bf50813a3" title="Copy Constructor, calls set() Failed allocations have to be checked." alt="" coords="5,22,144,63"/>
+</map>

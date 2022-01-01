@@ -1,0 +1,4 @@
+<map id="tklb::AudioBufferTpl::needsScaling" name="tklb::AudioBufferTpl::needsScaling">
+<area shape="rect" id="node1" title="Figure out if conversions between types like float &#45;&gt; int or int &#45;&gt; short need scaling applied." alt="" coords="5,5,157,47"/>
+<area shape="rect" id="node2" href="$namespacetklb.html#a7dc2203e89c331e3c85b9e7f16fa6763" title=" " alt="" coords="205,13,289,39"/>
+</map>

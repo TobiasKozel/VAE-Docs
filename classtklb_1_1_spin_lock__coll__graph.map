@@ -1,0 +1,4 @@
+<map id="tklb::SpinLock" name="tklb::SpinLock">
+<area shape="rect" id="node1" title="Spinlock ! probably not thread safe." alt="" coords="5,145,119,340"/>
+<area shape="rect" id="node2" title=" " alt="" coords="37,5,87,83"/>
+</map>

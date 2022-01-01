@@ -1,0 +1,8 @@
+<map id="tklb::HeapBuffer&lt; T, ALIGNMENT, ALLOCATOR, SIZE &gt;" name="tklb::HeapBuffer&lt; T, ALIGNMENT, ALLOCATOR, SIZE &gt;">
+<area shape="rect" id="node1" title="Basically a bad std::vector without exceptions which can also work with foreign memory." alt="" coords="124,432,315,729"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,241,65,318"/>
+<area shape="rect" id="node3" href="$structtklb_1_1_std_allocator.html" title=" " alt="" coords="89,204,232,355"/>
+<area shape="rect" id="node4" href="$structtklb_1_1_std_allocator.html" title=" " alt="" coords="75,5,247,141"/>
+<area shape="rect" id="node5" title=" " alt="" coords="256,241,297,318"/>
+<area shape="rect" id="node6" title=" " alt="" coords="321,241,424,318"/>
+</map>

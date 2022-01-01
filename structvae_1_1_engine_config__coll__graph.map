@@ -1,0 +1,11 @@
+<map id="vae::EngineConfig" name="vae::EngineConfig">
+<area shape="rect" id="node1" title="Settings for the engine defined at EnginePimpl::init." alt="" coords="327,388,467,465"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,145,56,223"/>
+<area shape="rect" id="node3" title=" " alt="" coords="113,145,151,223"/>
+<area shape="rect" id="node4" href="$structvae_1_1_event_callback_data.html" title="Struct containing relevant data passed to EventCallback provided in the EngineConfig." alt="" coords="503,145,681,223"/>
+<area shape="rect" id="node5" title=" " alt="" coords="301,5,363,83"/>
+<area shape="rect" id="node6" title=" " alt="" coords="394,5,507,83"/>
+<area shape="rect" id="node7" title=" " alt="" coords="531,5,650,83"/>
+<area shape="rect" id="node8" title=" " alt="" coords="678,5,781,83"/>
+<area shape="rect" id="node9" title=" " alt="" coords="917,145,968,223"/>
+</map>

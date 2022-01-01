@@ -1,0 +1,7 @@
+<map id="tklb::memory::MemoryPool::allocate" name="tklb::memory::MemoryPool::allocate">
+<area shape="rect" id="node1" title=" " alt="" coords="252,104,451,145"/>
+<area shape="rect" id="node2" href="$classtklb_1_1memory_1_1_memory_pool.html#a23f0f8e6cc9408d522b0165dd0f01ac2" title="Allocate aligned if simd is enabled." alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node3" href="$classtklb_1_1memory_1_1_memory_pool.html#a951792ad0910d0021090392177d55016" title="Allocates space for num of structs with size size and clears the memory." alt="" coords="5,71,204,112"/>
+<area shape="rect" id="node4" href="$classtklb_1_1memory_1_1_memory_pool.html#a301c267409edb5215554aa4e0f31d79f" title="Acts like new." alt="" coords="5,136,204,177"/>
+<area shape="rect" id="node5" href="$classtklb_1_1memory_1_1_memory_pool.html#ae30b6008cc2e0f521267672170a75a08" title=" " alt="" coords="5,201,204,243"/>
+</map>

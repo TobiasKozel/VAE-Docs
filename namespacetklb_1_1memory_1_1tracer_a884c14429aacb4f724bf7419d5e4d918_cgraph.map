@@ -1,0 +1,7 @@
+<map id="tklb::memory::tracer::deallocateTrace" name="tklb::memory::tracer::deallocateTrace">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,161,80"/>
+<area shape="rect" id="node2" href="$structtklb_1_1memory_1_1tracer_1_1_magic_block.html#ac3781e28e0b7cf54161f1bb26e523ca5" title=" " alt="" coords="209,39,371,80"/>
+<area shape="rect" id="node3" href="$structtklb_1_1memory_1_1tracer_1_1_magic_block.html#ad6d7ec91fc6ebe3cf9ff6326f1d4bfc2" title="checks if the allocation is still intact" alt="" coords="419,5,575,47"/>
+<area shape="rect" id="node5" href="$structtklb_1_1memory_1_1tracer_1_1_magic_block.html#a6ce36eef9e0991197e520cd79677dff3" title="Find the MagicBlock for a given allocation." alt="" coords="419,71,575,112"/>
+<area shape="rect" id="node4" href="$structtklb_1_1memory_1_1tracer_1_1_magic_block.html#a79e6e6f126eaf3a73f2f16530da06158" title=" " alt="" coords="623,5,792,47"/>
+</map>

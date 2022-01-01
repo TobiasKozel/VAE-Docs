@@ -1,0 +1,6 @@
+<map id="tklb::HeapBuffer::remove" name="tklb::HeapBuffer::remove">
+<area shape="rect" id="node1" title="Removes the object at a given index and fills the gap with another Will never shrink the buffer/alloc..." alt="" coords="548,31,735,57"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_heap_buffer.html#a1be24fefb87ca72d8e6b19b215165963" title="If a == comparisin is possible the object itself can be used." alt="" coords="285,5,472,32"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_event_bus.html#ac52a735b0aa31b6e5a19a23b3b267660" title=" " alt="" coords="257,56,500,83"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_event_bus_1_1_subscription.html#ac84aefadbc8d8b70d10a6ecb47188388" title=" " alt="" coords="5,49,209,90"/>
+</map>

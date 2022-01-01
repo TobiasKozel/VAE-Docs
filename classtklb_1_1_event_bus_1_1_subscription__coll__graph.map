@@ -1,0 +1,20 @@
+<map id="tklb::EventBus&lt; EVENT_COUNT, EventId, MutexType &gt;::Subscription&lt; Parameters &gt;" name="tklb::EventBus&lt; EVENT_COUNT, EventId, MutexType &gt;::Subscription&lt; Parameters &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="287,1409,518,1531"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_event_bus_1_1_base_subscription.html" title=" " alt="" coords="5,1218,216,1325"/>
+<area shape="rect" id="node3" title=" " alt="" coords="239,1233,299,1310"/>
+<area shape="rect" id="node4" href="$structtklb_1_1_delegate_3_01void_07_parameters_8_8_8_08_4.html" title=" " alt="" coords="324,1218,481,1325"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_base_delegate.html" title=" " alt="" coords="307,895,453,1031"/>
+<area shape="rect" id="node6" href="$classtklb_1_1_base_delegate.html" title="Stripped down version of this delegate implementation https://github.com/marcmo/delegates/tree/f0938d..." alt="" coords="305,520,452,641"/>
+<area shape="rect" id="node7" title=" " alt="" coords="237,241,299,318"/>
+<area shape="rect" id="node8" title=" " alt="" coords="330,241,427,318"/>
+<area shape="rect" id="node9" href="$classtklb_1_1_event_bus.html" title=" " alt="" coords="505,1196,732,1347"/>
+<area shape="rect" id="node10" href="$classtklb_1_1_heap_buffer.html" title=" " alt="" coords="477,792,760,1133"/>
+<area shape="rect" id="node11" href="$classtklb_1_1_heap_buffer.html" title="Basically a bad std::vector without exceptions which can also work with foreign memory." alt="" coords="523,432,714,729"/>
+<area shape="rect" id="node12" title=" " alt="" coords="463,241,523,318"/>
+<area shape="rect" id="node13" href="$structtklb_1_1_std_allocator.html" title=" " alt="" coords="547,204,690,355"/>
+<area shape="rect" id="node14" href="$structtklb_1_1_std_allocator.html" title=" " alt="" coords="533,5,705,141"/>
+<area shape="rect" id="node15" title=" " alt="" coords="714,241,755,318"/>
+<area shape="rect" id="node16" title=" " alt="" coords="779,241,882,318"/>
+<area shape="rect" id="node17" href="$classtklb_1_1_mutex_dummy.html" title="Dummy Mutex which doesn&#39;t synchronise a all." alt="" coords="784,865,931,1060"/>
+<area shape="rect" id="node18" title=" " alt="" coords="757,1233,867,1310"/>
+</map>

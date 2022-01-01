@@ -1,0 +1,6 @@
+<map id="vae::core::effect::UI::addHorizontalSlider" name="vae::core::effect::UI::addHorizontalSlider">
+<area shape="rect" id="node1" title="The only important function to control the dsp code." alt="" coords="477,39,649,80"/>
+<area shape="rect" id="node2" href="$structvae_1_1core_1_1effect_1_1_u_i.html#a3a1d1d17b4774d8018270f63c652b7b2" title=" " alt="" coords="277,5,428,47"/>
+<area shape="rect" id="node3" href="$structvae_1_1core_1_1effect_1_1_u_i.html#a0932a3f853c77e270f5ad6564d494dee" title=" " alt="" coords="276,71,429,112"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1effect_1_1_v_a_e_reverb.html#a7910cdc1f3703dda297ad01370e31307" title=" " alt="" coords="5,71,228,112"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="vae::core::SpatialManager::createEmitter" name="vae::core::SpatialManager::createEmitter">
+<area shape="rect" id="node1" title=" " alt="" coords="708,83,899,124"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_spatial_manager.html#a5388d4c3de49b246d40dc00a799a04d4" title=" " alt="" coords="469,28,660,69"/>
+<area shape="rect" id="node5" href="$classvae_1_1core_1_1_engine.html#a400114c6a78c8f77d34567004b471bb3" title="Creates an emitter and returns the handle." alt="" coords="493,115,636,156"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_engine.html#aa95114981da90cd3395d48c4bd5cf407" title="Emitter which triggers an event once a listener is close enough." alt="" coords="258,5,401,47"/>
+<area shape="rect" id="node4" href="$classvae_1_1_engine_pimpl.html#a1e36c49dc56f13537413d5480ca61045" title="Emitter which triggers an event once a listener is close enough." alt="" coords="5,5,189,47"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a7b09579eb01449ba8f8ac324485001c2" title=" " alt="" coords="282,71,377,98"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a6f5c91847864279624ba2247527e3cea" title=" " alt="" coords="247,122,411,149"/>
+<area shape="rect" id="node8" href="$classvae_1_1_engine_pimpl.html#a277ff894edce0324148c68cb2d5785ea" title="Creates an emitter and returns the handle." alt="" coords="237,173,421,215"/>
+<area shape="rect" id="node9" href="$main_8cpp.html#afe1c3ff6204d9b675caf60b5545e3e54" title=" " alt="" coords="290,239,369,266"/>
+<area shape="rect" id="node10" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="70,239,125,266"/>
+</map>

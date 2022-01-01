@@ -1,0 +1,4 @@
+<map id="vae::core::HRTFUtil::apply" name="vae::core::HRTFUtil::apply">
+<area shape="rect" id="node1" title="Applies simple time domain convolution." alt="" coords="5,5,152,47"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_audio_buffer_tpl.html#af6df8d7e6840eee3f84807bd1662c3ed" title="Returns the allocated length of the buffer." alt="" coords="200,5,352,47"/>
+</map>

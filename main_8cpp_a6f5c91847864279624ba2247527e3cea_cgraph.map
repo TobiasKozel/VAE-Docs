@@ -1,0 +1,25 @@
+<map id="benchmarkBasicVoice" name="benchmarkBasicVoice">
+<area shape="rect" id="node1" title=" " alt="" coords="5,187,169,214"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_engine.html#a400114c6a78c8f77d34567004b471bb3" title="Creates an emitter and returns the handle." alt="" coords="217,41,360,83"/>
+<area shape="rect" id="node6" href="$classvae_1_1core_1_1_engine.html#a11a6ae8ce62130f33dad382a4e4cf07e" title="Works like fireEvent but with a global Event identifier." alt="" coords="217,151,360,192"/>
+<area shape="rect" id="node17" href="$main_8cpp.html#aa3381590c1ef33c08000c2fbb2bf0dd0" title=" " alt="" coords="260,217,317,243"/>
+<area shape="rect" id="node18" href="$classvae_1_1core_1_1_engine.html#adb4e1cb3bd1ea11bb9d3b806d552fb75" title="Update function needs to be called regularly to handle outbound events and other housekeeping." alt="" coords="217,336,360,377"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_spatial_manager.html#a3b7a584badb78d373db73bde20e5a85b" title=" " alt="" coords="411,19,602,60"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1_spatial_manager.html#a3f3be0983d6adf3ea217d76477f5d43b" title=" " alt="" coords="663,5,854,47"/>
+<area shape="rect" id="node5" href="$classvae_1_1core_1_1_spatial_manager.html#a8223349a8417dbd972f9979618849a4e" title=" " alt="" coords="663,71,854,112"/>
+<area shape="rect" id="node7" href="$classvae_1_1core_1_1_engine.html#a4721a2bf236efae669ee51ba148e193a" title="Main mechanism to start and stop sounds." alt="" coords="435,173,578,215"/>
+<area shape="rect" id="node16" href="$namespacevae_1_1core.html#ad8e8a092991125ada0a95f174838b1b7" title=" " alt="" coords="408,84,605,125"/>
+<area shape="rect" id="node8" href="$classvae_1_1core_1_1_spatial_manager.html#addd80ecf83e30b0814eaee82ae7bd700" title=" " alt="" coords="663,344,854,385"/>
+<area shape="rect" id="node9" href="$classvae_1_1core_1_1_bank_manager.html#a4ec4afe30adb6e0108e799d26070a3a5" title=" " alt="" coords="655,410,863,437"/>
+<area shape="rect" id="node10" href="$classvae_1_1core_1_1_bank_manager.html#aef2d335fb63d6f4be9f5b4793e309c99" title=" " alt="" coords="653,137,864,163"/>
+<area shape="rect" id="node11" href="$classvae_1_1core_1_1_voice_manger.html#a56795adf1dfc9e96a8ef00fba1ae03ca" title=" " alt="" coords="673,188,845,229"/>
+<area shape="rect" id="node14" href="$classvae_1_1core_1_1_voice_manger.html#a51b077f535b7eebcc1e62d5ca5a0d95d" title="Stops a voice." alt="" coords="673,253,845,295"/>
+<area shape="rect" id="node12" href="$classvae_1_1core_1_1_voice_manger.html#aca4814fa5ec2f09d38c7b15e92ce0cad" title="makes provided voice virtual" alt="" coords="912,163,1084,204"/>
+<area shape="rect" id="node13" href="$namespacetklb.html#a7dc2203e89c331e3c85b9e7f16fa6763" title=" " alt="" coords="956,229,1040,255"/>
+<area shape="rect" id="node15" href="$classvae_1_1core_1_1_voice_manger.html#abe6b6d5a07c73e1e194f24314226a19f" title=" " alt="" coords="912,280,1084,321"/>
+<area shape="rect" id="node19" href="$classvae_1_1core_1_1_voice_manger.html#aa113e41a96ba78d05f6651f3920234e7" title=" " alt="" coords="421,487,593,528"/>
+<area shape="rect" id="node20" href="$classvae_1_1core_1_1_spatial_manager.html#afc5a2274a1d6098a64d6cb9d124bb7ed" title=" " alt="" coords="411,552,602,593"/>
+<area shape="rect" id="node21" href="$classvae_1_1core_1_1_bank_manager.html#a5a3fbdf25cfbfa0f5a025a93c892927b" title=" " alt="" coords="417,239,596,280"/>
+<area shape="rect" id="node22" href="$classvae_1_1core_1_1_bank_manager.html#a33ded40dcd72a14c7988112528c72b65" title=" " alt="" coords="417,304,596,345"/>
+<area shape="rect" id="node23" href="$classvae_1_1core_1_1_spatial_manager.html#af36db06e14d8661f0bf637a1d5382adb" title=" " alt="" coords="411,369,602,411"/>
+</map>

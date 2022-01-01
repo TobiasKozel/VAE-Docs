@@ -1,0 +1,4 @@
+<map id="tklb::ResamplerHoldTpl::calculateBufferSize" name="tklb::ResamplerHoldTpl::calculateBufferSize">
+<area shape="rect" id="node1" title="Calculate a buffersize fit for the resampled result." alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_resampler_hold_tpl.html#a7ac6c82ec7ff73dcef0b2fa1f38f6f81" title="Estimate how many sample will be emitted in the next step." alt="" coords="228,5,403,47"/>
+</map>

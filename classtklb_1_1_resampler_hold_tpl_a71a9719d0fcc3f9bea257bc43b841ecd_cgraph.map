@@ -1,0 +1,8 @@
+<map id="tklb::ResamplerHoldTpl::resample" name="tklb::ResamplerHoldTpl::resample">
+<area shape="rect" id="node1" title="Resamples the provided buffer from its sampleRate to the target rate." alt="" coords="5,93,180,135"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_resampler_hold_tpl.html#a5d5e4eb7469336b3d6b0a44f5e4ca4f3" title="Calculate a buffersize fit for the resampled result." alt="" coords="228,5,403,47"/>
+<area shape="rect" id="node4" href="$namespacetklb_1_1memory.html#ab89ec197028f903f4ea125eae46c4a10" title="memcpy wrapper" alt="" coords="241,71,390,98"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_resampler_hold_tpl.html#a038bfb649151a6f9a5a03813eadf9fca" title="setup the resampler" alt="" coords="228,123,403,164"/>
+<area shape="rect" id="node6" href="$classtklb_1_1_resampler_hold_tpl.html#aa64a44904ea30fa9b297835792cfe082" title="Resample function Make sure the out buffer has enough space." alt="" coords="228,188,403,229"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_resampler_hold_tpl.html#a7ac6c82ec7ff73dcef0b2fa1f38f6f81" title="Estimate how many sample will be emitted in the next step." alt="" coords="451,5,625,47"/>
+</map>

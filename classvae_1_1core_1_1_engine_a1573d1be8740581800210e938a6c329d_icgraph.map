@@ -1,0 +1,4 @@
+<map id="vae::core::Engine::addEmitter" name="vae::core::Engine::addEmitter">
+<area shape="rect" id="node1" title="Adds an emitter with a custom handle, can be an internal ID for example." alt="" coords="268,5,411,47"/>
+<area shape="rect" id="node2" href="$classvae_1_1_engine_pimpl.html#a29fdfdc193c0665b762a3ab26e49ea69" title="Adds an emitter with a custom handle, can be an internal ID for example." alt="" coords="5,13,220,39"/>
+</map>

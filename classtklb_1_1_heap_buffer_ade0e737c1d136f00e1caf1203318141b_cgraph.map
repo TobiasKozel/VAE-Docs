@@ -1,0 +1,13 @@
+<map id="tklb::HeapBuffer::reserve" name="tklb::HeapBuffer::reserve">
+<area shape="rect" id="node1" title="Will make sure the desired space is allocated." alt="" coords="5,219,192,246"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_heap_buffer.html#aa2212b76d383c1afe3d4da0448133299" title="Allocated the exact size requsted and copies existing objects." alt="" coords="240,160,429,187"/>
+<area shape="rect" id="node10" href="$classtklb_1_1_heap_buffer.html#ad513a99105213150fe287a8c209f8bc2" title=" " alt="" coords="243,212,426,253"/>
+<area shape="rect" id="node11" href="$classtklb_1_1_heap_buffer.html#a5ec4892e352b8df099fa1c75cfbf328c" title="Returns the amount of elements in the container." alt="" coords="253,278,416,304"/>
+<area shape="rect" id="node3" href="$classtklb_1_1memory_1_1_memory_pool.html#a12db669f354ab3f2037a67db7f0a8229" title=" " alt="" coords="724,14,923,56"/>
+<area shape="rect" id="node4" href="$classtklb_1_1memory_1_1_memory_pool.html#a23f0f8e6cc9408d522b0165dd0f01ac2" title="Allocate aligned if simd is enabled." alt="" coords="477,44,676,85"/>
+<area shape="rect" id="node5" href="$namespacetklb_1_1memory.html#ab89ec197028f903f4ea125eae46c4a10" title="memcpy wrapper" alt="" coords="502,110,651,136"/>
+<area shape="rect" id="node6" href="$classtklb_1_1memory_1_1_memory_pool.html#ae2f6e404a58380b0bcf0f3de281a7546" title=" " alt="" coords="724,182,923,224"/>
+<area shape="rect" id="node7" href="$classtklb_1_1memory_1_1_memory_pool.html#a7b2a7e96e64767e2cff9dfddb9085779" title=" " alt="" coords="477,212,676,253"/>
+<area shape="rect" id="node8" href="$classtklb_1_1_heap_buffer.html#af3331f4c39082c6bedf37b7931b1c27a" title="Whether the memory is managed by the instance or is borrowed." alt="" coords="482,278,671,304"/>
+<area shape="rect" id="node9" href="$namespacetklb.html#a3080595da18d742645ec41d61828a426" title=" " alt="" coords="537,328,617,355"/>
+</map>

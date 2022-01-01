@@ -1,0 +1,18 @@
+<map id="tklb::Oversampler&lt; CHANNELS, MAX_BLOCK &gt;" name="tklb::Oversampler&lt; CHANNELS, MAX_BLOCK &gt;">
+<area shape="rect" id="node1" title="Super simple wrapper for the hiir up and down samplers It only goes up to 4x oversampling Its type is..." alt="" coords="729,2004,955,2243"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_audio_buffer_tpl.html" title=" " alt="" coords="558,1556,734,1897"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_audio_buffer_tpl.html" title="Class for handling the most basic audio needs." alt="" coords="439,1211,615,1493"/>
+<area shape="rect" id="node4" title=" " alt="" coords="407,931,565,1009"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_heap_buffer.html" title=" " alt="" coords="129,792,309,1148"/>
+<area shape="rect" id="node6" href="$classtklb_1_1_heap_buffer.html" title="Basically a bad std::vector without exceptions which can also work with foreign memory." alt="" coords="124,432,315,729"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,241,65,318"/>
+<area shape="rect" id="node8" href="$structtklb_1_1_std_allocator.html" title=" " alt="" coords="89,204,232,355"/>
+<area shape="rect" id="node9" href="$structtklb_1_1_std_allocator.html" title=" " alt="" coords="75,5,247,141"/>
+<area shape="rect" id="node10" title=" " alt="" coords="256,241,297,318"/>
+<area shape="rect" id="node11" title=" " alt="" coords="321,241,424,318"/>
+<area shape="rect" id="node12" title=" " alt="" coords="333,931,383,1009"/>
+<area shape="rect" id="node13" title=" " alt="" coords="736,931,849,1009"/>
+<area shape="rect" id="node14" title=" " alt="" coords="589,931,708,1009"/>
+<area shape="rect" id="node15" title=" " alt="" coords="835,1688,940,1765"/>
+<area shape="rect" id="node16" title=" " alt="" coords="964,1681,1117,1773"/>
+</map>

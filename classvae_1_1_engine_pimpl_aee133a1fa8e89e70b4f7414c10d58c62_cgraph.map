@@ -1,0 +1,15 @@
+<map id="vae::EnginePimpl::fireGlobalEvent" name="vae::EnginePimpl::fireGlobalEvent">
+<area shape="rect" id="node1" title="Works like fireEvent but with a global Event identifier." alt="" coords="5,177,212,219"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_engine.html#a11a6ae8ce62130f33dad382a4e4cf07e" title="Works like fireEvent but with a global Event identifier." alt="" coords="260,177,403,219"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_engine.html#a4721a2bf236efae669ee51ba148e193a" title="Main mechanism to start and stop sounds." alt="" coords="478,144,621,185"/>
+<area shape="rect" id="node13" href="$namespacevae_1_1core.html#ad8e8a092991125ada0a95f174838b1b7" title=" " alt="" coords="451,209,648,251"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1_spatial_manager.html#addd80ecf83e30b0814eaee82ae7bd700" title=" " alt="" coords="706,5,897,47"/>
+<area shape="rect" id="node5" href="$classvae_1_1core_1_1_bank_manager.html#a4ec4afe30adb6e0108e799d26070a3a5" title=" " alt="" coords="697,71,905,98"/>
+<area shape="rect" id="node6" href="$classvae_1_1core_1_1_bank_manager.html#aef2d335fb63d6f4be9f5b4793e309c99" title=" " alt="" coords="696,122,907,149"/>
+<area shape="rect" id="node7" href="$classvae_1_1core_1_1_spatial_manager.html#a8223349a8417dbd972f9979618849a4e" title=" " alt="" coords="706,173,897,215"/>
+<area shape="rect" id="node8" href="$classvae_1_1core_1_1_voice_manger.html#a56795adf1dfc9e96a8ef00fba1ae03ca" title=" " alt="" coords="715,239,887,280"/>
+<area shape="rect" id="node11" href="$classvae_1_1core_1_1_voice_manger.html#a51b077f535b7eebcc1e62d5ca5a0d95d" title="Stops a voice." alt="" coords="715,304,887,345"/>
+<area shape="rect" id="node9" href="$classvae_1_1core_1_1_voice_manger.html#aca4814fa5ec2f09d38c7b15e92ce0cad" title="makes provided voice virtual" alt="" coords="955,212,1127,253"/>
+<area shape="rect" id="node10" href="$namespacetklb.html#a7dc2203e89c331e3c85b9e7f16fa6763" title=" " alt="" coords="999,278,1083,305"/>
+<area shape="rect" id="node12" href="$classvae_1_1core_1_1_voice_manger.html#abe6b6d5a07c73e1e194f24314226a19f" title=" " alt="" coords="955,329,1127,371"/>
+</map>

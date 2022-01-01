@@ -1,0 +1,5 @@
+<map id="vae::EnginePimpl::seek" name="vae::EnginePimpl::seek">
+<area shape="rect" id="node1" title="Set the current time of all voices with the emitter." alt="" coords="5,13,180,39"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_engine.html#ad4d3d2d3295fe6e1de0f347f1e5b10dd" title="Set the current time of all voices with the emitter." alt="" coords="228,13,401,39"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_voice_manger.html#a7ee41f2edab0bd34a0dc436aa9e214ae" title=" " alt="" coords="449,5,621,47"/>
+</map>

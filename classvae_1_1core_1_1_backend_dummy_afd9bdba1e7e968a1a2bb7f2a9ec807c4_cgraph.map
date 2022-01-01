@@ -1,0 +1,6 @@
+<map id="vae::core::BackendDummy::getDefaultOutputDevice" name="vae::core::BackendDummy::getDefaultOutputDevice">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,204,76"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_backend_dummy.html#a99e644e3c0830be83f598ac386030277" title="Returns a spefic device info for index." alt="" coords="252,35,451,76"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_backend_dummy.html#aa0d4785bd54cfd7bb2e718bd42db67ce" title="Returns name of the api." alt="" coords="499,5,697,47"/>
+<area shape="rect" id="node4" href="$namespacetklb_1_1memory.html#a03c76a0f946284624b0bf7dc37ee311a" title=" " alt="" coords="504,71,692,98"/>
+</map>

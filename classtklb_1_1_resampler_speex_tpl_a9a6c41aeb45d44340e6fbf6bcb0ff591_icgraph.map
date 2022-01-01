@@ -1,0 +1,6 @@
+<map id="tklb::ResamplerSpeexTpl::resample" name="tklb::ResamplerSpeexTpl::resample">
+<area shape="rect" id="node1" title="Resamples the provided buffer from its sampleRate to the target rate." alt="" coords="423,39,608,80"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_bank_manager.html#a6542180b77772f1605e211bd851f8996" title=" " alt="" coords="196,5,375,47"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1_bank_manager.html#adbc94fb2b23a418e34a3eda7812d71a6" title=" " alt="" coords="196,71,375,112"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_engine.html#aba4ba7edf58f833125633e7149e4d499" title="Add or replace a source in a bank." alt="" coords="5,5,148,47"/>
+</map>

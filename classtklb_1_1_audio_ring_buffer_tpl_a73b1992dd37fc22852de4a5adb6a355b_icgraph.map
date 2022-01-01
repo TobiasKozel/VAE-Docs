@@ -1,0 +1,6 @@
+<map id="tklb::AudioRingBufferTpl::pop" name="tklb::AudioRingBufferTpl::pop">
+<area shape="rect" id="node1" title="Pops a number of elements in the buffer provided." alt="" coords="521,39,735,65"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_device.html#adb18595d67fedf22e685bef3d1a91177" title="Get samples form audio device." alt="" coords="273,5,440,32"/>
+<area shape="rect" id="node3" href="$structvae_1_1core_1_1_device_1_1_audio_thread_worker.html#a1d6ad75314a363dbb773c16aecb21326" title="Called from audio backend to push in interleaved audio data." alt="" coords="240,56,473,112"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1_device_dummy.html#ac4105d62f1ae237fd9bb8d8bd8dda6a6" title="Simulate the callback from the audio device." alt="" coords="5,63,192,105"/>
+</map>

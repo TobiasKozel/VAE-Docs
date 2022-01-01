@@ -1,0 +1,20 @@
+<map id="tklb::HeapBuffer::isAligned" name="tklb::HeapBuffer::isAligned">
+<area shape="rect" id="node1" title=" " alt="" coords="993,187,1191,214"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_heap_buffer.html#a37d94fdca920347674a4048cdc28452d" title="Allocated the exact size requsted and copies existing objects." alt="" coords="756,187,945,214"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_heap_buffer.html#a4cde91bbb793df74ff45d47398d478ad" title="Push the object to the back of the buffer TODO tklb move version." alt="" coords="531,63,699,90"/>
+<area shape="rect" id="node7" href="$classtklb_1_1_heap_buffer.html#a326582325b9a8f06db3277db63a817c4" title="Will make sure the desired space is allocated." alt="" coords="521,187,708,214"/>
+<area shape="rect" id="node8" href="$classtklb_1_1_heap_buffer.html#aea890defe7d21d9273e005464b04f784" title="Resize the buffer If the memory is borrowed it will become unique and owned by this instance as soon ..." alt="" coords="527,311,703,338"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_event_bus.html#a2d0bbc8013b6d7ea8ce782a95328f6f9" title=" " alt="" coords="257,13,473,39"/>
+<area shape="rect" id="node6" href="$string_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="338,63,393,90"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_event_bus_1_1_subscription.html#a2d207145c91831a84c72acf78f4d7657" title=" " alt="" coords="5,5,209,47"/>
+<area shape="rect" id="node9" href="$classtklb_1_1_heap_buffer.html#ac595de86ab0e2f33c79034b9e64db0a8" title="Clears the buffer but doesn&#39;t free the memory." alt="" coords="281,114,450,141"/>
+<area shape="rect" id="node10" href="$classtklb_1_1_heap_buffer.html#a7f018ade21d320cf220186a52e256b93" title="If T is a pointer type, delete will be called for all pointers in buffer and resize(0) is called." alt="" coords="272,165,459,207"/>
+<area shape="rect" id="node11" href="$classtklb_1_1_heap_buffer.html#a219e440c13837426f4a9f03e12ad769e" title="Setup the buffer with a size." alt="" coords="260,231,471,258"/>
+<area shape="rect" id="node12" href="$classtklb_1_1_heap_buffer.html#aedbbae6aeac4dab858a9734d7c02d240" title="Provide foreign memory to borrow." alt="" coords="279,282,452,309"/>
+<area shape="rect" id="node14" href="$classtklb_1_1_convolver_mono_tpl.html#a67f9498b46370c1a273b47ccc4863e21" title="Load a impulse response and prepare the convolution." alt="" coords="277,333,453,375"/>
+<area shape="rect" id="node15" href="$namespacetklb_1_1ogg.html#a8a0c549ee31780a868d551ff5536c71e" title="Decode ogg/vorbis from memory or file path." alt="" coords="308,399,423,426"/>
+<area shape="rect" id="node16" href="$namespacetklb_1_1wave.html#aa283efa758de590bb8f167e32a1ba2a5" title="Decode wav from memory or file path." alt="" coords="302,450,429,477"/>
+<area shape="rect" id="node17" href="$classtklb_1_1_heap_buffer.html#a7a9a54468dbd1fe9b3dbf02fa2b574b4" title="Set data from array." alt="" coords="287,501,444,527"/>
+<area shape="rect" id="node18" href="$classtklb_1_1_heap_buffer.html#a833c723b6838bb28f7b6886d6df8b65c" title=" " alt="" coords="297,552,434,593"/>
+<area shape="rect" id="node13" href="$classtklb_1_1_heap_buffer.html#a320950100dd32e8bbf4f5118f41c4533" title="Provide const foreign memory to use Using non const accessors will cause assertions in debug mode." alt="" coords="21,282,194,309"/>
+</map>

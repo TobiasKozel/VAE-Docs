@@ -1,0 +1,9 @@
+<map id="tklb::AudioBufferTpl::getRaw" name="tklb::AudioBufferTpl::getRaw">
+<area shape="rect" id="node1" title="Fills an 2d array of size maxChannels() with pointers to each channel." alt="" coords="5,45,157,86"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_audio_buffer_tpl.html#ac59e6eb1a408c183b9e360f473786aec" title=" " alt="" coords="217,15,375,57"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_audio_buffer_tpl.html#a613104aae947423f0fac79142a8bcaf0" title="Fill the provided array with the contents of this buffer." alt="" coords="205,81,387,108"/>
+<area shape="rect" id="node4" href="$namespacetklb_1_1memory.html#ab89ec197028f903f4ea125eae46c4a10" title="memcpy wrapper" alt="" coords="451,5,600,32"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_audio_buffer_tpl.html#a839371a414e21aea2101d9404e3be9c5" title=" " alt="" coords="435,56,616,83"/>
+<area shape="rect" id="node6" href="$namespacetklb.html#a3080595da18d742645ec41d61828a426" title=" " alt="" coords="485,107,565,133"/>
+<area shape="rect" id="node7" href="$classtklb_1_1_audio_buffer_tpl.html#a37f13531bbfb64cff87ab6473f5bea14" title="fReturns the length of actually valid audio in the buffer." alt="" coords="449,158,601,199"/>
+</map>

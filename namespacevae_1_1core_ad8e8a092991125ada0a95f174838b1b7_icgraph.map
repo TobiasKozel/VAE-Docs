@@ -1,0 +1,9 @@
+<map id="vae::core::splitGlobalEventHandle" name="vae::core::splitGlobalEventHandle">
+<area shape="rect" id="node1" title=" " alt="" coords="553,74,751,115"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_engine.html#a11a6ae8ce62130f33dad382a4e4cf07e" title="Works like fireEvent but with a global Event identifier." alt="" coords="363,74,505,115"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#a7b09579eb01449ba8f8ac324485001c2" title=" " alt="" coords="164,5,259,32"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a6f5c91847864279624ba2247527e3cea" title=" " alt="" coords="129,56,293,83"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#afe1c3ff6204d9b675caf60b5545e3e54" title=" " alt="" coords="172,107,251,133"/>
+<area shape="rect" id="node7" href="$classvae_1_1_engine_pimpl.html#aee133a1fa8e89e70b4f7414c10d58c62" title="Works like fireEvent but with a global Event identifier." alt="" coords="108,158,315,199"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,107,60,133"/>
+</map>

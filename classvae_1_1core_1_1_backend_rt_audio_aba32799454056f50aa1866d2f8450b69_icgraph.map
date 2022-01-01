@@ -1,0 +1,5 @@
+<map id="vae::core::BackendRtAudio::getDevice" name="vae::core::BackendRtAudio::getDevice">
+<area shape="rect" id="node1" title="Returns a spefic device info for index." alt="" coords="251,39,448,80"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_backend_rt_audio.html#aa56cdacbee4bdab09b790387557f1006" title=" " alt="" coords="5,5,203,47"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_backend_rt_audio.html#a31000d7bba7734a8a5a29853cdbff7e9" title=" " alt="" coords="5,71,203,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classvae_1_1core_1_1_device.html" title="Interface for audio devices." alt="" coords="5,56,140,83"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_device_dummy.html" title="Backend without functionality." alt="" coords="193,5,380,32"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_device_portaudio.html" title="Portaudio backend implementation." alt="" coords="188,56,385,83"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1_device_rtaudio.html" title=" " alt="" coords="194,107,379,133"/>
+</map>

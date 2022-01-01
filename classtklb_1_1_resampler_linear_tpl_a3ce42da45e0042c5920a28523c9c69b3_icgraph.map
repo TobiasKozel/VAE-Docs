@@ -1,0 +1,6 @@
+<map id="tklb::ResamplerLinearTpl::estimateOut" name="tklb::ResamplerLinearTpl::estimateOut">
+<area shape="rect" id="node1" title=" " alt="" coords="472,39,657,80"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_resampler_linear_tpl.html#a2c65fa75765ef00243aad109aeb8bcf8" title="Calculate a buffersize fit for the resampled result." alt="" coords="239,5,424,47"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_resampler_linear_tpl.html#ac86c7c7ea431078c9bdcd988d3a1bb0c" title="Resample function Make sure the out buffer has enough space." alt="" coords="239,71,424,112"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_resampler_linear_tpl.html#a46ae5f07a9f880e5b6bda4884c382816" title="Resamples the provided buffer from its sampleRate to the target rate." alt="" coords="5,39,191,80"/>
+</map>

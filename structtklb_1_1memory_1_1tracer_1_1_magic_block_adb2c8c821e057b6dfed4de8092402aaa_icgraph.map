@@ -1,0 +1,8 @@
+<map id="tklb::memory::tracer::MagicBlock::construct" name="tklb::memory::tracer::MagicBlock::construct">
+<area shape="rect" id="node1" title="Placement new at the end of the allocation." alt="" coords="219,136,391,177"/>
+<area shape="rect" id="node2" href="$namespacetklb_1_1memory_1_1tracer.html#add2da56b07706b53a564029ad061edc7" title=" " alt="" coords="5,5,171,47"/>
+<area shape="rect" id="node3" href="$namespacetklb_1_1memory_1_1tracer.html#a3336124ebde0db155d7a045638af34f1" title=" " alt="" coords="10,71,166,112"/>
+<area shape="rect" id="node4" href="$namespacetklb_1_1memory_1_1tracer.html#a08271a2b7d60ebf35907fbfad4fc3db1" title=" " alt="" coords="10,136,166,177"/>
+<area shape="rect" id="node5" href="$namespacetklb_1_1memory_1_1tracer.html#a5518546cecc9e0844eec1a009955fb2d" title=" " alt="" coords="10,201,166,243"/>
+<area shape="rect" id="node6" href="$namespacetklb_1_1memory_1_1tracer.html#af5ca005d4fa0d89ede7f4c55e1d53c67" title=" " alt="" coords="10,267,166,308"/>
+</map>

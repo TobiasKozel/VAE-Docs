@@ -1,0 +1,5 @@
+<map id="vae::core::Engine::init" name="vae::core::Engine::init">
+<area shape="rect" id="node1" title="Initializes the engine and does most of the upfront allocations." alt="" coords="217,31,380,57"/>
+<area shape="rect" id="node2" href="$classvae_1_1_engine_pimpl.html#a9512bb5d2b681e39f408901c909034d6" title="Initializes the engine and does most of the upfront allocations." alt="" coords="5,5,169,32"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="60,56,115,83"/>
+</map>

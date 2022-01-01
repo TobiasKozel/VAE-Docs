@@ -1,0 +1,6 @@
+<map id="vae::core::BankManager" name="vae::core::BankManager">
+<area shape="rect" id="node1" title="Holds all the banks." alt="" coords="16,315,195,612"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,160,112,237"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_bank_loader.html" title=" " alt="" coords="137,145,303,252"/>
+<area shape="rect" id="node4" href="$structvae_1_1core_1_1_source_loader.html" title=" " alt="" coords="131,5,309,83"/>
+</map>

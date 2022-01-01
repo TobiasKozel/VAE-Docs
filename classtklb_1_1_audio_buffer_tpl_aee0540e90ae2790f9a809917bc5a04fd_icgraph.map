@@ -1,0 +1,49 @@
+<map id="tklb::AudioBufferTpl::get" name="tklb::AudioBufferTpl::get">
+<area shape="rect" id="node1" title=" " alt="" coords="1715,547,1896,574"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_audio_buffer_tpl.html#a0d113ba98349e39fa7ca674705540ecc" title="Add the provided buffer." alt="" coords="1483,447,1667,474"/>
+<area shape="rect" id="node9" href="$classtklb_1_1_audio_buffer_tpl.html#a97728ddd08f299f5965e4e4b519d3809" title="Fills an 2d array of size maxChannels() with pointers to each channel." alt="" coords="1243,61,1395,103"/>
+<area shape="rect" id="node12" href="$classtklb_1_1_audio_buffer_tpl.html#a08517af96ac560ed4fc96db9c1c7c2b3" title="Multiply two buffers." alt="" coords="1499,276,1651,317"/>
+<area shape="rect" id="node16" href="$classtklb_1_1_audio_buffer_tpl.html#a9cb4d8228bd27408537fd5edeff11b17" title=" " alt="" coords="1499,985,1651,1027"/>
+<area shape="rect" id="node17" href="$classtklb_1_1_audio_buffer_tpl.html#ad8dfcd5de2eff24076178f14474b4751" title="Fill the provided array with the contents of this buffer." alt="" coords="1484,163,1665,190"/>
+<area shape="rect" id="node19" href="$classtklb_1_1_audio_buffer_tpl.html#afbd8ceec9c2a5a6818543ff2d522e060" title="Puts the interleaved contents in the target buffer." alt="" coords="1499,855,1651,896"/>
+<area shape="rect" id="node23" href="$classtklb_1_1_audio_buffer_tpl.html#ab6e5250746ca3784a568591a3ffdbc12" title="Set a single channel from an array." alt="" coords="1485,625,1665,651"/>
+<area shape="rect" id="node47" href="$classtklb_1_1_audio_buffer_tpl.html#a8e7b5b551a8989f9b06a92207c75b47e" title="Set multiple channels from an interleaved array." alt="" coords="1497,920,1653,961"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_engine.html#afecf53f2eaf92d13a933c05c821b3819" title="Main processing function." alt="" coords="697,323,840,364"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1_engine.html#ab31b2381a1d916efdcffe8db7971ce15" title="Called from audio device when it needs more audio." alt="" coords="439,291,582,332"/>
+<area shape="rect" id="node8" href="$classvae_1_1core_1_1_engine.html#aca852d5c0e30b0641582f175bf95fbea" title="Called from own audio thread, not the device." alt="" coords="439,356,582,397"/>
+<area shape="rect" id="node5" href="$classvae_1_1core_1_1_engine.html#aa974f739b3f2dc8004eede720d01d229" title="Tries to open default device and start audio thread." alt="" coords="227,324,369,365"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="65,306,119,333"/>
+<area shape="rect" id="node7" href="$classvae_1_1_engine_pimpl.html#af773bc095b97e185c17b23a702572479" title="Tries to open default device and start audio thread." alt="" coords="5,357,179,383"/>
+<area shape="rect" id="node10" href="$classtklb_1_1_oversampler.html#a938eddcfffbe34cbb91eca96c35693b4" title=" " alt="" coords="971,29,1118,71"/>
+<area shape="rect" id="node11" href="$classvae_1_1core_1_1effect_1_1_faust_base.html#a70f2dc6cc7c3fd4f740c0e5017389434" title=" " alt="" coords="972,95,1117,136"/>
+<area shape="rect" id="node13" href="$classtklb_1_1_f_f_t_ooura.html#acd5e14dc5e02b37dc6fd9c817f1e4b95" title="Frequency domain back to time domain." alt="" coords="1242,178,1397,205"/>
+<area shape="rect" id="node14" href="$classtklb_1_1_f_f_tpffft.html#ac06b2cabd1518b10d59a470a031eedd6" title="Frequency domain back to time domain." alt="" coords="1247,330,1391,357"/>
+<area shape="rect" id="node15" href="$classtklb_1_1_convolver_mono_tpl.html#afeb78068fcf9e6f0a2465029a4e5c380" title="Do the convolution." alt="" coords="957,432,1133,473"/>
+<area shape="rect" id="node18" href="$classtklb_1_1_audio_buffer_tpl.html#a4a38184ead33936e8d4ea6e58f457ba2" title="Fill the provided 2D array with the contents of this buffer." alt="" coords="1229,127,1410,154"/>
+<area shape="rect" id="node20" href="$classvae_1_1core_1_1_engine.html#a124d5e48809bafb4acaed429aaa07920" title=" " alt="" coords="1248,1117,1391,1159"/>
+<area shape="rect" id="node21" href="$structvae_1_1core_1_1_device_1_1_audio_thread_worker.html#a1d6ad75314a363dbb773c16aecb21326" title="Called from audio backend to push in interleaved audio data." alt="" coords="652,993,885,1049"/>
+<area shape="rect" id="node22" href="$classvae_1_1core_1_1_device_dummy.html#ac4105d62f1ae237fd9bb8d8bd8dda6a6" title="Simulate the callback from the audio device." alt="" coords="417,1000,604,1041"/>
+<area shape="rect" id="node24" href="$classtklb_1_1_audio_buffer_tpl.html#a0d525b2972694ac9ab4028190467de18" title="Match the size of the provided buffer and copy the contents." alt="" coords="1243,533,1395,575"/>
+<area shape="rect" id="node25" href="$classtklb_1_1_f_f_t_ooura.html#a4704a076acce36be2f136e3a455b5daf" title="timedomain to frequency domain" alt="" coords="1232,599,1407,626"/>
+<area shape="rect" id="node26" href="$classtklb_1_1_f_f_tpffft.html#a8971ae1880c636893144a0d7cadb80ba" title="timedomain to frequency domain" alt="" coords="1238,482,1401,509"/>
+<area shape="rect" id="node28" href="$classvae_1_1core_1_1_device.html#aaab56a24f9f040b6a4be004ff94eff40" title="initializes buffers, queues and resamplers if needed Has to be called in openDevice once the samplera..." alt="" coords="1237,701,1401,727"/>
+<area shape="rect" id="node33" href="$classvae_1_1core_1_1_effects_processor.html#a460a07e9049a636b7808d575d6d41baa" title=" " alt="" coords="1204,650,1435,677"/>
+<area shape="rect" id="node35" href="$classtklb_1_1_audio_ring_buffer_tpl.html#a376759b29135ae4deeaa61eca9a0ea4e" title="Puts a number of elements in the buffer provided." alt="" coords="1229,752,1410,793"/>
+<area shape="rect" id="node38" href="$classtklb_1_1_resampler_speex_tpl.html#ad536684ea5e815d1dd7d967127ecfb95" title="Resample function Make sure the out buffer has enough space." alt="" coords="1227,1000,1412,1041"/>
+<area shape="rect" id="node44" href="$classtklb_1_1_audio_ring_buffer_tpl.html#a4a1f2614ea727a4c26bd8936fa9e97d9" title="Adds validSize() amount of frames to the buffer." alt="" coords="1229,817,1410,859"/>
+<area shape="rect" id="node45" href="$classtklb_1_1_audio_ring_buffer_tpl.html#a126edfbcafc1a3dc043b536b618be945" title=" " alt="" coords="1229,883,1410,924"/>
+<area shape="rect" id="node46" href="$classtklb_1_1_audio_buffer_tpl.html#a66ed28c52f02ba22c89f9bbfed1cbe8c" title="Set multiple channels from a 2D array." alt="" coords="1229,949,1409,975"/>
+<area shape="rect" id="node27" href="$classtklb_1_1_convolver_mono_tpl.html#a67f9498b46370c1a273b47ccc4863e21" title="Load a impulse response and prepare the convolution." alt="" coords="957,497,1133,539"/>
+<area shape="rect" id="node29" href="$classvae_1_1core_1_1_device_dummy.html#ad85627cd3e6556da54cb511720b09f04" title="Tries to open the default audio device whith desired in out channels." alt="" coords="951,759,1138,800"/>
+<area shape="rect" id="node31" href="$classvae_1_1core_1_1_device_portaudio.html#a9a6538b4e9555085a36b67a1850f333d" title="Opens a specific audio device." alt="" coords="946,628,1143,669"/>
+<area shape="rect" id="node32" href="$classvae_1_1core_1_1_device_rtaudio.html#a755c0aea3ee53c858f2dc3e61503de95" title="Opens a specific audio device." alt="" coords="952,693,1137,735"/>
+<area shape="rect" id="node30" href="$classvae_1_1core_1_1_device_dummy.html#af40b5ee7c4ac8116abfcfd41a427b7f7" title="Opens a specific audio device." alt="" coords="675,759,862,800"/>
+<area shape="rect" id="node34" href="$classvae_1_1core_1_1_mixer_processor.html#a02213548c3287ac1db82ae7b3b348e5c" title="Process the mixers for a single bank." alt="" coords="933,570,1156,597"/>
+<area shape="rect" id="node36" href="$classtklb_1_1_audio_ring_buffer_tpl.html#a73b1992dd37fc22852de4a5adb6a355b" title="Pops a number of elements in the buffer provided." alt="" coords="938,829,1151,855"/>
+<area shape="rect" id="node37" href="$classvae_1_1core_1_1_device.html#adb18595d67fedf22e685bef3d1a91177" title="Get samples form audio device." alt="" coords="685,829,852,855"/>
+<area shape="rect" id="node39" href="$classvae_1_1core_1_1_device.html#a1f9109fc3f6c63034308c5b440927257" title="Push samples to the audio device." alt="" coords="957,953,1132,979"/>
+<area shape="rect" id="node40" href="$classtklb_1_1_resampler_speex_tpl.html#aafe03dda374652f23a8020a7f975b8b4" title="Resamples the provided buffer from its sampleRate to the target rate." alt="" coords="952,1235,1137,1276"/>
+<area shape="rect" id="node41" href="$classvae_1_1core_1_1_bank_manager.html#a6542180b77772f1605e211bd851f8996" title=" " alt="" coords="679,1201,858,1243"/>
+<area shape="rect" id="node43" href="$classvae_1_1core_1_1_bank_manager.html#adbc94fb2b23a418e34a3eda7812d71a6" title=" " alt="" coords="679,1267,858,1308"/>
+<area shape="rect" id="node42" href="$classvae_1_1core_1_1_engine.html#aba4ba7edf58f833125633e7149e4d499" title="Add or replace a source in a bank." alt="" coords="439,1201,582,1243"/>
+</map>

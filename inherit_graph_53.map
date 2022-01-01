@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classvae_1_1core_1_1_backend.html" title="Backend interface used to query devices before creating a actual device object." alt="" coords="5,56,152,83"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_backend_dummy.html" title=" " alt="" coords="205,5,404,32"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_backend_port_audio.html" title=" " alt="" coords="200,56,409,83"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1_backend_rt_audio.html" title=" " alt="" coords="206,107,403,133"/>
+</map>

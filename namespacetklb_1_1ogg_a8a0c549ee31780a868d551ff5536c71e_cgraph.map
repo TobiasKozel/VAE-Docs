@@ -1,0 +1,12 @@
+<map id="tklb::ogg::load" name="tklb::ogg::load">
+<area shape="rect" id="node1" title="Decode ogg/vorbis from memory or file path." alt="" coords="5,95,120,121"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_heap_buffer.html#ad4af395796fe08eb735bb13f62e9245f" title=" " alt="" coords="173,69,339,96"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_heap_buffer.html#aea890defe7d21d9273e005464b04f784" title="Resize the buffer If the memory is borrowed it will become unique and owned by this instance as soon ..." alt="" coords="168,120,344,147"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_heap_buffer.html#a37d94fdca920347674a4048cdc28452d" title="Allocated the exact size requsted and copies existing objects." alt="" coords="392,73,581,100"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_heap_buffer.html#a25c9d8fce108ff905202bcf7a6038d3d" title="Whether the memory is managed by the instance or is borrowed." alt="" coords="633,5,823,32"/>
+<area shape="rect" id="node8" href="$classtklb_1_1_heap_buffer.html#a682dc231ff65beb7114cb0e476affd6b" title=" " alt="" coords="395,142,578,183"/>
+<area shape="rect" id="node10" href="$classtklb_1_1_heap_buffer.html#a172cd1dde86d1f3b0308fb0ce4a1758a" title="Returns the amount of elements in the container." alt="" coords="647,208,809,235"/>
+<area shape="rect" id="node6" href="$classtklb_1_1_heap_buffer.html#a23801c62dcfb74cab62a9998de65adeb" title=" " alt="" coords="629,56,827,83"/>
+<area shape="rect" id="node7" href="$namespacetklb.html#a3080595da18d742645ec41d61828a426" title=" " alt="" coords="688,107,768,133"/>
+<area shape="rect" id="node9" href="$namespacetklb.html#a7dc2203e89c331e3c85b9e7f16fa6763" title=" " alt="" coords="686,157,770,184"/>
+</map>

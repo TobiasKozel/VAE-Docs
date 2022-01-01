@@ -1,0 +1,16 @@
+<map id="tklb::AudioBufferTpl::setValidSize" name="tklb::AudioBufferTpl::setValidSize">
+<area shape="rect" id="node1" title="Set the amount of valid samples currently in the buffer This is mostly a convenience flag since the a..." alt="" coords="1483,67,1635,108"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_effects_processor.html#a460a07e9049a636b7808d575d6d41baa" title=" " alt="" coords="1204,23,1435,50"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1_engine.html#afecf53f2eaf92d13a933c05c821b3819" title="Main processing function." alt="" coords="697,40,840,81"/>
+<area shape="rect" id="node10" href="$classtklb_1_1_audio_ring_buffer_tpl.html#a376759b29135ae4deeaa61eca9a0ea4e" title="Puts a number of elements in the buffer provided." alt="" coords="1229,125,1410,167"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_mixer_processor.html#a02213548c3287ac1db82ae7b3b348e5c" title="Process the mixers for a single bank." alt="" coords="933,23,1156,50"/>
+<area shape="rect" id="node5" href="$classvae_1_1core_1_1_engine.html#ab31b2381a1d916efdcffe8db7971ce15" title="Called from audio device when it needs more audio." alt="" coords="439,5,582,47"/>
+<area shape="rect" id="node9" href="$classvae_1_1core_1_1_engine.html#aca852d5c0e30b0641582f175bf95fbea" title="Called from own audio thread, not the device." alt="" coords="439,71,582,112"/>
+<area shape="rect" id="node6" href="$classvae_1_1core_1_1_engine.html#aa974f739b3f2dc8004eede720d01d229" title="Tries to open default device and start audio thread." alt="" coords="227,39,369,80"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="65,21,119,47"/>
+<area shape="rect" id="node8" href="$classvae_1_1_engine_pimpl.html#af773bc095b97e185c17b23a702572479" title="Tries to open default device and start audio thread." alt="" coords="5,71,179,98"/>
+<area shape="rect" id="node11" href="$classtklb_1_1_audio_ring_buffer_tpl.html#a73b1992dd37fc22852de4a5adb6a355b" title="Pops a number of elements in the buffer provided." alt="" coords="938,133,1151,159"/>
+<area shape="rect" id="node12" href="$classvae_1_1core_1_1_device.html#adb18595d67fedf22e685bef3d1a91177" title="Get samples form audio device." alt="" coords="685,109,852,135"/>
+<area shape="rect" id="node13" href="$structvae_1_1core_1_1_device_1_1_audio_thread_worker.html#a1d6ad75314a363dbb773c16aecb21326" title="Called from audio backend to push in interleaved audio data." alt="" coords="652,159,885,215"/>
+<area shape="rect" id="node14" href="$classvae_1_1core_1_1_device_dummy.html#ac4105d62f1ae237fd9bb8d8bd8dda6a6" title="Simulate the callback from the audio device." alt="" coords="417,167,604,208"/>
+</map>

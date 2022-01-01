@@ -1,0 +1,4 @@
+<map id="tklb::ResamplerSpeexTpl::estimateNeed" name="tklb::ResamplerSpeexTpl::estimateNeed">
+<area shape="rect" id="node1" title="Estimate how many samples need to be put in to get n samples out." alt="" coords="196,5,381,47"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_device.html#af747bbd6c91939923c65902cd1a93f84" title="Return amount of audio frames which can be pushed in buffer ! this is an estimate when resampling !" alt="" coords="5,5,148,47"/>
+</map>

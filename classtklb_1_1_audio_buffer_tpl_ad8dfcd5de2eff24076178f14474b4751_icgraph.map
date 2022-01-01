@@ -1,0 +1,8 @@
+<map id="tklb::AudioBufferTpl::put" name="tklb::AudioBufferTpl::put">
+<area shape="rect" id="node1" title="Fill the provided array with the contents of this buffer." alt="" coords="429,70,611,97"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_f_f_t_ooura.html#acd5e14dc5e02b37dc6fd9c817f1e4b95" title="Frequency domain back to time domain." alt="" coords="213,11,368,38"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_audio_buffer_tpl.html#a97728ddd08f299f5965e4e4b519d3809" title="Fills an 2d array of size maxChannels() with pointers to each channel." alt="" coords="215,63,367,104"/>
+<area shape="rect" id="node6" href="$classtklb_1_1_audio_buffer_tpl.html#a4a38184ead33936e8d4ea6e58f457ba2" title="Fill the provided 2D array with the contents of this buffer." alt="" coords="200,129,381,155"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_oversampler.html#a938eddcfffbe34cbb91eca96c35693b4" title=" " alt="" coords="5,29,152,71"/>
+<area shape="rect" id="node5" href="$classvae_1_1core_1_1effect_1_1_faust_base.html#a70f2dc6cc7c3fd4f740c0e5017389434" title=" " alt="" coords="6,95,151,136"/>
+</map>

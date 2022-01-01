@@ -1,0 +1,5 @@
+<map id="tklb::AudioBufferTpl::getRaw" name="tklb::AudioBufferTpl::getRaw">
+<area shape="rect" id="node1" title="Fills an 2d array of size maxChannels() with pointers to each channel." alt="" coords="200,63,352,104"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_oversampler.html#a938eddcfffbe34cbb91eca96c35693b4" title=" " alt="" coords="5,29,152,71"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1effect_1_1_faust_base.html#a70f2dc6cc7c3fd4f740c0e5017389434" title=" " alt="" coords="6,95,151,136"/>
+</map>

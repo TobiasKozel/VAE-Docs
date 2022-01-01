@@ -1,0 +1,6 @@
+<map id="tklb::StackBuffer::remove" name="tklb::StackBuffer::remove">
+<area shape="rect" id="node1" title="Removes the object at a given index and fills the gap with another Will never shrink the buffer/alloc..." alt="" coords="548,35,687,76"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_stack_buffer.html#af921d6172cc6ae1e13e102c02f95faf2" title="If a == comparisin is possible the object itself can be used." alt="" coords="309,5,448,47"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_event_bus.html#ac52a735b0aa31b6e5a19a23b3b267660" title=" " alt="" coords="257,71,500,98"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_event_bus_1_1_subscription.html#ac84aefadbc8d8b70d10a6ecb47188388" title=" " alt="" coords="5,64,209,105"/>
+</map>

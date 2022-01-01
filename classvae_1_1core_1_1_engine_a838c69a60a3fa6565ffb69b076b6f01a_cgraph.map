@@ -1,0 +1,4 @@
+<map id="vae::core::Engine::getActiveVoiceCount" name="vae::core::Engine::getActiveVoiceCount">
+<area shape="rect" id="node1" title="Get the number of currently playing Voices." alt="" coords="5,5,161,47"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_voice_manger.html#a1741b461fdab4d40723b47de13c6e66b" title=" " alt="" coords="209,5,381,47"/>
+</map>

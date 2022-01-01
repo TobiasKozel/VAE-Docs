@@ -1,0 +1,6 @@
+<map id="vae::core::BackendPortAudio::getDefaultOutputDevice" name="vae::core::BackendPortAudio::getDefaultOutputDevice">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,215,76"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_backend_port_audio.html#a7034d66c5dfb7e242c2ef1f1feb978c1" title="Returns a spefic device info for index." alt="" coords="263,35,472,76"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_backend_port_audio.html#a1a088c474155896c52d54adce56e24d7" title="Returns name of the api." alt="" coords="520,5,729,47"/>
+<area shape="rect" id="node4" href="$namespacetklb_1_1memory.html#a03c76a0f946284624b0bf7dc37ee311a" title=" " alt="" coords="531,71,719,98"/>
+</map>

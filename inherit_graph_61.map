@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classvae_1_1core_1_1effect_1_1_effect_base.html" title="Base for all effects." alt="" coords="5,5,141,47"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1effect_1_1_faust_base.html" title="Interaface for faust DSP code." alt="" coords="189,5,325,47"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1effect_1_1_v_a_e_reverb.html" title=" " alt="" coords="373,5,509,47"/>
+</map>

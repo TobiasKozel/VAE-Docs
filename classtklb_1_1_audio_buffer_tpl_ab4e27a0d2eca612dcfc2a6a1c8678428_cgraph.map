@@ -1,0 +1,5 @@
+<map id="tklb::AudioBufferTpl::setValidSize" name="tklb::AudioBufferTpl::setValidSize">
+<area shape="rect" id="node1" title="Set the amount of valid samples currently in the buffer This is mostly a convenience flag since the a..." alt="" coords="5,27,157,69"/>
+<area shape="rect" id="node2" href="$namespacetklb.html#a3080595da18d742645ec41d61828a426" title=" " alt="" coords="241,5,321,32"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_audio_buffer_tpl.html#af6df8d7e6840eee3f84807bd1662c3ed" title="Returns the allocated length of the buffer." alt="" coords="205,57,357,98"/>
+</map>

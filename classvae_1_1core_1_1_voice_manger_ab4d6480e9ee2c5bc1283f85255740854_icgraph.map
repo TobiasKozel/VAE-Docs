@@ -1,0 +1,17 @@
+<map id="vae::core::VoiceManger::stopFromSource" name="vae::core::VoiceManger::stopFromSource">
+<area shape="rect" id="node1" title="Stop every voice started from a source and emitter if provided." alt="" coords="1304,57,1476,98"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_engine.html#a4721a2bf236efae669ee51ba148e193a" title="Main mechanism to start and stop sounds." alt="" coords="1113,57,1256,98"/>
+<area shape="rect" id="node3" href="$classvae_1_1_engine_pimpl.html#ad8012513afde9dd3bb976b5440858bef" title="Main mechanism to start and stop sounds." alt="" coords="863,5,1065,32"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1_engine.html#a11a6ae8ce62130f33dad382a4e4cf07e" title="Works like fireEvent but with a global Event identifier." alt="" coords="893,57,1035,98"/>
+<area shape="rect" id="node9" href="$classvae_1_1core_1_1_engine.html#adb4e1cb3bd1ea11bb9d3b806d552fb75" title="Update function needs to be called regularly to handle outbound events." alt="" coords="893,135,1035,177"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a7b09579eb01449ba8f8ac324485001c2" title=" " alt="" coords="664,109,759,136"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#afe1c3ff6204d9b675caf60b5545e3e54" title=" " alt="" coords="259,19,337,45"/>
+<area shape="rect" id="node8" href="$classvae_1_1_engine_pimpl.html#aee133a1fa8e89e70b4f7414c10d58c62" title="Works like fireEvent but with a global Event identifier." alt="" coords="608,43,815,85"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="65,48,119,75"/>
+<area shape="rect" id="node10" href="$classvae_1_1core_1_1_engine.html#afecf53f2eaf92d13a933c05c821b3819" title="Main processing function." alt="" coords="640,161,783,202"/>
+<area shape="rect" id="node15" href="$classvae_1_1_engine_pimpl.html#a8e9296021147373d9b8c415c460fe842" title="Update function needs to be called regularly to handle outbound events." alt="" coords="617,227,805,253"/>
+<area shape="rect" id="node11" href="$classvae_1_1core_1_1_engine.html#ab31b2381a1d916efdcffe8db7971ce15" title="Called from audio device when it needs more audio." alt="" coords="417,95,560,137"/>
+<area shape="rect" id="node14" href="$classvae_1_1core_1_1_engine.html#aca852d5c0e30b0641582f175bf95fbea" title="Called from own audio thread, not the device." alt="" coords="417,161,560,202"/>
+<area shape="rect" id="node12" href="$classvae_1_1core_1_1_engine.html#aa974f739b3f2dc8004eede720d01d229" title="Tries to open default device and start audio thread." alt="" coords="227,95,369,137"/>
+<area shape="rect" id="node13" href="$classvae_1_1_engine_pimpl.html#af773bc095b97e185c17b23a702572479" title="Tries to open default device and start audio thread." alt="" coords="5,103,179,129"/>
+</map>

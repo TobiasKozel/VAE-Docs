@@ -1,0 +1,12 @@
+<map id="tklb::memory::MemoryPoolStd" name="tklb::memory::MemoryPoolStd">
+<area shape="rect" id="node1" title="Pool which proxies allocations to the stdlib." alt="" coords="195,917,415,1053"/>
+<area shape="rect" id="node2" href="$classtklb_1_1memory_1_1_memory_pool.html" title="Memory pool interface." alt="" coords="58,587,257,855"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,439,163,517"/>
+<area shape="rect" id="node4" href="$structtklb_1_1memory_1_1_memory_pool_1_1_shared_pool.html" title="Pools can share the same space, but use it differently." alt="" coords="187,432,386,524"/>
+<area shape="rect" id="node5" title=" " alt="" coords="128,204,205,281"/>
+<area shape="rect" id="node6" href="$classtklb_1_1_spin_lock.html" title="Spinlock ! probably not thread safe." alt="" coords="230,145,343,340"/>
+<area shape="rect" id="node7" title=" " alt="" coords="261,5,312,83"/>
+<area shape="rect" id="node8" title=" " alt="" coords="367,204,481,281"/>
+<area shape="rect" id="node9" title=" " alt="" coords="280,682,331,759"/>
+<area shape="rect" id="node10" title=" " alt="" coords="385,682,493,759"/>
+</map>

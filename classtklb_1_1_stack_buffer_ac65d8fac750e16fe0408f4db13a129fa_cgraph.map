@@ -1,0 +1,5 @@
+<map id="tklb::StackBuffer::clear" name="tklb::StackBuffer::clear">
+<area shape="rect" id="node1" title="Clears the buffer but doesn&#39;t free the memory." alt="" coords="5,5,144,47"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_stack_buffer.html#a0bc626a85358bcfd1f950be8aa983033" title="Resize the buffer If the memory is borrowed it will become unique and owned by this instance as soon ..." alt="" coords="192,5,331,47"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_stack_buffer.html#a7a3ff930c2207f6b4649facb372bea1b" title="Returns the amount of elements in the container." alt="" coords="379,13,544,39"/>
+</map>

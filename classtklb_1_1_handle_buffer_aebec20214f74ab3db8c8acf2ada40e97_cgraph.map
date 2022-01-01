@@ -1,0 +1,8 @@
+<map id="tklb::HandleBuffer::pop" name="tklb::HandleBuffer::pop">
+<area shape="rect" id="node1" title=" " alt="" coords="5,75,179,102"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_handle_buffer.html#a88d775173905f9b3d50f8ec20195fe50" title=" " alt="" coords="227,75,389,102"/>
+<area shape="rect" id="node5" href="$namespacetklb_1_1memory.html#ab89ec197028f903f4ea125eae46c4a10" title="memcpy wrapper" alt="" coords="233,126,383,153"/>
+<area shape="rect" id="node6" href="$classtklb_1_1_handle_buffer.html#af86e082f4785d139c40b000c69eb4874" title=" " alt="" coords="237,9,379,51"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_heap_buffer.html#afcce6d234f25d074818cdd35e2d33daa" title=" " alt="" coords="437,5,593,47"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_heap_buffer.html#a5ec4892e352b8df099fa1c75cfbf328c" title="Returns the amount of elements in the container." alt="" coords="437,71,593,112"/>
+</map>

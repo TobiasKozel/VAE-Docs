@@ -1,0 +1,13 @@
+<map id="tklb::HeapBuffer::resize" name="tklb::HeapBuffer::resize">
+<area shape="rect" id="node1" title="Resize the buffer If the memory is borrowed it will become unique and owned by this instance as soon ..." alt="" coords="485,232,661,259"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_heap_buffer.html#ac595de86ab0e2f33c79034b9e64db0a8" title="Clears the buffer but doesn&#39;t free the memory." alt="" coords="247,5,417,32"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_heap_buffer.html#a7f018ade21d320cf220186a52e256b93" title="If T is a pointer type, delete will be called for all pointers in buffer and resize(0) is called." alt="" coords="239,57,425,98"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_heap_buffer.html#a219e440c13837426f4a9f03e12ad769e" title="Setup the buffer with a size." alt="" coords="227,123,437,149"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_heap_buffer.html#aedbbae6aeac4dab858a9734d7c02d240" title="Provide foreign memory to borrow." alt="" coords="245,173,419,200"/>
+<area shape="rect" id="node7" href="$classtklb_1_1_convolver_mono_tpl.html#a67f9498b46370c1a273b47ccc4863e21" title="Load a impulse response and prepare the convolution." alt="" coords="244,225,420,266"/>
+<area shape="rect" id="node8" href="$namespacetklb_1_1ogg.html#a8a0c549ee31780a868d551ff5536c71e" title="Decode ogg/vorbis from memory or file path." alt="" coords="275,291,389,317"/>
+<area shape="rect" id="node9" href="$namespacetklb_1_1wave.html#aa283efa758de590bb8f167e32a1ba2a5" title="Decode wav from memory or file path." alt="" coords="269,341,395,368"/>
+<area shape="rect" id="node10" href="$classtklb_1_1_heap_buffer.html#a7a9a54468dbd1fe9b3dbf02fa2b574b4" title="Set data from array." alt="" coords="253,392,411,419"/>
+<area shape="rect" id="node11" href="$classtklb_1_1_heap_buffer.html#a833c723b6838bb28f7b6886d6df8b65c" title=" " alt="" coords="263,443,401,485"/>
+<area shape="rect" id="node6" href="$classtklb_1_1_heap_buffer.html#a320950100dd32e8bbf4f5118f41c4533" title="Provide const foreign memory to use Using non const accessors will cause assertions in debug mode." alt="" coords="5,173,179,200"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="tklb::AudioBufferTpl::putInterleaved" name="tklb::AudioBufferTpl::putInterleaved">
+<area shape="rect" id="node1" title="Puts the interleaved contents in the target buffer." alt="" coords="5,64,157,105"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_audio_buffer_tpl.html#a9714a6b0b9ee269c551b28f830a02d57" title="Returns the amount of channels." alt="" coords="205,5,357,47"/>
+<area shape="rect" id="node3" href="$namespacetklb.html#a3080595da18d742645ec41d61828a426" title=" " alt="" coords="241,71,321,98"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_audio_buffer_tpl.html#a37f13531bbfb64cff87ab6473f5bea14" title="fReturns the length of actually valid audio in the buffer." alt="" coords="205,123,357,164"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="tklb::ResamplerCosineTpl::resample" name="tklb::ResamplerCosineTpl::resample">
+<area shape="rect" id="node1" title="Resamples the provided buffer from its sampleRate to the target rate." alt="" coords="5,93,195,135"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_resampler_cosine_tpl.html#a298bcca582fdb7c8d5319f106cb8f4f8" title="Calculate a buffersize fit for the resampled result." alt="" coords="243,5,432,47"/>
+<area shape="rect" id="node4" href="$namespacetklb_1_1memory.html#ab89ec197028f903f4ea125eae46c4a10" title="memcpy wrapper" alt="" coords="263,71,412,98"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_resampler_cosine_tpl.html#a5d8867a7800a54b54414907026206e36" title="setup the resampler" alt="" coords="243,123,432,164"/>
+<area shape="rect" id="node6" href="$classtklb_1_1_resampler_cosine_tpl.html#ae598bcbdc6ae0ccca26d91af3b378cf7" title="Resample function Make sure the out buffer has enough space." alt="" coords="243,188,432,229"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_resampler_cosine_tpl.html#ad3beb9e62668881e8da87d717e286d67" title=" " alt="" coords="480,97,669,139"/>
+</map>

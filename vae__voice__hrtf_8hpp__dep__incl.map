@@ -1,0 +1,12 @@
+<map id="vae_voice_hrtf.hpp" name="vae_voice_hrtf.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="31,5,178,32"/>
+<area shape="rect" id="node2" href="$vae__hrtf__util_8hpp.html" title=" " alt="" coords="39,80,171,107"/>
+<area shape="rect" id="node3" href="$vae__spatial__processor_8hpp.html" title=" " alt="" coords="5,229,199,256"/>
+<area shape="rect" id="node7" href="$vae__voice__manager_8hpp.html" title="Holds all voices and starts/stops them." alt="" coords="235,80,414,107"/>
+<area shape="rect" id="node4" href="$vae__engine_8hpp.html" title=" " alt="" coords="283,304,409,331"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title=" " alt="" coords="243,379,326,405"/>
+<area shape="rect" id="node6" href="$vae__pimpl_8cpp.html" title=" " alt="" coords="350,379,467,405"/>
+<area shape="rect" id="node8" href="$vae__mixer__processor_8hpp.html" title=" " alt="" coords="383,229,570,256"/>
+<area shape="rect" id="node9" href="$vae__processor_8hpp.html" title=" " alt="" coords="511,155,653,181"/>
+<area shape="rect" id="node10" href="$vae__spatial__manager_8hpp.html" title=" " alt="" coords="140,155,328,181"/>
+</map>

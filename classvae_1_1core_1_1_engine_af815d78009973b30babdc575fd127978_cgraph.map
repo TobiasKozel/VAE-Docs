@@ -1,0 +1,6 @@
+<map id="vae::core::Engine::setEmitter" name="vae::core::Engine::setEmitter">
+<area shape="rect" id="node1" title="Set the Emitter position, orientation and spread." alt="" coords="5,39,148,80"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_spatial_manager.html#abaac63e2c14e2ef21be7e4babdce44be" title=" " alt="" coords="196,39,387,80"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_spatial_manager.html#afc5a2274a1d6098a64d6cb9d124bb7ed" title=" " alt="" coords="435,5,625,47"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1_spatial_manager.html#a8223349a8417dbd972f9979618849a4e" title=" " alt="" coords="435,71,625,112"/>
+</map>

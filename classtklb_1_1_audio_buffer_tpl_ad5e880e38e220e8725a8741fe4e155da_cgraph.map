@@ -1,0 +1,4 @@
+<map id="tklb::AudioBufferTpl::inject" name="tklb::AudioBufferTpl::inject">
+<area shape="rect" id="node1" title="Inject forgeign memory to be used by the buffer." alt="" coords="5,5,157,47"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_audio_buffer_tpl.html#acbe041a482f37ed4a02b99b239e53f80" title="Returns the allocated length of the buffer." alt="" coords="205,5,357,47"/>
+</map>

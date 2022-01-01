@@ -1,0 +1,5 @@
+<map id="tklb::HeapBuffer::disown" name="tklb::HeapBuffer::disown">
+<area shape="rect" id="node1" title="The memory is no longer manager by this instance." alt="" coords="448,5,631,32"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_heap_buffer.html#aedbbae6aeac4dab858a9734d7c02d240" title="Provide foreign memory to borrow." alt="" coords="227,5,400,32"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_heap_buffer.html#a320950100dd32e8bbf4f5118f41c4533" title="Provide const foreign memory to use Using non const accessors will cause assertions in debug mode." alt="" coords="5,5,179,32"/>
+</map>

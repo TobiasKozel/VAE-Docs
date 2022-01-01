@@ -1,0 +1,11 @@
+<map id="tklb::memory::tracer::reallocateTrace" name="tklb::memory::tracer::reallocateTrace">
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,161,119"/>
+<area shape="rect" id="node2" href="$structtklb_1_1memory_1_1tracer_1_1_magic_block.html#adb2c8c821e057b6dfed4de8092402aaa" title="Placement new at the end of the allocation." alt="" coords="209,45,381,86"/>
+<area shape="rect" id="node6" href="$structtklb_1_1memory_1_1tracer_1_1_magic_block.html#ac3781e28e0b7cf54161f1bb26e523ca5" title=" " alt="" coords="215,110,376,151"/>
+<area shape="rect" id="node3" href="$structtklb_1_1memory_1_1tracer_1_1_magic_block.html#a3a7c9d40a568eba5b629b77ae86e1a2c" title=" " alt="" coords="429,45,616,86"/>
+<area shape="rect" id="node4" href="$namespacetklb_1_1memory.html#ab89ec197028f903f4ea125eae46c4a10" title="memcpy wrapper" alt="" coords="674,5,823,32"/>
+<area shape="rect" id="node5" href="$namespacetklb_1_1memory.html#a8e863795f7bd94d27b2c21640acc27e1" title="memset wrapper" alt="" coords="679,56,818,83"/>
+<area shape="rect" id="node7" href="$structtklb_1_1memory_1_1tracer_1_1_magic_block.html#ad6d7ec91fc6ebe3cf9ff6326f1d4bfc2" title="checks if the allocation is still intact" alt="" coords="445,110,601,151"/>
+<area shape="rect" id="node9" href="$structtklb_1_1memory_1_1tracer_1_1_magic_block.html#a6ce36eef9e0991197e520cd79677dff3" title="Find the MagicBlock for a given allocation." alt="" coords="445,175,601,217"/>
+<area shape="rect" id="node8" href="$structtklb_1_1memory_1_1tracer_1_1_magic_block.html#a79e6e6f126eaf3a73f2f16530da06158" title=" " alt="" coords="664,110,833,151"/>
+</map>

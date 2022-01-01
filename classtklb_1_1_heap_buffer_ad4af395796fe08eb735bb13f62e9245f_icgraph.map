@@ -1,0 +1,8 @@
+<map id="tklb::HeapBuffer::data" name="tklb::HeapBuffer::data">
+<area shape="rect" id="node1" title=" " alt="" coords="523,81,689,108"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_heap_buffer.html#a699e99311404b8dfcb32731853e18640" title=" " alt="" coords="264,5,475,32"/>
+<area shape="rect" id="node3" href="$namespacetklb_1_1ogg.html#a8a0c549ee31780a868d551ff5536c71e" title="Decode ogg/vorbis from memory or file path." alt="" coords="312,56,427,83"/>
+<area shape="rect" id="node4" href="$namespacetklb_1_1wave.html#aa283efa758de590bb8f167e32a1ba2a5" title="Decode wav from memory or file path." alt="" coords="306,107,433,133"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_heap_buffer.html#abeab1bfc5f1f256fdad6ba571460fe12" title="Resizes and copies the contents of the source Buffer This will do a memory::copy,so none of the objec..." alt="" coords="291,181,448,208"/>
+<area shape="rect" id="node6" href="$classtklb_1_1_heap_buffer.html#a6ec5501329a339d0a1039e391f50c2a0" title="Copy Constructor, calls set() Failed allocations have to be checked." alt="" coords="5,181,216,208"/>
+</map>

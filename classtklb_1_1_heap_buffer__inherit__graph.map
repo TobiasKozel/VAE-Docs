@@ -1,0 +1,9 @@
+<map id="tklb::HeapBuffer&lt; T, ALIGNMENT, ALLOCATOR, SIZE &gt;" name="tklb::HeapBuffer&lt; T, ALIGNMENT, ALLOCATOR, SIZE &gt;">
+<area shape="rect" id="node1" title="Basically a bad std::vector without exceptions which can also work with foreign memory." alt="" coords="405,5,596,376"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_heap_buffer.html" title=" " alt="" coords="17,439,179,795"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_heap_buffer.html" title=" " alt="" coords="203,446,390,787"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_heap_buffer.html" title=" " alt="" coords="415,439,595,795"/>
+<area shape="rect" id="node6" href="$classtklb_1_1_heap_buffer.html" title=" " alt="" coords="621,446,820,787"/>
+<area shape="rect" id="node7" href="$classtklb_1_1_heap_buffer.html" title=" " alt="" coords="843,446,1126,787"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_handle_buffer.html" title="TODO broken don&#39;t use." alt="" coords="5,844,191,1097"/>
+</map>

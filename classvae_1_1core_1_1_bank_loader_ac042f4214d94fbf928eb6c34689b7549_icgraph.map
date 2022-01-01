@@ -1,0 +1,8 @@
+<map id="vae::core::BankLoader::deallocate" name="vae::core::BankLoader::deallocate">
+<area shape="rect" id="node1" title=" " alt="" coords="889,29,1056,71"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_bank_loader.html#a2a1f294f67b451b337f65b033dd6f0bd" title="Load a bank.json and all wav files referenced in it." alt="" coords="675,29,841,71"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_bank_manager.html#a246219d73b46775ec119e704c758dd0b" title=" " alt="" coords="448,29,627,71"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1_engine.html#a97b644aa0736003315870a1e05620ac3" title="Load bank from filesystem." alt="" coords="257,29,400,71"/>
+<area shape="rect" id="node5" href="$classvae_1_1_engine_pimpl.html#a1843b334cf225ba8b3f85c0c64fd78bb" title="Load bank from filesystem." alt="" coords="5,11,209,38"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="80,62,135,89"/>
+</map>

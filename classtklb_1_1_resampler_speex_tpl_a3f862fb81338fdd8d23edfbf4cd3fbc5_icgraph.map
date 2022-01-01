@@ -1,0 +1,14 @@
+<map id="tklb::ResamplerSpeexTpl::calculateBufferSize" name="tklb::ResamplerSpeexTpl::calculateBufferSize">
+<area shape="rect" id="node1" title="Calculate a buffersize fit for the resampled result." alt="" coords="952,136,1137,177"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_device.html#aaab56a24f9f040b6a4be004ff94eff40" title="initializes buffers, queues and resamplers if needed Has to be called in openDevice once the samplera..." alt="" coords="496,85,660,111"/>
+<area shape="rect" id="node7" href="$classtklb_1_1_resampler_speex_tpl.html#adffcf2713951e2a859b43a514bb711c0" title="setup the resampler" alt="" coords="719,136,904,177"/>
+<area shape="rect" id="node8" href="$classtklb_1_1_resampler_speex_tpl.html#a9a6c41aeb45d44340e6fbf6bcb0ff591" title="Resamples the provided buffer from its sampleRate to the target rate." alt="" coords="485,201,671,243"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_device_dummy.html#ad85627cd3e6556da54cb511720b09f04" title="Tries to open the default audio device whith desired in out channels." alt="" coords="245,5,432,47"/>
+<area shape="rect" id="node5" href="$classvae_1_1core_1_1_device_portaudio.html#a9a6538b4e9555085a36b67a1850f333d" title="Opens a specific audio device." alt="" coords="240,71,437,112"/>
+<area shape="rect" id="node6" href="$classvae_1_1core_1_1_device_rtaudio.html#a755c0aea3ee53c858f2dc3e61503de95" title="Opens a specific audio device." alt="" coords="246,136,431,177"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1_device_dummy.html#af40b5ee7c4ac8116abfcfd41a427b7f7" title="Opens a specific audio device." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node12" href="$classtklb_1_1_resampler_speex_tpl.html#a1928c5918f2625530f74b480292bdb1d" title=" " alt="" coords="485,136,671,177"/>
+<area shape="rect" id="node9" href="$classvae_1_1core_1_1_bank_manager.html#a6542180b77772f1605e211bd851f8996" title=" " alt="" coords="249,201,428,243"/>
+<area shape="rect" id="node11" href="$classvae_1_1core_1_1_bank_manager.html#adbc94fb2b23a418e34a3eda7812d71a6" title=" " alt="" coords="249,267,428,308"/>
+<area shape="rect" id="node10" href="$classvae_1_1core_1_1_engine.html#aba4ba7edf58f833125633e7149e4d499" title="Add or replace a source in a bank." alt="" coords="27,201,170,243"/>
+</map>

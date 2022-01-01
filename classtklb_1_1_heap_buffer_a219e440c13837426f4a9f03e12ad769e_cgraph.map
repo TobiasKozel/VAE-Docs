@@ -1,0 +1,11 @@
+<map id="tklb::HeapBuffer::HeapBuffer" name="tklb::HeapBuffer::HeapBuffer">
+<area shape="rect" id="node1" title="Setup the buffer with a size." alt="" coords="5,199,216,225"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_heap_buffer.html#aea890defe7d21d9273e005464b04f784" title="Resize the buffer If the memory is borrowed it will become unique and owned by this instance as soon ..." alt="" coords="264,144,440,171"/>
+<area shape="rect" id="node9" href="$classtklb_1_1_heap_buffer.html#a172cd1dde86d1f3b0308fb0ce4a1758a" title="Returns the amount of elements in the container." alt="" coords="743,208,905,235"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_heap_buffer.html#a37d94fdca920347674a4048cdc28452d" title="Allocated the exact size requsted and copies existing objects." alt="" coords="488,68,677,95"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_heap_buffer.html#a25c9d8fce108ff905202bcf7a6038d3d" title="Whether the memory is managed by the instance or is borrowed." alt="" coords="729,5,919,32"/>
+<area shape="rect" id="node7" href="$classtklb_1_1_heap_buffer.html#a682dc231ff65beb7114cb0e476affd6b" title=" " alt="" coords="491,137,674,178"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_heap_buffer.html#a23801c62dcfb74cab62a9998de65adeb" title=" " alt="" coords="725,56,923,83"/>
+<area shape="rect" id="node6" href="$namespacetklb.html#a3080595da18d742645ec41d61828a426" title=" " alt="" coords="784,107,864,133"/>
+<area shape="rect" id="node8" href="$namespacetklb.html#a7dc2203e89c331e3c85b9e7f16fa6763" title=" " alt="" coords="782,157,866,184"/>
+</map>

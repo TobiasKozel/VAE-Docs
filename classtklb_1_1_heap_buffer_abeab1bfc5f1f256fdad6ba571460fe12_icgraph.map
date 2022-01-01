@@ -1,0 +1,4 @@
+<map id="tklb::HeapBuffer::set" name="tklb::HeapBuffer::set">
+<area shape="rect" id="node1" title="Resizes and copies the contents of the source Buffer This will do a memory::copy,so none of the objec..." alt="" coords="264,29,421,56"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_heap_buffer.html#a6ec5501329a339d0a1039e391f50c2a0" title="Copy Constructor, calls set() Failed allocations have to be checked." alt="" coords="5,29,216,56"/>
+</map>

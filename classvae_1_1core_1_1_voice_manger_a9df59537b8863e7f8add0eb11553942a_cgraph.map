@@ -1,0 +1,6 @@
+<map id="vae::core::VoiceManger::forEachVoice" name="vae::core::VoiceManger::forEachVoice">
+<area shape="rect" id="node1" title="Callback provided to iterate voices, needs to return a bool to indicate when a voice needs to be stop..." alt="" coords="5,35,177,76"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_voice_manger.html#a51b077f535b7eebcc1e62d5ca5a0d95d" title="Stops a voice." alt="" coords="225,35,397,76"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_voice_manger.html#abe6b6d5a07c73e1e194f24314226a19f" title=" " alt="" coords="445,5,617,47"/>
+<area shape="rect" id="node4" href="$namespacetklb.html#a7dc2203e89c331e3c85b9e7f16fa6763" title=" " alt="" coords="489,71,573,98"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="vae::core::VoiceManger::setVoiceProperty" name="vae::core::VoiceManger::setVoiceProperty">
+<area shape="rect" id="node1" title=" " alt="" coords="497,122,669,163"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_engine.html#ad4d3d2d3295fe6e1de0f347f1e5b10dd" title="Set the current time of all voices with the emitter." alt="" coords="276,5,449,32"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1_engine.html#ae6b969605990d7cffcb5a2680a04f4da" title="Simple highpass filter for the voices." alt="" coords="291,57,434,98"/>
+<area shape="rect" id="node6" href="$classvae_1_1core_1_1_engine.html#a68add9a99442059f97d8a7b18fa46f1f" title="Simple lowpass filter for the voices." alt="" coords="291,122,434,163"/>
+<area shape="rect" id="node8" href="$classvae_1_1core_1_1_engine.html#a3a1e07d802edf42c2777066bb493a7ee" title="Set the playback speed." alt="" coords="291,187,434,229"/>
+<area shape="rect" id="node10" href="$classvae_1_1core_1_1_engine.html#a9f3bd05a3ed56f55313e6bd747d52d87" title="Sets the volume of all active voices with this emitter." alt="" coords="291,253,434,294"/>
+<area shape="rect" id="node3" href="$classvae_1_1_engine_pimpl.html#aa54f75747578982862d29fc81e310878" title="Set the current time of all voices with the emitter." alt="" coords="29,5,204,32"/>
+<area shape="rect" id="node5" href="$classvae_1_1_engine_pimpl.html#adb164602a8dcfbedbe05e0dd4a0aeb24" title="Simple highpass filter for the voices." alt="" coords="5,64,228,91"/>
+<area shape="rect" id="node7" href="$classvae_1_1_engine_pimpl.html#ae77f7a43f433b3757f215691d3b5d558" title="Simple lowpass filter for the voices." alt="" coords="7,129,226,156"/>
+<area shape="rect" id="node9" href="$classvae_1_1_engine_pimpl.html#aa1d281cbc38abb9612849d5e333f1f6c" title="Set the playback speed." alt="" coords="15,195,218,221"/>
+<area shape="rect" id="node11" href="$classvae_1_1_engine_pimpl.html#a7526f266d00ffc6c72ed30dce0e021d8" title="Sets the volume of all active voices with this emitter." alt="" coords="11,260,222,287"/>
+</map>

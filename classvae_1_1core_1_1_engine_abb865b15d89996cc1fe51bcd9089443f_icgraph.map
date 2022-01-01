@@ -1,0 +1,4 @@
+<map id="vae::core::Engine::removeEmitter" name="vae::core::Engine::removeEmitter">
+<area shape="rect" id="node1" title="Unregister a emiter an kill all its voices." alt="" coords="247,5,389,47"/>
+<area shape="rect" id="node2" href="$classvae_1_1_engine_pimpl.html#ac099c7622ce0ac5cf6b7bd78e79e5d27" title="Unregister a emiter an kill all its voices." alt="" coords="5,5,199,47"/>
+</map>

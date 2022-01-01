@@ -1,0 +1,10 @@
+<map id="tklb::String&lt; STORAGE &gt;" name="tklb::String&lt; STORAGE &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="127,1196,312,1420"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_heap_buffer.html" title=" " alt="" coords="126,792,313,1133"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_heap_buffer.html" title="Basically a bad std::vector without exceptions which can also work with foreign memory." alt="" coords="124,432,315,729"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,241,65,318"/>
+<area shape="rect" id="node5" href="$structtklb_1_1_std_allocator.html" title=" " alt="" coords="89,204,232,355"/>
+<area shape="rect" id="node6" href="$structtklb_1_1_std_allocator.html" title=" " alt="" coords="75,5,247,141"/>
+<area shape="rect" id="node7" title=" " alt="" coords="256,241,297,318"/>
+<area shape="rect" id="node8" title=" " alt="" coords="321,241,424,318"/>
+</map>

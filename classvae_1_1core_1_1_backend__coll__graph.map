@@ -1,0 +1,3 @@
+<map id="vae::core::Backend" name="vae::core::Backend">
+<area shape="rect" id="node1" title="Backend interface used to query devices before creating a actual device object." alt="" coords="5,5,211,156"/>
+</map>

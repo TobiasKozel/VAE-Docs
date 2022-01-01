@@ -1,0 +1,12 @@
+<map id="tklb::memory::set" name="tklb::memory::set">
+<area shape="rect" id="node1" title="memset wrapper" alt="" coords="685,143,824,170"/>
+<area shape="rect" id="node2" href="$classtklb_1_1memory_1_1_memory_pool.html#a951792ad0910d0021090392177d55016" title="Allocates space for num of structs with size size and clears the memory." alt="" coords="439,71,637,112"/>
+<area shape="rect" id="node3" href="$structtklb_1_1memory_1_1tracer_1_1_magic_block.html#a3a7c9d40a568eba5b629b77ae86e1a2c" title=" " alt="" coords="445,136,631,177"/>
+<area shape="rect" id="node10" href="$_t_resampler_speex_8hpp.html#a3b8d71870ca75bbcfd50ec8fb0103aea" title=" " alt="" coords="489,202,587,229"/>
+<area shape="rect" id="node4" href="$structtklb_1_1memory_1_1tracer_1_1_magic_block.html#adb2c8c821e057b6dfed4de8092402aaa" title="Placement new at the end of the allocation." alt="" coords="219,136,391,177"/>
+<area shape="rect" id="node5" href="$namespacetklb_1_1memory_1_1tracer.html#add2da56b07706b53a564029ad061edc7" title=" " alt="" coords="5,5,171,47"/>
+<area shape="rect" id="node6" href="$namespacetklb_1_1memory_1_1tracer.html#a3336124ebde0db155d7a045638af34f1" title=" " alt="" coords="10,71,166,112"/>
+<area shape="rect" id="node7" href="$namespacetklb_1_1memory_1_1tracer.html#a08271a2b7d60ebf35907fbfad4fc3db1" title=" " alt="" coords="10,136,166,177"/>
+<area shape="rect" id="node8" href="$namespacetklb_1_1memory_1_1tracer.html#a5518546cecc9e0844eec1a009955fb2d" title=" " alt="" coords="10,201,166,243"/>
+<area shape="rect" id="node9" href="$namespacetklb_1_1memory_1_1tracer.html#af5ca005d4fa0d89ede7f4c55e1d53c67" title=" " alt="" coords="10,267,166,308"/>
+</map>

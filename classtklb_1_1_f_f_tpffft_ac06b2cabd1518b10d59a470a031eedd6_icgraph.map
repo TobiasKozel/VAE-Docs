@@ -1,0 +1,4 @@
+<map id="tklb::FFTpffft::back" name="tklb::FFTpffft::back">
+<area shape="rect" id="node1" title="Frequency domain back to time domain." alt="" coords="229,13,373,39"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_convolver_mono_tpl.html#afeb78068fcf9e6f0a2465029a4e5c380" title="Do the convolution." alt="" coords="5,5,181,47"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="tklb::HeapBuffer::inject" name="tklb::HeapBuffer::inject">
+<area shape="rect" id="node1" title="Provide const foreign memory to use Using non const accessors will cause assertions in debug mode." alt="" coords="5,296,179,323"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_heap_buffer.html#aedbbae6aeac4dab858a9734d7c02d240" title="Provide foreign memory to borrow." alt="" coords="227,187,400,213"/>
+<area shape="rect" id="node12" href="$classtklb_1_1_heap_buffer.html#a172cd1dde86d1f3b0308fb0ce4a1758a" title="Returns the amount of elements in the container." alt="" coords="933,296,1096,323"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_heap_buffer.html#ae41c73fc5f004efb1449d2d0a1614791" title="The memory is no longer manager by this instance." alt="" coords="448,5,631,32"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_heap_buffer.html#a25c9d8fce108ff905202bcf7a6038d3d" title="Whether the memory is managed by the instance or is borrowed." alt="" coords="920,85,1109,112"/>
+<area shape="rect" id="node6" href="$classtklb_1_1_heap_buffer.html#aea890defe7d21d9273e005464b04f784" title="Resize the buffer If the memory is borrowed it will become unique and owned by this instance as soon ..." alt="" coords="451,187,627,213"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_heap_buffer.html#a4e6ef03e8309e273be77adba87080abf" title=" " alt="" coords="684,5,863,32"/>
+<area shape="rect" id="node7" href="$classtklb_1_1_heap_buffer.html#a37d94fdca920347674a4048cdc28452d" title="Allocated the exact size requsted and copies existing objects." alt="" coords="679,157,868,184"/>
+<area shape="rect" id="node10" href="$classtklb_1_1_heap_buffer.html#a682dc231ff65beb7114cb0e476affd6b" title=" " alt="" coords="682,209,865,250"/>
+<area shape="rect" id="node8" href="$classtklb_1_1_heap_buffer.html#a23801c62dcfb74cab62a9998de65adeb" title=" " alt="" coords="916,136,1113,163"/>
+<area shape="rect" id="node9" href="$namespacetklb.html#a3080595da18d742645ec41d61828a426" title=" " alt="" coords="975,187,1055,213"/>
+<area shape="rect" id="node11" href="$namespacetklb.html#a7dc2203e89c331e3c85b9e7f16fa6763" title=" " alt="" coords="973,237,1057,264"/>
+</map>

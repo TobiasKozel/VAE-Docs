@@ -1,0 +1,9 @@
+<map id="vae::core::effect::VAEReverb::buildUserInterface" name="vae::core::effect::VAEReverb::buildUserInterface">
+<area shape="rect" id="node1" title=" " alt="" coords="5,129,228,171"/>
+<area shape="rect" id="node2" href="$structvae_1_1core_1_1effect_1_1_u_i.html#a0932a3f853c77e270f5ad6564d494dee" title=" " alt="" coords="276,64,429,105"/>
+<area shape="rect" id="node6" href="$structvae_1_1core_1_1effect_1_1_u_i.html#a09505d9abe1a074d8f0d2c4e7fcda6b9" title=" " alt="" coords="285,129,421,171"/>
+<area shape="rect" id="node7" href="$structvae_1_1core_1_1effect_1_1_u_i.html#a054020b03a34e8e62b445f0e984b858d" title=" " alt="" coords="278,195,427,236"/>
+<area shape="rect" id="node3" href="$structvae_1_1core_1_1effect_1_1_u_i.html#a52a3cdc7b5f7bbfe0a962ddee08325b8" title="The only important function to control the dsp code." alt="" coords="477,5,649,47"/>
+<area shape="rect" id="node4" href="$namespacetklb.html#a7dc2203e89c331e3c85b9e7f16fa6763" title=" " alt="" coords="521,71,605,98"/>
+<area shape="rect" id="node5" href="$namespacetklb.html#a3080595da18d742645ec41d61828a426" title=" " alt="" coords="523,122,603,149"/>
+</map>

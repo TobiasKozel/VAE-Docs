@@ -1,0 +1,12 @@
+<map id="tklb::AudioBufferTpl::getRaw" name="tklb::AudioBufferTpl::getRaw">
+<area shape="rect" id="node1" title="Fills an 2d array of size maxChannels() with pointers to each channel." alt="" coords="1347,80,1499,121"/>
+<area shape="rect" id="node2" href="$namespacetklb_1_1ogg.html#a61b130503ea6c0157f584d36dec61371" title="Decode ogg/vorbis from memory or file path." alt="" coords="1168,46,1283,73"/>
+<area shape="rect" id="node10" href="$classtklb_1_1_oversampler.html#a938eddcfffbe34cbb91eca96c35693b4" title=" " alt="" coords="1152,121,1299,163"/>
+<area shape="rect" id="node3" href="$structvae_1_1core_1_1_source_loader.html#a2341f89c2b79148066369e8d50d98597" title="Loads a wav file for the resource." alt="" coords="925,39,1104,80"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1_bank_loader.html#a0c168e922d02dbe23ec42ebfde4d97a2" title="Load a bank.json and all wav files referenced in it." alt="" coords="711,39,877,80"/>
+<area shape="rect" id="node5" href="$classvae_1_1core_1_1_bank_manager.html#ab06ae4e1f8106811c8149dd73bef6bd0" title=" " alt="" coords="484,39,663,80"/>
+<area shape="rect" id="node6" href="$classvae_1_1core_1_1_bank_manager.html#ae04256d1f2f2df47d3239993c9bbf12c" title="Will reload all the banks." alt="" coords="257,5,436,47"/>
+<area shape="rect" id="node7" href="$classvae_1_1core_1_1_engine.html#a4af5733f9975fe1c746e75958bc39d23" title="Load bank from filesystem." alt="" coords="275,71,418,112"/>
+<area shape="rect" id="node8" href="$classvae_1_1_engine_pimpl.html#adec77e6ef0f00d52c634611cb6822443" title="Load bank from filesystem." alt="" coords="5,53,209,79"/>
+<area shape="rect" id="node9" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="80,103,135,130"/>
+</map>

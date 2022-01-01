@@ -1,0 +1,7 @@
+<map id="vae::EnginePimpl::stopEmitter" name="vae::EnginePimpl::stopEmitter">
+<area shape="rect" id="node1" title="Stop all voices from emitter." alt="" coords="5,42,224,69"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_engine.html#afbff0864c479d3e2d12ff92ab23429ae" title="Stop all voices from emitter." alt="" coords="272,35,415,76"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_voice_manger.html#a51b077f535b7eebcc1e62d5ca5a0d95d" title="Stops a voice." alt="" coords="463,35,635,76"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1_voice_manger.html#abe6b6d5a07c73e1e194f24314226a19f" title=" " alt="" coords="683,5,855,47"/>
+<area shape="rect" id="node5" href="$namespacetklb.html#a7dc2203e89c331e3c85b9e7f16fa6763" title=" " alt="" coords="727,71,811,98"/>
+</map>

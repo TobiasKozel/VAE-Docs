@@ -1,0 +1,7 @@
+<map id="tklb::AudioBufferTpl::setFromInterleaved" name="tklb::AudioBufferTpl::setFromInterleaved">
+<area shape="rect" id="node1" title="Set multiple channels from an interleaved array." alt="" coords="5,89,161,131"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_audio_buffer_tpl.html#a7859b26033cbb893c2ea7acea54d8013" title="Returns the amount of channels." alt="" coords="224,5,376,47"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_audio_buffer_tpl.html#aee0540e90ae2790f9a809917bc5a04fd" title=" " alt="" coords="209,71,391,98"/>
+<area shape="rect" id="node4" href="$namespacetklb.html#a3080595da18d742645ec41d61828a426" title=" " alt="" coords="260,122,340,149"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_audio_buffer_tpl.html#af6df8d7e6840eee3f84807bd1662c3ed" title="Returns the allocated length of the buffer." alt="" coords="224,173,376,215"/>
+</map>

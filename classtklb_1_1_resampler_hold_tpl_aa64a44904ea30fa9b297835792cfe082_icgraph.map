@@ -1,0 +1,4 @@
+<map id="tklb::ResamplerHoldTpl::process" name="tklb::ResamplerHoldTpl::process">
+<area shape="rect" id="node1" title="Resample function Make sure the out buffer has enough space." alt="" coords="228,5,403,47"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_resampler_hold_tpl.html#a71a9719d0fcc3f9bea257bc43b841ecd" title="Resamples the provided buffer from its sampleRate to the target rate." alt="" coords="5,5,180,47"/>
+</map>

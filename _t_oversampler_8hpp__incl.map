@@ -1,0 +1,31 @@
+<map id="TOversampler.hpp" name="TOversampler.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="495,5,635,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,87,92,114"/>
+<area shape="rect" id="node3" href="$_t_assert_8h.html" title=" " alt="" coords="65,423,195,449"/>
+<area shape="rect" id="node5" href="$_t_audio_buffer_8hpp.html" title=" " alt="" coords="495,87,634,114"/>
+<area shape="rect" id="node28" title=" " alt="" coords="659,80,863,121"/>
+<area shape="rect" id="node29" title=" " alt="" coords="887,80,1109,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="95,512,165,539"/>
+<area shape="rect" id="node6" title=" " alt="" coords="915,259,1001,285"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1337,333,1395,360"/>
+<area shape="rect" id="node8" title=" " alt="" coords="449,177,541,203"/>
+<area shape="rect" id="node9" href="$_t_memory_8hpp.html" title=" " alt="" coords="233,177,425,203"/>
+<area shape="rect" id="node22" href="$_t_math_8hpp.html" title=" " alt="" coords="566,177,705,203"/>
+<area shape="rect" id="node23" title=" " alt="" coords="729,169,918,211"/>
+<area shape="rect" id="node24" href="$_t_heap_buffer_8hpp.html" title=" " alt="" coords="993,177,1136,203"/>
+<area shape="rect" id="node10" href="$_t_memory_pool_8hpp.html" title=" " alt="" coords="437,333,583,360"/>
+<area shape="rect" id="node20" href="$_t_memory_pool_std_8hpp.html" title=" " alt="" coords="426,259,594,285"/>
+<area shape="rect" id="node21" href="$_t_memory_pool_stack_8hpp.html" title=" " alt="" coords="219,259,401,285"/>
+<area shape="rect" id="node11" title=" " alt="" coords="813,423,873,449"/>
+<area shape="rect" id="node12" title=" " alt="" coords="219,423,286,449"/>
+<area shape="rect" id="node13" title=" " alt="" coords="311,423,360,449"/>
+<area shape="rect" id="node14" href="$_t_memory_util_8hpp.html" title=" " alt="" coords="897,423,1040,449"/>
+<area shape="rect" id="node17" href="$_t_spin_lock_8hpp.html" title=" " alt="" coords="435,423,603,449"/>
+<area shape="rect" id="node18" href="$_t_lock_guard_8hpp.html" title=" " alt="" coords="391,512,525,539"/>
+<area shape="rect" id="node19" title=" " alt="" coords="628,408,789,464"/>
+<area shape="rect" id="node15" title=" " alt="" coords="943,512,1010,539"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1043,512,1113,539"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1028,259,1091,285"/>
+<area shape="rect" id="node26" href="$_t_allocator_8hpp.html" title=" " alt="" coords="1167,259,1349,285"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1166,333,1241,360"/>
+</map>

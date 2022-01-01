@@ -1,0 +1,28 @@
+var _t_memory_tracing_8hpp =
+[
+    [ "tklb::memory::tracer::MagicBlock", "structtklb_1_1memory_1_1tracer_1_1_magic_block.html", "structtklb_1_1memory_1_1tracer_1_1_magic_block" ],
+    [ "TKLB_CALLOC", "_t_memory_tracing_8hpp.html#a950be11944c1ac9ae0eff63734105448", null ],
+    [ "TKLB_CHECK_HEAP", "_t_memory_tracing_8hpp.html#ae34984a42b934d3a9614705fe0f925b0", null ],
+    [ "TKLB_DELETE", "_t_memory_tracing_8hpp.html#add844b172e53f8843bbab66c4d9d0ed6", null ],
+    [ "TKLB_FREE", "_t_memory_tracing_8hpp.html#a4fd0168c2c4511a0b4461caba893696f", null ],
+    [ "TKLB_FREE_ALIGNED", "_t_memory_tracing_8hpp.html#acf2aa5af686bd8c636225782d0593615", null ],
+    [ "TKLB_MALLOC", "_t_memory_tracing_8hpp.html#a17b365bef69a603ad61028b90b47f0ea", null ],
+    [ "TKLB_MALLOC_ALIGNED", "_t_memory_tracing_8hpp.html#a10e541bc1d3d2dda3bf31078f19ac1b7", null ],
+    [ "TKLB_NEW", "_t_memory_tracing_8hpp.html#ae00e92b4d185c68d361d63661dc56ae3", null ],
+    [ "TKLB_REALLOC", "_t_memory_tracing_8hpp.html#aae1054fd19d4bb9257de87b61ff5a8d9", null ],
+    [ "allocateAlignedTrace", "_t_memory_tracing_8hpp.html#add2da56b07706b53a564029ad061edc7", null ],
+    [ "allocateTrace", "_t_memory_tracing_8hpp.html#a3336124ebde0db155d7a045638af34f1", null ],
+    [ "checkHeap", "_t_memory_tracing_8hpp.html#a103725903bba6620a61be84ae3372b2f", null ],
+    [ "clearallocateTrace", "_t_memory_tracing_8hpp.html#a08271a2b7d60ebf35907fbfad4fc3db1", null ],
+    [ "createTrace", "_t_memory_tracing_8hpp.html#a5518546cecc9e0844eec1a009955fb2d", null ],
+    [ "deallocateAlignedTrace", "_t_memory_tracing_8hpp.html#a54835d6816dafea976dcf992d0fc4942", null ],
+    [ "deallocateTrace", "_t_memory_tracing_8hpp.html#a884c14429aacb4f724bf7419d5e4d918", null ],
+    [ "disposeTrace", "_t_memory_tracing_8hpp.html#a016d7e747bbb5e805d3ec447a5a6501b", null ],
+    [ "init", "_t_memory_tracing_8hpp.html#a1cff7f422defa8c32778795c1bf04a7f", null ],
+    [ "reallocateTrace", "_t_memory_tracing_8hpp.html#af5ca005d4fa0d89ede7f4c55e1d53c67", null ],
+    [ "stop", "_t_memory_tracing_8hpp.html#a0ae27fc3f5dd0a38905a65d4ed49e6dd", null ],
+    [ "EXCLUDE_TRACE", "_t_memory_tracing_8hpp.html#a285d0f46b49c911eaa1d91128521658d", null ],
+    [ "MagicBlocks", "_t_memory_tracing_8hpp.html#a6af80d88811e9f50afb657ce3b3d9fd1", null ],
+    [ "TKLB_MAGIC_BACKUP_STRING", "_t_memory_tracing_8hpp.html#a7abc546d6491bea4b1e12f7919d36d18", null ],
+    [ "TKLB_MAGIC_STRING", "_t_memory_tracing_8hpp.html#a9d608ea07840e8766d5358d8731b8b49", null ]
+];

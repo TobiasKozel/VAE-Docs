@@ -1,0 +1,5 @@
+<map id="tklb::HeapBuffer::remove" name="tklb::HeapBuffer::remove">
+<area shape="rect" id="node1" title="Otherwise use memory location." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_heap_buffer.html#a6cf3f764840558bc0fa397621625d57d" title="Removes the object at a given index and fills the gap with another Will never shrink the buffer/alloc..." alt="" coords="240,5,427,32"/>
+<area shape="rect" id="node3" href="$namespacetklb_1_1memory.html#ab89ec197028f903f4ea125eae46c4a10" title="memcpy wrapper" alt="" coords="475,5,624,32"/>
+</map>

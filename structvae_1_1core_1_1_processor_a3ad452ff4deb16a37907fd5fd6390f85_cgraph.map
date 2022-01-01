@@ -1,0 +1,10 @@
+<map id="vae::core::Processor::mix" name="vae::core::Processor::mix">
+<area shape="rect" id="node1" title="Process a single bank." alt="" coords="5,141,192,167"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_voice_manger.html#a9df59537b8863e7f8add0eb11553942a" title="Callback provided to iterate voices, needs to return a bool to indicate when a voice needs to be stop..." alt="" coords="240,35,412,76"/>
+<area shape="rect" id="node6" href="$classvae_1_1core_1_1_voice_manger.html#a90d2a089d06a09d1e968b98d74b7baaa" title=" " alt="" coords="240,100,412,141"/>
+<area shape="rect" id="node7" href="$classvae_1_1core_1_1_voice_manger.html#a2467c55a66b4f30697d1766597f310f9" title=" " alt="" coords="240,165,412,207"/>
+<area shape="rect" id="node8" href="$namespacetklb.html#a3080595da18d742645ec41d61828a426" title=" " alt="" coords="286,231,366,258"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_voice_manger.html#a05cac4208804674ffdb173cc54fb5bd2" title="Stops a voice." alt="" coords="460,35,632,76"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1_voice_manger.html#abe6b6d5a07c73e1e194f24314226a19f" title=" " alt="" coords="680,5,852,47"/>
+<area shape="rect" id="node5" href="$namespacetklb.html#a7dc2203e89c331e3c85b9e7f16fa6763" title=" " alt="" coords="724,71,808,98"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="tklb::memory::tracer::MagicBlock::compare" name="tklb::memory::tracer::MagicBlock::compare">
+<area shape="rect" id="node1" title=" " alt="" coords="648,72,817,113"/>
+<area shape="rect" id="node2" href="$structtklb_1_1memory_1_1tracer_1_1_magic_block.html#ad6d7ec91fc6ebe3cf9ff6326f1d4bfc2" title="checks if the allocation is still intact" alt="" coords="444,72,600,113"/>
+<area shape="rect" id="node3" href="$namespacetklb_1_1memory_1_1tracer.html#a103725903bba6620a61be84ae3372b2f" title="Checks the MagicBlocks for all allocations." alt="" coords="237,39,393,80"/>
+<area shape="rect" id="node4" href="$structtklb_1_1memory_1_1tracer_1_1_magic_block.html#ac3781e28e0b7cf54161f1bb26e523ca5" title=" " alt="" coords="235,104,396,145"/>
+<area shape="rect" id="node5" href="$namespacetklb_1_1memory_1_1tracer.html#a54835d6816dafea976dcf992d0fc4942" title=" " alt="" coords="5,5,187,47"/>
+<area shape="rect" id="node6" href="$namespacetklb_1_1memory_1_1tracer.html#a884c14429aacb4f724bf7419d5e4d918" title=" " alt="" coords="18,71,174,112"/>
+<area shape="rect" id="node7" href="$namespacetklb_1_1memory_1_1tracer.html#a016d7e747bbb5e805d3ec447a5a6501b" title=" " alt="" coords="18,136,174,177"/>
+<area shape="rect" id="node8" href="$namespacetklb_1_1memory_1_1tracer.html#af5ca005d4fa0d89ede7f4c55e1d53c67" title=" " alt="" coords="18,201,174,243"/>
+</map>

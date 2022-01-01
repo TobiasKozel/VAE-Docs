@@ -1,0 +1,5 @@
+<map id="vae::core::BackendRtAudio::getDevice" name="vae::core::BackendRtAudio::getDevice">
+<area shape="rect" id="node1" title="Returns a spefic device info for index." alt="" coords="5,35,203,76"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_backend_rt_audio.html#a454542f475bb75133bce70863c633fc3" title="Returns name of the api." alt="" coords="251,5,448,47"/>
+<area shape="rect" id="node3" href="$namespacetklb_1_1memory.html#a03c76a0f946284624b0bf7dc37ee311a" title=" " alt="" coords="255,71,443,98"/>
+</map>

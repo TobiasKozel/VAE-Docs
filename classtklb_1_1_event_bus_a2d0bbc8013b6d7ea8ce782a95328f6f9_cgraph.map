@@ -1,0 +1,11 @@
+<map id="tklb::EventBus::addSubscriber" name="tklb::EventBus::addSubscriber">
+<area shape="rect" id="node1" title=" " alt="" coords="5,128,221,155"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_heap_buffer.html#a4cde91bbb793df74ff45d47398d478ad" title="Push the object to the back of the buffer TODO tklb move version." alt="" coords="269,128,437,155"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_heap_buffer.html#a37d94fdca920347674a4048cdc28452d" title="Allocated the exact size requsted and copies existing objects." alt="" coords="485,77,675,104"/>
+<area shape="rect" id="node7" href="$classtklb_1_1_heap_buffer.html#a682dc231ff65beb7114cb0e476affd6b" title=" " alt="" coords="489,150,671,191"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_heap_buffer.html#a25c9d8fce108ff905202bcf7a6038d3d" title="Whether the memory is managed by the instance or is borrowed." alt="" coords="727,5,916,32"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_heap_buffer.html#a23801c62dcfb74cab62a9998de65adeb" title=" " alt="" coords="723,56,920,83"/>
+<area shape="rect" id="node6" href="$namespacetklb.html#a3080595da18d742645ec41d61828a426" title=" " alt="" coords="781,107,861,133"/>
+<area shape="rect" id="node8" href="$namespacetklb.html#a7dc2203e89c331e3c85b9e7f16fa6763" title=" " alt="" coords="779,157,863,184"/>
+<area shape="rect" id="node9" href="$classtklb_1_1_heap_buffer.html#a172cd1dde86d1f3b0308fb0ce4a1758a" title="Returns the amount of elements in the container." alt="" coords="740,208,903,235"/>
+</map>

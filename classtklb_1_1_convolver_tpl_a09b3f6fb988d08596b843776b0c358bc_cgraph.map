@@ -1,0 +1,4 @@
+<map id="tklb::ConvolverTpl::load" name="tklb::ConvolverTpl::load">
+<area shape="rect" id="node1" title="Load a impulse response and prepare the convolution." alt="" coords="5,5,147,47"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_audio_buffer_tpl.html#a7859b26033cbb893c2ea7acea54d8013" title="Returns the amount of channels." alt="" coords="195,5,347,47"/>
+</map>

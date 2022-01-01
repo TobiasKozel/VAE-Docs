@@ -1,0 +1,9 @@
+<map id="vae::core::MixerProcessor::mix" name="vae::core::MixerProcessor::mix">
+<area shape="rect" id="node1" title="Process the mixers for a single bank." alt="" coords="799,46,1021,73"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_engine.html#afecf53f2eaf92d13a933c05c821b3819" title="Main processing function." alt="" coords="608,39,751,80"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_engine.html#ab31b2381a1d916efdcffe8db7971ce15" title="Called from audio device when it needs more audio." alt="" coords="417,5,560,47"/>
+<area shape="rect" id="node7" href="$classvae_1_1core_1_1_engine.html#aca852d5c0e30b0641582f175bf95fbea" title="Called from own audio thread, not the device." alt="" coords="417,71,560,112"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1_engine.html#aa974f739b3f2dc8004eede720d01d229" title="Tries to open default device and start audio thread." alt="" coords="227,39,369,80"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="65,21,119,47"/>
+<area shape="rect" id="node6" href="$classvae_1_1_engine_pimpl.html#af773bc095b97e185c17b23a702572479" title="Tries to open default device and start audio thread." alt="" coords="5,71,179,98"/>
+</map>

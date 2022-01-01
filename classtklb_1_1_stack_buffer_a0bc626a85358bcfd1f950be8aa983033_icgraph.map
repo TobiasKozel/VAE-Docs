@@ -1,0 +1,8 @@
+<map id="tklb::StackBuffer::resize" name="tklb::StackBuffer::resize">
+<area shape="rect" id="node1" title="Resize the buffer If the memory is borrowed it will become unique and owned by this instance as soon ..." alt="" coords="212,129,351,171"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_stack_buffer.html#ac65d8fac750e16fe0408f4db13a129fa" title="Clears the buffer but doesn&#39;t free the memory." alt="" coords="15,5,154,47"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_stack_buffer.html#af94f2cf470e5657c94d94b27b31544cd" title="If T is a pointer type, delete will be called for all pointers in buffer and resize(0) is called." alt="" coords="15,71,154,112"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_stack_buffer.html#a9d4bc70afedaeb36aa5743a86382d145" title="Set data from array." alt="" coords="5,137,164,163"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_stack_buffer.html#a009f35b399fd54fd358d101f2b3ccb80" title="Setup the buffer with a size." alt="" coords="15,188,154,229"/>
+<area shape="rect" id="node6" href="$classtklb_1_1_stack_buffer.html#a989ca33fdbf9932a81b683f33bf071d5" title=" " alt="" coords="15,253,154,295"/>
+</map>

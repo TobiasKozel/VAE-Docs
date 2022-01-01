@@ -1,0 +1,7 @@
+<map id="vae::core::Engine::createAutoEmitter" name="vae::core::Engine::createAutoEmitter">
+<area shape="rect" id="node1" title="Emitter which triggers an event once a listener is close enough." alt="" coords="5,39,148,80"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_spatial_manager.html#a5388d4c3de49b246d40dc00a799a04d4" title=" " alt="" coords="196,39,387,80"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_spatial_manager.html#a3b7a584badb78d373db73bde20e5a85b" title=" " alt="" coords="435,39,625,80"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1_spatial_manager.html#a3f3be0983d6adf3ea217d76477f5d43b" title=" " alt="" coords="673,5,864,47"/>
+<area shape="rect" id="node5" href="$classvae_1_1core_1_1_spatial_manager.html#a8223349a8417dbd972f9979618849a4e" title=" " alt="" coords="673,71,864,112"/>
+</map>

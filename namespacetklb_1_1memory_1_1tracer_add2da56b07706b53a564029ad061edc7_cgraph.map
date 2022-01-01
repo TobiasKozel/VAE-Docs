@@ -1,0 +1,7 @@
+<map id="tklb::memory::tracer::allocateAlignedTrace" name="tklb::memory::tracer::allocateAlignedTrace">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,171,65"/>
+<area shape="rect" id="node2" href="$structtklb_1_1memory_1_1tracer_1_1_magic_block.html#adb2c8c821e057b6dfed4de8092402aaa" title="Placement new at the end of the allocation." alt="" coords="219,23,391,65"/>
+<area shape="rect" id="node3" href="$structtklb_1_1memory_1_1tracer_1_1_magic_block.html#a3a7c9d40a568eba5b629b77ae86e1a2c" title=" " alt="" coords="439,23,625,65"/>
+<area shape="rect" id="node4" href="$namespacetklb_1_1memory.html#ab89ec197028f903f4ea125eae46c4a10" title="memcpy wrapper" alt="" coords="673,5,823,32"/>
+<area shape="rect" id="node5" href="$namespacetklb_1_1memory.html#a8e863795f7bd94d27b2c21640acc27e1" title="memset wrapper" alt="" coords="679,56,817,83"/>
+</map>

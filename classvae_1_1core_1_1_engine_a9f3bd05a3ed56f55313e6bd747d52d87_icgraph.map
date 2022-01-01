@@ -1,0 +1,4 @@
+<map id="vae::core::Engine::setVolume" name="vae::core::Engine::setVolume">
+<area shape="rect" id="node1" title="Sets the volume of all active voices with this emitter." alt="" coords="264,5,407,47"/>
+<area shape="rect" id="node2" href="$classvae_1_1_engine_pimpl.html#a7526f266d00ffc6c72ed30dce0e021d8" title="Sets the volume of all active voices with this emitter." alt="" coords="5,13,216,39"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="tklb::HandleBuffer::push" name="tklb::HandleBuffer::push">
+<area shape="rect" id="node1" title="add element, may trigger resize" alt="" coords="5,71,147,112"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_heap_buffer.html#afcce6d234f25d074818cdd35e2d33daa" title=" " alt="" coords="195,5,351,47"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_heap_buffer.html#a3f6bb31bf3497c8ad7393ba1169088bf" title="Push the object to the back of the buffer TODO tklb move version." alt="" coords="195,71,351,112"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_heap_buffer.html#a5ec4892e352b8df099fa1c75cfbf328c" title="Returns the amount of elements in the container." alt="" coords="195,136,351,177"/>
+</map>

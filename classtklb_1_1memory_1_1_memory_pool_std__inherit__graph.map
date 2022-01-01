@@ -1,0 +1,4 @@
+<map id="tklb::memory::MemoryPoolStd" name="tklb::memory::MemoryPoolStd">
+<area shape="rect" id="node1" title="Pool which proxies allocations to the stdlib." alt="" coords="5,336,225,487"/>
+<area shape="rect" id="node2" href="$classtklb_1_1memory_1_1_memory_pool.html" title="Memory pool interface." alt="" coords="16,5,215,288"/>
+</map>

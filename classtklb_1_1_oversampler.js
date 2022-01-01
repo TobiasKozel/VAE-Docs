@@ -1,0 +1,27 @@
+var classtklb_1_1_oversampler =
+[
+    [ "ProcessFunction", "classtklb_1_1_oversampler.html#a19d84ff4453e4d5c8e54d327e1fe4959", null ],
+    [ "Size", "classtklb_1_1_oversampler.html#a2e4a70bda3bbe4da331db6a3f469fc69", null ],
+    [ "T", "classtklb_1_1_oversampler.html#a908fd952e29409d54d2a0af8d20a821d", null ],
+    [ "uchar", "classtklb_1_1_oversampler.html#afcd69dc64c27335dc02ee108ce90f5c8", null ],
+    [ "uint", "classtklb_1_1_oversampler.html#ac4ca7008da14dac2ea96d445ab2f24d0", null ],
+    [ "Oversampler", "classtklb_1_1_oversampler.html#a40d54629ec65a9ac831fd6ff0dd7cf50", null ],
+    [ "getFactor", "classtklb_1_1_oversampler.html#ac41210509b3b5486fdcf138f1f7e9335", null ],
+    [ "getLicense", "classtklb_1_1_oversampler.html#a9262e2b339a4628de63d3621d340a429", null ],
+    [ "process", "classtklb_1_1_oversampler.html#a938eddcfffbe34cbb91eca96c35693b4", null ],
+    [ "process", "classtklb_1_1_oversampler.html#a49897ba03d38dd2f7017fe93c77eecb8", null ],
+    [ "setFactor", "classtklb_1_1_oversampler.html#ab2360da7926ff123132958d51e9a2826", null ],
+    [ "setProcessFunc", "classtklb_1_1_oversampler.html#ab7c9607f690ff68371bf1925c0b52892", null ],
+    [ "TKLB_OVERSAMPLER_DOWN", "classtklb_1_1_oversampler.html#a61eeeef9529018e6cb4fecb1a117a023", null ],
+    [ "TKLB_OVERSAMPLER_DOWN", "classtklb_1_1_oversampler.html#a017e8e90296f7332c2b1e81e307bad62", null ],
+    [ "TKLB_OVERSAMPLER_UP", "classtklb_1_1_oversampler.html#ac1f356beb32a58091de4f704518eddb0", null ],
+    [ "TKLB_OVERSAMPLER_UP", "classtklb_1_1_oversampler.html#a643a0a9b21676bd1b49229e931d97d9a", null ],
+    [ "coeffs2x", "classtklb_1_1_oversampler.html#afe686aac3e17c7ba1b2b67767876aa41", null ],
+    [ "coeffs4x", "classtklb_1_1_oversampler.html#a16276fde194904f20f5743b8747d2ddd", null ],
+    [ "mBuf2xDown", "classtklb_1_1_oversampler.html#a13b59f4dbe514f8cb0e393e815863e1a", null ],
+    [ "mBuf2xUp", "classtklb_1_1_oversampler.html#a66e4fcc2fd7b50cf0eb66fc45688e31d", null ],
+    [ "mBuf4xDown", "classtklb_1_1_oversampler.html#abacbc39826ba9b57969be6ea8825a86b", null ],
+    [ "mBuf4xUp", "classtklb_1_1_oversampler.html#a93a82b404c2115b4422949fc104e690c", null ],
+    [ "mFactor", "classtklb_1_1_oversampler.html#a67f6301e5d007c7df5ff03a564ca84b7", null ],
+    [ "mProc", "classtklb_1_1_oversampler.html#a01742427e0dd0ee40f79bc223ac8b723", null ]
+];

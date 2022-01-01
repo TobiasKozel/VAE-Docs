@@ -1,0 +1,4 @@
+<map id="tklb::ResamplerCosineTpl::calculateBufferSize" name="tklb::ResamplerCosineTpl::calculateBufferSize">
+<area shape="rect" id="node1" title="Calculate a buffersize fit for the resampled result." alt="" coords="243,5,432,47"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_resampler_cosine_tpl.html#a8ae142b3a8d74bd35d9a94e751db4ae8" title="Resamples the provided buffer from its sampleRate to the target rate." alt="" coords="5,5,195,47"/>
+</map>

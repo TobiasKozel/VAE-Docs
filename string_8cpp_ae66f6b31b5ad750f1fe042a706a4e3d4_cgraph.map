@@ -1,0 +1,14 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,187,60,213"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_heap_buffer.html#a4cde91bbb793df74ff45d47398d478ad" title="Push the object to the back of the buffer TODO tklb move version." alt="" coords="108,157,276,184"/>
+<area shape="rect" id="node10" href="$classtklb_1_1_string.html#a12a3df526b1df22b6fac627d71f8cfa6" title=" " alt="" coords="131,216,253,243"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_heap_buffer.html#a37d94fdca920347674a4048cdc28452d" title="Allocated the exact size requsted and copies existing objects." alt="" coords="324,77,513,104"/>
+<area shape="rect" id="node7" href="$classtklb_1_1_heap_buffer.html#a682dc231ff65beb7114cb0e476affd6b" title=" " alt="" coords="327,150,510,191"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_heap_buffer.html#a25c9d8fce108ff905202bcf7a6038d3d" title="Whether the memory is managed by the instance or is borrowed." alt="" coords="565,5,755,32"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_heap_buffer.html#a23801c62dcfb74cab62a9998de65adeb" title=" " alt="" coords="561,56,759,83"/>
+<area shape="rect" id="node6" href="$namespacetklb.html#a3080595da18d742645ec41d61828a426" title=" " alt="" coords="620,107,700,133"/>
+<area shape="rect" id="node8" href="$namespacetklb.html#a7dc2203e89c331e3c85b9e7f16fa6763" title=" " alt="" coords="618,157,702,184"/>
+<area shape="rect" id="node9" href="$classtklb_1_1_heap_buffer.html#a172cd1dde86d1f3b0308fb0ce4a1758a" title="Returns the amount of elements in the container." alt="" coords="579,208,741,235"/>
+<area shape="rect" id="node11" href="$classtklb_1_1_string.html#a2551f7f99fab1486f3d13b3a363824c5" title=" " alt="" coords="353,216,485,243"/>
+<area shape="rect" id="node12" href="$classtklb_1_1_string.html#a2fd6f1c6342e803119507c94cd3c6b76" title=" " alt="" coords="355,267,482,293"/>
+</map>

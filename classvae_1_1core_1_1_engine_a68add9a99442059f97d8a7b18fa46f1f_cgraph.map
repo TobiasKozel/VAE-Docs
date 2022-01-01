@@ -1,0 +1,4 @@
+<map id="vae::core::Engine::setLowpass" name="vae::core::Engine::setLowpass">
+<area shape="rect" id="node1" title="Simple lowpass filter for the voices." alt="" coords="5,5,148,47"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_voice_manger.html#a7ee41f2edab0bd34a0dc436aa9e214ae" title=" " alt="" coords="196,5,368,47"/>
+</map>

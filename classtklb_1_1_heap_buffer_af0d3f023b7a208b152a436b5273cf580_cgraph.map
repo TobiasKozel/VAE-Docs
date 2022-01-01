@@ -1,0 +1,15 @@
+<map id="tklb::HeapBuffer::set" name="tklb::HeapBuffer::set">
+<area shape="rect" id="node1" title="Set data from array." alt="" coords="5,222,163,248"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_heap_buffer.html#afcce6d234f25d074818cdd35e2d33daa" title=" " alt="" coords="215,171,382,198"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_heap_buffer.html#ab37e6c1fc8d124b5737cfdef69b051d1" title="Resize the buffer If the memory is borrowed it will become unique and owned by this instance as soon ..." alt="" coords="211,222,387,248"/>
+<area shape="rect" id="node13" href="$classtklb_1_1_heap_buffer.html#a5ec4892e352b8df099fa1c75cfbf328c" title="Returns the amount of elements in the container." alt="" coords="448,278,611,304"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_heap_buffer.html#aa2212b76d383c1afe3d4da0448133299" title="Allocated the exact size requsted and copies existing objects." alt="" coords="435,160,624,187"/>
+<area shape="rect" id="node12" href="$classtklb_1_1_heap_buffer.html#ad513a99105213150fe287a8c209f8bc2" title=" " alt="" coords="438,212,621,253"/>
+<area shape="rect" id="node5" href="$classtklb_1_1memory_1_1_memory_pool.html#a12db669f354ab3f2037a67db7f0a8229" title=" " alt="" coords="919,14,1117,56"/>
+<area shape="rect" id="node6" href="$classtklb_1_1memory_1_1_memory_pool.html#a23f0f8e6cc9408d522b0165dd0f01ac2" title="Allocate aligned if simd is enabled." alt="" coords="672,44,871,85"/>
+<area shape="rect" id="node7" href="$namespacetklb_1_1memory.html#ab89ec197028f903f4ea125eae46c4a10" title="memcpy wrapper" alt="" coords="697,110,846,136"/>
+<area shape="rect" id="node8" href="$classtklb_1_1memory_1_1_memory_pool.html#ae2f6e404a58380b0bcf0f3de281a7546" title=" " alt="" coords="919,182,1117,224"/>
+<area shape="rect" id="node9" href="$classtklb_1_1memory_1_1_memory_pool.html#a7b2a7e96e64767e2cff9dfddb9085779" title=" " alt="" coords="672,212,871,253"/>
+<area shape="rect" id="node10" href="$classtklb_1_1_heap_buffer.html#af3331f4c39082c6bedf37b7931b1c27a" title="Whether the memory is managed by the instance or is borrowed." alt="" coords="677,278,866,304"/>
+<area shape="rect" id="node11" href="$namespacetklb.html#a3080595da18d742645ec41d61828a426" title=" " alt="" coords="731,328,811,355"/>
+</map>

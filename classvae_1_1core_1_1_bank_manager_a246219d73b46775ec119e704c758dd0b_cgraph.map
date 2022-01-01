@@ -1,0 +1,19 @@
+<map id="vae::core::BankManager::load" name="vae::core::BankManager::load">
+<area shape="rect" id="node1" title=" " alt="" coords="5,339,184,380"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_bank_loader.html#a2a1f294f67b451b337f65b033dd6f0bd" title="Load a bank.json and all wav files referenced in it." alt="" coords="232,339,399,380"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_bank_loader.html#aa6ba40f8098e00d26c335490092fa10a" title=" " alt="" coords="453,5,619,47"/>
+<area shape="rect" id="node6" href="$classtklb_1_1_string.html#a94e674695ef958e3a4d7778c7235856b" title=" " alt="" coords="677,173,826,199"/>
+<area shape="rect" id="node7" href="$classtklb_1_1_string.html#a2fd6f1c6342e803119507c94cd3c6b76" title=" " alt="" coords="881,173,1007,199"/>
+<area shape="rect" id="node8" href="$classtklb_1_1_string.html#a2551f7f99fab1486f3d13b3a363824c5" title=" " alt="" coords="685,375,817,402"/>
+<area shape="rect" id="node9" href="$classtklb_1_1_string.html#af160751fb9fbb7cba71b281db77ce9e5" title=" " alt="" coords="686,426,817,453"/>
+<area shape="rect" id="node10" href="$classvae_1_1core_1_1_bank_loader.html#ac042f4214d94fbf928eb6c34689b7549" title=" " alt="" coords="453,589,619,631"/>
+<area shape="rect" id="node12" href="$structvae_1_1core_1_1_source_loader.html#a7b5866ab44cf2f34a15f3a62b40fe4f4" title="Loads a wav file for the resource." alt="" coords="447,309,625,351"/>
+<area shape="rect" id="node13" href="$classvae_1_1core_1_1fs_1_1_file.html#a9b11ebabdce39848566a1bf4b225d7c2" title=" " alt="" coords="685,528,818,569"/>
+<area shape="rect" id="node14" href="$classvae_1_1core_1_1fs_1_1_file.html#a01e51acff408d0449c1b524c40596470" title=" " alt="" coords="877,469,1011,511"/>
+<area shape="rect" id="node17" href="$classtklb_1_1_string.html#a6106e1733cc6c09b98bd203f8a9a2653" title=" " alt="" coords="466,122,606,149"/>
+<area shape="rect" id="node4" href="$structvae_1_1core_1_1memory_1_1_allocator.html#ab9d50dc662897c7fe691368feffa2f98" title=" " alt="" coords="675,5,828,47"/>
+<area shape="rect" id="node5" href="$namespacetklb.html#a7dc2203e89c331e3c85b9e7f16fa6763" title=" " alt="" coords="902,13,986,39"/>
+<area shape="rect" id="node11" href="$structvae_1_1core_1_1memory_1_1_allocator.html#ad43fb821d811e939ff461747efcaca6e" title=" " alt="" coords="673,593,829,635"/>
+<area shape="rect" id="node16" href="$classtklb_1_1_string.html#a13d38526ab9032342f2d3ced3e6062a9" title=" " alt="" coords="676,274,827,301"/>
+<area shape="rect" id="node15" href="$vae__fs_8hpp.html#a82978d110bb709013681115bb44e48ae" title=" " alt="" coords="889,535,999,562"/>
+</map>

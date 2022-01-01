@@ -1,0 +1,5 @@
+<map id="tklb::HandleBuffer&lt; T, Handle, MaskSplit &gt;" name="tklb::HandleBuffer&lt; T, Handle, MaskSplit &gt;">
+<area shape="rect" id="node1" title="TODO broken don&#39;t use." alt="" coords="8,844,193,1097"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_heap_buffer.html" title=" " alt="" coords="20,439,181,795"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_heap_buffer.html" title="Basically a bad std::vector without exceptions which can also work with foreign memory." alt="" coords="5,5,196,376"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="vae::core::Device::canPush" name="vae::core::Device::canPush">
+<area shape="rect" id="node1" title="Return amount of audio frames which can be pushed in buffer ! this is an estimate when resampling !" alt="" coords="5,71,148,112"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_resampler_speex_tpl.html#a3dfae294ace115762f407fdb183f7170" title="Estimate how many samples need to be put in to get n samples out." alt="" coords="196,5,381,47"/>
+<area shape="rect" id="node3" href="$classtklb_1_1_resampler_speex_tpl.html#a4c850eae9c52572059bf899e672215e2" title=" " alt="" coords="196,71,381,112"/>
+<area shape="rect" id="node4" href="$classtklb_1_1_audio_ring_buffer_tpl.html#a13e4276a05149a5f9c9d26524938bd26" title="Returns how many more elements the buffer can hold." alt="" coords="198,136,379,177"/>
+<area shape="rect" id="node5" href="$classtklb_1_1_audio_buffer_tpl.html#af6df8d7e6840eee3f84807bd1662c3ed" title="Returns the allocated length of the buffer." alt="" coords="429,136,581,177"/>
+</map>

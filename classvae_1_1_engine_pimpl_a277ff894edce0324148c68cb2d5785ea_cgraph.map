@@ -1,0 +1,7 @@
+<map id="vae::EnginePimpl::createEmitter" name="vae::EnginePimpl::createEmitter">
+<area shape="rect" id="node1" title="Creates an emitter and returns the handle." alt="" coords="5,39,189,80"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_engine.html#a400114c6a78c8f77d34567004b471bb3" title="Creates an emitter and returns the handle." alt="" coords="237,39,380,80"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_spatial_manager.html#a3b7a584badb78d373db73bde20e5a85b" title=" " alt="" coords="428,39,619,80"/>
+<area shape="rect" id="node4" href="$classvae_1_1core_1_1_spatial_manager.html#a3f3be0983d6adf3ea217d76477f5d43b" title=" " alt="" coords="667,5,857,47"/>
+<area shape="rect" id="node5" href="$classvae_1_1core_1_1_spatial_manager.html#a8223349a8417dbd972f9979618849a4e" title=" " alt="" coords="667,71,857,112"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="vae::core::BankManager::load" name="vae::core::BankManager::load">
+<area shape="rect" id="node1" title=" " alt="" coords="484,39,663,80"/>
+<area shape="rect" id="node2" href="$classvae_1_1core_1_1_bank_manager.html#ae04256d1f2f2df47d3239993c9bbf12c" title="Will reload all the banks." alt="" coords="257,5,436,47"/>
+<area shape="rect" id="node3" href="$classvae_1_1core_1_1_engine.html#a4af5733f9975fe1c746e75958bc39d23" title="Load bank from filesystem." alt="" coords="275,71,418,112"/>
+<area shape="rect" id="node4" href="$classvae_1_1_engine_pimpl.html#adec77e6ef0f00d52c634611cb6822443" title="Load bank from filesystem." alt="" coords="5,53,209,79"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="80,103,135,130"/>
+</map>

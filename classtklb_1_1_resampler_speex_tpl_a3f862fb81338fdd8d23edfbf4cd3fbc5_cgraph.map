@@ -1,0 +1,4 @@
+<map id="tklb::ResamplerSpeexTpl::calculateBufferSize" name="tklb::ResamplerSpeexTpl::calculateBufferSize">
+<area shape="rect" id="node1" title="Calculate a buffersize fit for the resampled result." alt="" coords="5,5,191,47"/>
+<area shape="rect" id="node2" href="$classtklb_1_1_resampler_speex_tpl.html#a7e0cfe94c073cecfaca12b50401a7815" title="Estimate how many sample will be emitted in the next step." alt="" coords="239,5,424,47"/>
+</map>
