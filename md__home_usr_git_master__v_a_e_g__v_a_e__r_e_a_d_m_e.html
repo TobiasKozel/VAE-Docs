@@ -94,7 +94,7 @@ $(document).ready(function(){initNavTree('md__home_usr_git_master__v_a_e_g__v_a_
 <div class="line">#include &quot;./vae_def.hpp&quot;        // generated bank names from json (generate_bank_defines.py)</div>
 <div class="line"> </div>
 <div class="line">int main() {</div>
-<div class="line">    vae::EnginePimpl e = vae::EnginePimpl::create();</div>
+<div class="line">    auto e = vae::EnginePimpl::create();</div>
 <div class="line">    e-&gt;init();  // Uses default settings and default audio device</div>
 <div class="line">    e-&gt;start(); // Starts audio</div>
 <div class="line">    auto result = e-&gt;loadBank(&quot;bank1&quot;); // open ./bank1/bank.json</div>
@@ -130,20 +130,24 @@ $(document).ready(function(){initNavTree('md__home_usr_git_master__v_a_e_g__v_a_
 <div class="line">make</div>
 </div><!-- fragment --><p> And then use the <a class="el" href="classvae_1_1_engine_pimpl.html" title="Sealed of version of vae::core::Engine.">vae::EnginePimpl</a> class in <a class="el" href="vae__pimpl_8hpp.html">include/vae/vae_pimpl.hpp</a> while linking against the shared libvae.so/dll library.</p>
 <p >Alternatively you can add the whole thing as a subproject and static link against it. Using the pimpl api is optional but the better option since it won't pull in the whole thing.</p>
+<p ><a href="https://tobiaskozel.github.io/VAE-Docs/">doxygen page</a></p>
 <h1><a class="anchor" id="autotoc_md19"></a>
 TODOs</h1>
 <ul>
 <li>Fix click at end of sounds for speex reampled sounds</li>
+<li>Streaming</li>
 <li>Split up pod data and internal data structures so they can be exposed to the public API as well.</li>
-<li>Parameter controls and smoothing</li>
+<li>LFE Channel</li>
+<li>Emitter emittsion patterns</li>
+<li>More generic parameter controls and smoothing</li>
+<li>Send Mixer effects</li>
 <li>progress virtual voices and kill them so they don't pile up</li>
 <li>Event queue for synchronized playback</li>
-<li>State</li>
+<li>State to alter parameters/events</li>
 <li>Automation</li>
 <li>Faster HRTF (currently in time domain and about 80 times slower than a normal voice)</li>
-<li>HRTF interoplation</li>
-<li>streaming</li>
-<li>some sort of basic authoring tool</li>
+<li>HRTF interoplation needed for fast movements</li>
+<li>Some sort of basic authoring tool</li>
 <li>Geometry and material system for obstruction and reverb zones</li>
 </ul>
 <h1><a class="anchor" id="autotoc_md20"></a>

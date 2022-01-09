@@ -209,7 +209,8 @@ template&lt;unsigned int N = 8&gt; </div>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="_t_string_8hpp_source.html#l00017">17</a> of file <a class="el" href="_t_string_8hpp_source.html">TString.hpp</a>.</p>
-<div class="fragment"><div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>{ <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; i : <a class="code hl_variable" href="classtklb_1_1_stack_string.html#a32888823a8c9a922b5b61e2c27cba4be">mData</a>) { i = <span class="charliteral">&#39;\0&#39;</span>; } }</div>
+<div class="fragment"><div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>{ <span class="keywordflow">for</span> (<a class="code hl_typedef" href="classtklb_1_1_stack_string.html#a1b57668ac93ec4f40becb79786c73e2f">Size</a> i = 0; i &lt; N; i++) { <a class="code hl_variable" href="classtklb_1_1_stack_string.html#a32888823a8c9a922b5b61e2c27cba4be">mData</a>[i] = <span class="charliteral">&#39;\0&#39;</span>; } }</div>
+<div class="ttc" id="aclasstklb_1_1_stack_string_html_a1b57668ac93ec4f40becb79786c73e2f"><div class="ttname"><a href="classtklb_1_1_stack_string.html#a1b57668ac93ec4f40becb79786c73e2f">tklb::StackString::Size</a></div><div class="ttdeci">unsigned int Size</div><div class="ttdef"><b>Definition:</b> <a href="_t_string_8hpp_source.html#l00015">TString.hpp:15</a></div></div>
 <div class="ttc" id="aclasstklb_1_1_stack_string_html_a32888823a8c9a922b5b61e2c27cba4be"><div class="ttname"><a href="classtklb_1_1_stack_string.html#a32888823a8c9a922b5b61e2c27cba4be">tklb::StackString::mData</a></div><div class="ttdeci">char mData[N]</div><div class="ttdef"><b>Definition:</b> <a href="_t_string_8hpp_source.html#l00014">TString.hpp:14</a></div></div>
 </div><!-- fragment -->
 </div>
@@ -388,7 +389,6 @@ template&lt;unsigned int N = 8&gt; </div>
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>            }</div>
 <div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>        }</div>
-<div class="ttc" id="aclasstklb_1_1_stack_string_html_a1b57668ac93ec4f40becb79786c73e2f"><div class="ttname"><a href="classtklb_1_1_stack_string.html#a1b57668ac93ec4f40becb79786c73e2f">tklb::StackString::Size</a></div><div class="ttdeci">unsigned int Size</div><div class="ttdef"><b>Definition:</b> <a href="_t_string_8hpp_source.html#l00015">TString.hpp:15</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>

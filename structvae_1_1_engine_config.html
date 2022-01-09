@@ -152,7 +152,7 @@ Static Public Attributes</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >Settings for the engine defined at <a class="el" href="classvae_1_1_engine_pimpl.html#a9512bb5d2b681e39f408901c909034d6" title="Initializes the engine and does most of the upfront allocations.">EnginePimpl::init</a>. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00145">145</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00157">157</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
 </div><h2 class="groupheader">Member Data Documentation</h2>
 <a id="a9d9f50698353d93a038c3b12c48269fa" name="a9d9f50698353d93a038c3b12c48269fa"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a9d9f50698353d93a038c3b12c48269fa">&#9670;&nbsp;</a></span>_preAllocatedEmitters</h2>
@@ -174,7 +174,7 @@ Static Public Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00170">170</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00182">182</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
 
 </div>
 </div>
@@ -193,7 +193,7 @@ Static Public Attributes</h2></td></tr>
 <p>Number of blocks/buffers to processed ahead. </p>
 <p >Increases latency but reduces chances of underruns since it's more forgiving to the scheduler. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00228">228</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00240">240</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
 
 </div>
 </div>
@@ -211,7 +211,7 @@ Static Public Attributes</h2></td></tr>
 
 <p>Each time a event of the type emit gets triggered Used to get information about ending sounds and similar. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00162">162</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00174">174</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
 
 </div>
 </div>
@@ -229,7 +229,7 @@ Static Public Attributes</h2></td></tr>
 
 <p>Custom data that can be accached to the EventCallback to maintain context. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00168">168</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00180">180</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
 
 </div>
 </div>
@@ -248,7 +248,7 @@ Static Public Attributes</h2></td></tr>
 <p>Size of the voice queue for finished voices which need to trigger other events on_end when updating the engine. </p>
 <p >Too low of a value can cause these events to be discarded. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00211">211</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00223">223</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
 
 </div>
 </div>
@@ -267,7 +267,7 @@ Static Public Attributes</h2></td></tr>
 <p>Amount of HRTF panned voices audible at any given time. </p>
 <p >Eats into the budget above. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00197">197</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00209">209</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
 
 </div>
 </div>
@@ -286,7 +286,7 @@ Static Public Attributes</h2></td></tr>
 <p>Samplerate requested from device. </p>
 <p >If it doesn't support it, a resampler is used. Most of the audio samples used should be in this rate. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00156">156</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00168">168</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
 
 </div>
 </div>
@@ -305,7 +305,7 @@ Static Public Attributes</h2></td></tr>
 <p>How many emitters to allocate upfront. </p>
 <p >Once this number is exceeded a reallocation will take place. This might cause a short audio dropout depending on the size. ! internal map allocates power of 2 sizes ! This makes space for 16384 emitters. Having less emitters than amount of voices does't make too much sense since each voice will have one assigned. Unless one emitter triggers a lot of sounds. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00182">182</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00194">194</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
 
 </div>
 </div>
@@ -324,7 +324,7 @@ Static Public Attributes</h2></td></tr>
 <p>Buffer size that will be requested from device. </p>
 <p >Higher values increase latency but reduce chanes of crackles and other artefacts. Some audio backends need higher values to work properly. The actual buffer size might vary based on the device. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00221">221</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00233">233</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
 
 </div>
 </div>
@@ -343,7 +343,7 @@ Static Public Attributes</h2></td></tr>
 <p>If enabled, all processing and mixing will happen in the audio callback. </p>
 <p >This results in lower latency and one less thread running, but this isn't good practice apparently. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00244">244</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00256">256</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
 
 </div>
 </div>
@@ -361,7 +361,7 @@ Static Public Attributes</h2></td></tr>
 
 <p>Path where the bank files are located, needs to end with a trailing /. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00149">149</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00161">161</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
 
 </div>
 </div>
@@ -380,7 +380,7 @@ Static Public Attributes</h2></td></tr>
 <p>If this is true update() does not need to be called on the engine instance. </p>
 <p >This means events will be emitted more offen and if a lot of work is done in the EventCallback defined above, the audio thread will be blocked and underruns occur. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00236">236</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00248">248</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
 
 </div>
 </div>
@@ -397,9 +397,9 @@ Static Public Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Hard limit on virtal voices. </p>
-<p >virtualized voices will be revived as soon as possible and retain their playback position. </p>
+<p >Virtualized voices will be revived as soon as possible and retain their playback position. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00204">204</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00216">216</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
 
 </div>
 </div>
@@ -418,7 +418,7 @@ Static Public Attributes</h2></td></tr>
 <p>Hard limit on concurrent voices, can't be 0 or lower than hrtfVoices. </p>
 <p >Rendering 512 voices with filters and spatialization is probably pushing it for most situations and not even necessary. This is a few years old but AudioKinetic recommends something around a 100 <a href="https://blog.audiokinetic.com/how-to-get-a-hold-on-your-voices-optimizing-for-cpu-part-1/">https://blog.audiokinetic.com/how-to-get-a-hold-on-your-voices-optimizing-for-cpu-part-1/</a> </p>
 
-<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00191">191</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae_8hpp_source.html#l00203">203</a> of file <a class="el" href="vae_8hpp_source.html">vae.hpp</a>.</p>
 
 </div>
 </div>

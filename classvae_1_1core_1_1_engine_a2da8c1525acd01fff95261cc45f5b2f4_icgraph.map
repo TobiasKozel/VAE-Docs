@@ -1,4 +1,5 @@
 <map id="vae::core::Engine::setMixerEffectParameter" name="vae::core::Engine::setMixerEffectParameter">
-<area shape="rect" id="node1" title="Set the Mixer Effect Parameter." alt="" coords="132,5,316,47"/>
-<area shape="rect" id="node2" href="$main_8cpp.html#afe1c3ff6204d9b675caf60b5545e3e54" title=" " alt="" coords="5,13,84,39"/>
+<area shape="rect" id="node1" title="Set the Mixer Effect Parameter." alt="" coords="235,5,419,47"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#afe1c3ff6204d9b675caf60b5545e3e54" title=" " alt="" coords="108,13,187,39"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,13,60,39"/>
 </map>

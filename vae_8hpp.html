@@ -100,7 +100,8 @@ $(document).ready(function(){initNavTree('vae_8hpp.html',''); initResizable(); }
 <div class="textblock"><div class="dynheader">
 This graph shows which files directly or indirectly include this file:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="vae_8hpp__dep__incl.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="vae_8hpp__dep__incl.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
 </div>
 </div>
 <p><a href="vae_8hpp_source.html">Go to the source code of this file.</a></p>
@@ -136,6 +137,9 @@ Namespaces</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:namespacevae_1_1_static_config"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacevae_1_1_static_config.html">vae::StaticConfig</a></td></tr>
 <tr class="memdesc:namespacevae_1_1_static_config"><td class="mdescLeft">&#160;</td><td class="mdescRight">Contains some fundamental Configuration needed at compile time Dynamic settings are contained in the EngineSettings struct above. <br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:namespacevae_1_1_static_config_1_1_speakers"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacevae_1_1_static_config_1_1_speakers.html">vae::StaticConfig::Speakers</a></td></tr>
+<tr class="memdesc:namespacevae_1_1_static_config_1_1_speakers"><td class="mdescLeft">&#160;</td><td class="mdescRight">Placement of the speakers around the listener used for SPCAP panning. <br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
@@ -214,6 +218,16 @@ Enumerations</h2></td></tr>
  }</td></tr>
 <tr class="memdesc:aad3c85b8987f29bac8e35c69d926bb49"><td class="mdescLeft">&#160;</td><td class="mdescRight">Return Types for most engine functions.  <a href="namespacevae.html#aad3c85b8987f29bac8e35c69d926bb49">More...</a><br /></td></tr>
 <tr class="separator:aad3c85b8987f29bac8e35c69d926bb49"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adde3c3c3e95236a2cba5c16a9794e840"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840">vae::LogLevel</a> { <br />
+&#160;&#160;<a class="el" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840aa603905470e2a5b8c13e96b579ef0dba">vae::Debug</a> = 0
+, <a class="el" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840a4059b0251f66a18cb56f544728796875">vae::Info</a>
+, <a class="el" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840a56525ae64d370c0b448ac0d60710ef17">vae::Warn</a>
+, <a class="el" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840a902b0d55fddef6f8d651fe1035b7d4bd">vae::Error</a>
+, <br />
+&#160;&#160;<a class="el" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840ade256ac3e92e33d2bf8266a3e1dc08e7">vae::Ciritical</a>
+<br />
+ }</td></tr>
+<tr class="separator:adde3c3c3e95236a2cba5c16a9794e840"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
@@ -241,10 +255,10 @@ Variables</h2></td></tr>
 <tr class="memdesc:acc7f8c3b935987ac0efb174c6e640fdb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Maximum channel count used to pre allocate buffers.  <a href="namespacevae_1_1_static_config.html#acc7f8c3b935987ac0efb174c6e640fdb">More...</a><br /></td></tr>
 <tr class="separator:acc7f8c3b935987ac0efb174c6e640fdb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7fc8cd884a19dab8c404695deeffffef"><td class="memItemLeft" align="right" valign="top">constexpr Size&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacevae_1_1_static_config.html#a7fc8cd884a19dab8c404695deeffffef">vae::StaticConfig::MaxBlock</a> = 512</td></tr>
-<tr class="memdesc:a7fc8cd884a19dab8c404695deeffffef"><td class="mdescLeft">&#160;</td><td class="mdescRight">Maximum block size Used to preallocate buffers for mixers and dsp.  <a href="namespacevae_1_1_static_config.html#a7fc8cd884a19dab8c404695deeffffef">More...</a><br /></td></tr>
+<tr class="memdesc:a7fc8cd884a19dab8c404695deeffffef"><td class="mdescLeft">&#160;</td><td class="mdescRight">Maximum block size.  <a href="namespacevae_1_1_static_config.html#a7fc8cd884a19dab8c404695deeffffef">More...</a><br /></td></tr>
 <tr class="separator:a7fc8cd884a19dab8c404695deeffffef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aee44df947fc8cc7ff32fed1680aeb3fa"><td class="memItemLeft" align="right" valign="top">constexpr Size&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacevae_1_1_static_config.html#aee44df947fc8cc7ff32fed1680aeb3fa">vae::StaticConfig::StreamPrefetch</a> = 1024 * 8</td></tr>
-<tr class="memdesc:aee44df947fc8cc7ff32fed1680aeb3fa"><td class="mdescLeft">&#160;</td><td class="mdescRight">How many Samples to prefetch for streaming sources TODO no streaming for now might even be a runtime settings.  <a href="namespacevae_1_1_static_config.html#aee44df947fc8cc7ff32fed1680aeb3fa">More...</a><br /></td></tr>
+<tr class="memdesc:aee44df947fc8cc7ff32fed1680aeb3fa"><td class="mdescLeft">&#160;</td><td class="mdescRight">How many Samples to prefetch for streaming sources.  <a href="namespacevae_1_1_static_config.html#aee44df947fc8cc7ff32fed1680aeb3fa">More...</a><br /></td></tr>
 <tr class="separator:aee44df947fc8cc7ff32fed1680aeb3fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4d73d1abf5df0745135e82d798410fe2"><td class="memItemLeft" align="right" valign="top">constexpr Size&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacevae_1_1_static_config.html#a4d73d1abf5df0745135e82d798410fe2">vae::StaticConfig::MaxListeners</a> = 4</td></tr>
 <tr class="memdesc:a4d73d1abf5df0745135e82d798410fe2"><td class="mdescLeft">&#160;</td><td class="mdescRight">How many listeners can observe 3D voices.  <a href="namespacevae_1_1_static_config.html#a4d73d1abf5df0745135e82d798410fe2">More...</a><br /></td></tr>
@@ -260,6 +274,27 @@ Variables</h2></td></tr>
 <tr class="memitem:a0d6f7b1ad4808a34c01f68b15795448c"><td class="memItemLeft" align="right" valign="top">constexpr Sample&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacevae_1_1_static_config.html#a0d6f7b1ad4808a34c01f68b15795448c">vae::StaticConfig::MinVolume</a> = 0.01f</td></tr>
 <tr class="memdesc:a0d6f7b1ad4808a34c01f68b15795448c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Minimum volume before sounds will skip rendering.  <a href="namespacevae_1_1_static_config.html#a0d6f7b1ad4808a34c01f68b15795448c">More...</a><br /></td></tr>
 <tr class="separator:a0d6f7b1ad4808a34c01f68b15795448c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad549474d4baeb6f08008001bd3f40eed"><td class="memItemLeft" align="right" valign="top">constexpr Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacevae_1_1_static_config_1_1_speakers.html#ad549474d4baeb6f08008001bd3f40eed">vae::StaticConfig::Speakers::center</a> = { 0, 0, -1 }</td></tr>
+<tr class="memdesc:ad549474d4baeb6f08008001bd3f40eed"><td class="mdescLeft">&#160;</td><td class="mdescRight">Used for mono and souround setups (except quadrophonic)  <a href="namespacevae_1_1_static_config_1_1_speakers.html#ad549474d4baeb6f08008001bd3f40eed">More...</a><br /></td></tr>
+<tr class="separator:ad549474d4baeb6f08008001bd3f40eed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afcf0d1b912a0ecca307c2b6789a1999f"><td class="memItemLeft" align="right" valign="top">constexpr Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacevae_1_1_static_config_1_1_speakers.html#afcf0d1b912a0ecca307c2b6789a1999f">vae::StaticConfig::Speakers::left</a> = { -1, 0, 0 }</td></tr>
+<tr class="memdesc:afcf0d1b912a0ecca307c2b6789a1999f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Used in 7.1 and Headphones.  <a href="namespacevae_1_1_static_config_1_1_speakers.html#afcf0d1b912a0ecca307c2b6789a1999f">More...</a><br /></td></tr>
+<tr class="separator:afcf0d1b912a0ecca307c2b6789a1999f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4b77c3982516220a377e11cf0da04b40"><td class="memItemLeft" align="right" valign="top">constexpr Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacevae_1_1_static_config_1_1_speakers.html#a4b77c3982516220a377e11cf0da04b40">vae::StaticConfig::Speakers::right</a> = { +1, 0, 0 }</td></tr>
+<tr class="memdesc:a4b77c3982516220a377e11cf0da04b40"><td class="mdescLeft">&#160;</td><td class="mdescRight">Used in 7.1 and Headphones.  <a href="namespacevae_1_1_static_config_1_1_speakers.html#a4b77c3982516220a377e11cf0da04b40">More...</a><br /></td></tr>
+<tr class="separator:a4b77c3982516220a377e11cf0da04b40"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa239ad609d33c02c5257aace5bdb0310"><td class="memItemLeft" align="right" valign="top">constexpr Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacevae_1_1_static_config_1_1_speakers.html#aa239ad609d33c02c5257aace5bdb0310">vae::StaticConfig::Speakers::frontLeft</a> = { +1, 0, -1 }</td></tr>
+<tr class="memdesc:aa239ad609d33c02c5257aace5bdb0310"><td class="mdescLeft">&#160;</td><td class="mdescRight">Stereo and suround setups.  <a href="namespacevae_1_1_static_config_1_1_speakers.html#aa239ad609d33c02c5257aace5bdb0310">More...</a><br /></td></tr>
+<tr class="separator:aa239ad609d33c02c5257aace5bdb0310"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae32d9b434da26d669f557e7e647bc924"><td class="memItemLeft" align="right" valign="top">constexpr Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacevae_1_1_static_config_1_1_speakers.html#ae32d9b434da26d669f557e7e647bc924">vae::StaticConfig::Speakers::frontRight</a> = { +1, 0, -1 }</td></tr>
+<tr class="memdesc:ae32d9b434da26d669f557e7e647bc924"><td class="mdescLeft">&#160;</td><td class="mdescRight">Stereo and suround setups.  <a href="namespacevae_1_1_static_config_1_1_speakers.html#ae32d9b434da26d669f557e7e647bc924">More...</a><br /></td></tr>
+<tr class="separator:ae32d9b434da26d669f557e7e647bc924"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d0acfd0e6fad05676bfe7479c0b637b"><td class="memItemLeft" align="right" valign="top">constexpr Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacevae_1_1_static_config_1_1_speakers.html#a4d0acfd0e6fad05676bfe7479c0b637b">vae::StaticConfig::Speakers::rearLeft</a> = { +1, 0, +1 }</td></tr>
+<tr class="memdesc:a4d0acfd0e6fad05676bfe7479c0b637b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sourund setups.  <a href="namespacevae_1_1_static_config_1_1_speakers.html#a4d0acfd0e6fad05676bfe7479c0b637b">More...</a><br /></td></tr>
+<tr class="separator:a4d0acfd0e6fad05676bfe7479c0b637b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7cf0fcb8560ed12cd0561641ee8db155"><td class="memItemLeft" align="right" valign="top">constexpr Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacevae_1_1_static_config_1_1_speakers.html#a7cf0fcb8560ed12cd0561641ee8db155">vae::StaticConfig::Speakers::rearRight</a> = { +1, 0, +1 }</td></tr>
+<tr class="memdesc:a7cf0fcb8560ed12cd0561641ee8db155"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sourund setups.  <a href="namespacevae_1_1_static_config_1_1_speakers.html#a7cf0fcb8560ed12cd0561641ee8db155">More...</a><br /></td></tr>
+<tr class="separator:a7cf0fcb8560ed12cd0561641ee8db155"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >Contains all public API types for VAE. </p>

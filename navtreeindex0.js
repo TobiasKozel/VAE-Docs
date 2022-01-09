@@ -234,10 +234,10 @@ var NAVTREEINDEX0 =
 "_tpffft_8hpp_source.html":[13,0,18],
 "annotated.html":[12,0],
 "classes.html":[12,1],
-"classtklb_1_1_audio_buffer_tpl.html":[11,0,0,4],
 "classtklb_1_1_audio_buffer_tpl.html":[12,0,0,2],
-"classtklb_1_1_audio_buffer_tpl.html#a01a134c61c03c77292bf8fc1eaf543f9":[12,0,0,2,13],
+"classtklb_1_1_audio_buffer_tpl.html":[11,0,0,4],
 "classtklb_1_1_audio_buffer_tpl.html#a01a134c61c03c77292bf8fc1eaf543f9":[11,0,0,4,13],
+"classtklb_1_1_audio_buffer_tpl.html#a01a134c61c03c77292bf8fc1eaf543f9":[12,0,0,2,13],
 "classtklb_1_1_audio_buffer_tpl.html#a0511106eb2082f3b802fad2e0ee0f3f5":[11,0,0,4,46],
 "classtklb_1_1_audio_buffer_tpl.html#a0511106eb2082f3b802fad2e0ee0f3f5":[12,0,0,2,46],
 "classtklb_1_1_audio_buffer_tpl.html#a06b2b1ce2fdfe1c6d092bbbc11d73e41":[11,0,0,4,18],
@@ -246,8 +246,8 @@ var NAVTREEINDEX0 =
 "classtklb_1_1_audio_buffer_tpl.html#a08517af96ac560ed4fc96db9c1c7c2b3":[12,0,0,2,24],
 "classtklb_1_1_audio_buffer_tpl.html#a0d113ba98349e39fa7ca674705540ecc":[12,0,0,2,12],
 "classtklb_1_1_audio_buffer_tpl.html#a0d113ba98349e39fa7ca674705540ecc":[11,0,0,4,12],
-"classtklb_1_1_audio_buffer_tpl.html#a0d525b2972694ac9ab4028190467de18":[12,0,0,2,16],
 "classtklb_1_1_audio_buffer_tpl.html#a0d525b2972694ac9ab4028190467de18":[11,0,0,4,16],
-"classtklb_1_1_audio_buffer_tpl.html#a11b483db3e1bdbcd70963d40199b6b89":[12,0,0,2,20],
-"classtklb_1_1_audio_buffer_tpl.html#a11b483db3e1bdbcd70963d40199b6b89":[11,0,0,4,20]
+"classtklb_1_1_audio_buffer_tpl.html#a0d525b2972694ac9ab4028190467de18":[12,0,0,2,16],
+"classtklb_1_1_audio_buffer_tpl.html#a11b483db3e1bdbcd70963d40199b6b89":[11,0,0,4,20],
+"classtklb_1_1_audio_buffer_tpl.html#a11b483db3e1bdbcd70963d40199b6b89":[12,0,0,2,20]
 };

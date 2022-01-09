@@ -7,6 +7,7 @@ var vae__profiler_8hpp =
     [ "VAE_PROFILER_FREE_L", "vae__profiler_8hpp.html#a39cf9714ce379f6a1d7dff329a7ab099", null ],
     [ "VAE_PROFILER_MALLOC", "vae__profiler_8hpp.html#a9a9b93c78e17860edc23ccc0b31b90eb", null ],
     [ "VAE_PROFILER_MALLOC_L", "vae__profiler_8hpp.html#aff1739dd8bf21858c754169d83ca1eeb", null ],
+    [ "VAE_PROFILER_MESSAGE", "vae__profiler_8hpp.html#ac7f3eda6cc2d1d4420327e5fca7c14b6", null ],
     [ "VAE_PROFILER_MESSAGE_L", "vae__profiler_8hpp.html#a189f0b4a59731c3aa5940facd7c9455b", null ],
     [ "VAE_PROFILER_MUTEX", "vae__profiler_8hpp.html#a4a465de1f2945093536ab4593b9060e7", null ],
     [ "VAE_PROFILER_OVERLOAD_NEW", "vae__profiler_8hpp.html#aab44aed9767a502cf647722d94d350ca", null ],

@@ -96,8 +96,7 @@ $(document).ready(function(){initNavTree('classvae_1_1core_1_1_effects_processor
 <div class="dynheader">
 Collaboration diagram for vae::core::EffectsProcessor:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classvae_1_1core_1_1_effects_processor__coll__graph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classvae_1_1core_1_1_effects_processor__coll__graph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
@@ -145,8 +144,8 @@ Private Attributes</h2></td></tr>
 <div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>        }</div>
 <div class="ttc" id="aclasstklb_1_1_audio_buffer_tpl_html_a35b40f6d6b1fc2939613b1b84313b0bc"><div class="ttname"><a href="classtklb_1_1_audio_buffer_tpl.html#a35b40f6d6b1fc2939613b1b84313b0bc">tklb::AudioBufferTpl::resize</a></div><div class="ttdeci">bool resize(const Size length, uchar channels)</div><div class="ttdoc">! Will not keep the contents! Resizes the buffer to the desired length and channel count.</div><div class="ttdef"><b>Definition:</b> <a href="_t_audio_buffer_8hpp_source.html#l00276">TAudioBuffer.hpp:276</a></div></div>
 <div class="ttc" id="aclassvae_1_1core_1_1_effects_processor_html_a8738456d7f5f7615a6bcfda96b0068ea"><div class="ttname"><a href="classvae_1_1core_1_1_effects_processor.html#a8738456d7f5f7615a6bcfda96b0068ea">vae::core::EffectsProcessor::mScratchBuffer</a></div><div class="ttdeci">ScratchBuffer mScratchBuffer</div><div class="ttdef"><b>Definition:</b> <a href="vae__effects__processor_8hpp_source.html#l00011">vae_effects_processor.hpp:11</a></div></div>
-<div class="ttc" id="anamespacevae_1_1_static_config_html_a7fc8cd884a19dab8c404695deeffffef"><div class="ttname"><a href="namespacevae_1_1_static_config.html#a7fc8cd884a19dab8c404695deeffffef">vae::StaticConfig::MaxBlock</a></div><div class="ttdeci">constexpr Size MaxBlock</div><div class="ttdoc">Maximum block size Used to preallocate buffers for mixers and dsp.</div><div class="ttdef"><b>Definition:</b> <a href="vae_8hpp_source.html#l00264">vae.hpp:264</a></div></div>
-<div class="ttc" id="anamespacevae_1_1_static_config_html_acc7f8c3b935987ac0efb174c6e640fdb"><div class="ttname"><a href="namespacevae_1_1_static_config.html#acc7f8c3b935987ac0efb174c6e640fdb">vae::StaticConfig::MaxChannels</a></div><div class="ttdeci">constexpr unsigned char MaxChannels</div><div class="ttdoc">Maximum channel count used to pre allocate buffers.</div><div class="ttdef"><b>Definition:</b> <a href="vae_8hpp_source.html#l00256">vae.hpp:256</a></div></div>
+<div class="ttc" id="anamespacevae_1_1_static_config_html_a7fc8cd884a19dab8c404695deeffffef"><div class="ttname"><a href="namespacevae_1_1_static_config.html#a7fc8cd884a19dab8c404695deeffffef">vae::StaticConfig::MaxBlock</a></div><div class="ttdeci">constexpr Size MaxBlock</div><div class="ttdoc">Maximum block size.</div><div class="ttdef"><b>Definition:</b> <a href="vae_8hpp_source.html#l00276">vae.hpp:276</a></div></div>
+<div class="ttc" id="anamespacevae_1_1_static_config_html_acc7f8c3b935987ac0efb174c6e640fdb"><div class="ttname"><a href="namespacevae_1_1_static_config.html#acc7f8c3b935987ac0efb174c6e640fdb">vae::StaticConfig::MaxChannels</a></div><div class="ttdeci">constexpr unsigned char MaxChannels</div><div class="ttdoc">Maximum channel count used to pre allocate buffers.</div><div class="ttdef"><b>Definition:</b> <a href="vae_8hpp_source.html#l00268">vae.hpp:268</a></div></div>
 </div><!-- fragment --><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -205,19 +204,17 @@ Here is the caller graph for this function:</div>
 <div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>            effect.effect-&gt;process(effect, <a class="code hl_variable" href="classvae_1_1core_1_1_effects_processor.html#a8738456d7f5f7615a6bcfda96b0068ea">mScratchBuffer</a>, buffer);</div>
 <div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>        }</div>
 <div class="ttc" id="anamespacetklb_1_1memory_html_a8e863795f7bd94d27b2c21640acc27e1"><div class="ttname"><a href="namespacetklb_1_1memory.html#a8e863795f7bd94d27b2c21640acc27e1">tklb::memory::set</a></div><div class="ttdeci">static void set(void *dst, const unsigned char val, size_t size)</div><div class="ttdoc">memset wrapper</div><div class="ttdef"><b>Definition:</b> <a href="_t_memory_util_8hpp_source.html#l00040">TMemoryUtil.hpp:40</a></div></div>
-<div class="ttc" id="avae__profiler_8hpp_html_a31738f99f75dabdb89f10c54346aa5f8"><div class="ttname"><a href="vae__profiler_8hpp.html#a31738f99f75dabdb89f10c54346aa5f8">VAE_PROFILER_SCOPE_NAMED</a></div><div class="ttdeci">#define VAE_PROFILER_SCOPE_NAMED(name)</div><div class="ttdoc">Profiles a scope and names it.</div><div class="ttdef"><b>Definition:</b> <a href="vae__profiler_8hpp_source.html#l00072">vae_profiler.hpp:72</a></div></div>
+<div class="ttc" id="avae__profiler_8hpp_html_a31738f99f75dabdb89f10c54346aa5f8"><div class="ttname"><a href="vae__profiler_8hpp.html#a31738f99f75dabdb89f10c54346aa5f8">VAE_PROFILER_SCOPE_NAMED</a></div><div class="ttdeci">#define VAE_PROFILER_SCOPE_NAMED(name)</div><div class="ttdoc">Profiles a scope and names it.</div><div class="ttdef"><b>Definition:</b> <a href="vae__profiler_8hpp_source.html#l00073">vae_profiler.hpp:73</a></div></div>
 <div class="ttc" id="avae__util_8hpp_html_a5a2d371fa8d5dcfc0f5f8a6825b14256"><div class="ttname"><a href="vae__util_8hpp.html#a5a2d371fa8d5dcfc0f5f8a6825b14256">VAE_ASSERT</a></div><div class="ttdeci">#define VAE_ASSERT(condition)</div><div class="ttdef"><b>Definition:</b> <a href="vae__util_8hpp_source.html#l00011">vae_util.hpp:11</a></div></div>
 </div><!-- fragment --><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classvae_1_1core_1_1_effects_processor_a460a07e9049a636b7808d575d6d41baa_cgraph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classvae_1_1core_1_1_effects_processor_a460a07e9049a636b7808d575d6d41baa_cgraph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classvae_1_1core_1_1_effects_processor_a460a07e9049a636b7808d575d6d41baa_icgraph.svg" width="100%" height="388"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classvae_1_1core_1_1_effects_processor_a460a07e9049a636b7808d575d6d41baa_icgraph.svg" width="100%" height="388"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 
 </div>

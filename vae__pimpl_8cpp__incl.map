@@ -1,93 +1,95 @@
 <map id="vae_pimpl.cpp" name="vae_pimpl.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="1896,5,2013,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="1548,5,1665,32"/>
 <area shape="rect" id="node2" href="$vae__pimpl_8hpp.html" title=" " alt="" coords="5,244,155,285"/>
-<area shape="rect" id="node4" href="$vae__engine_8hpp.html" title=" " alt="" coords="3765,80,3934,107"/>
-<area shape="rect" id="node3" href="$vae_8hpp.html" title="Contains all public API types for VAE." alt="" coords="2579,1137,2661,1164"/>
-<area shape="rect" id="node5" href="$vae__types_8hpp.html" title="Internal types used across VAE." alt="" coords="2608,944,2733,971"/>
-<area shape="rect" id="node7" href="$vae__config_8hpp.html" title=" " alt="" coords="1107,1033,1237,1060"/>
-<area shape="rect" id="node28" href="$_t_math_8hpp.html" title=" " alt="" coords="4625,1234,4764,1261"/>
-<area shape="rect" id="node39" title=" " alt="" coords="4263,1033,4327,1060"/>
-<area shape="rect" id="node40" href="$vae__util_8hpp.html" title=" " alt="" coords="4402,855,4513,881"/>
-<area shape="rect" id="node41" href="$vae__logger_8hpp.html" title=" " alt="" coords="4553,944,4681,971"/>
-<area shape="rect" id="node43" href="$vae__listener_8hpp.html" title=" " alt="" coords="1223,423,1387,449"/>
-<area shape="rect" id="node44" href="$vae__emitter_8hpp.html" title=" " alt="" coords="1513,341,1676,367"/>
-<area shape="rect" id="node45" href="$vae__voice__manager_8hpp.html" title="Holds all voices and starts/stops them." alt="" coords="1092,594,1279,621"/>
-<area shape="rect" id="node51" href="$vae__voice__filter_8hpp.html" title=" " alt="" coords="442,676,585,717"/>
-<area shape="rect" id="node54" href="$vae__spatial__manager_8hpp.html" title=" " alt="" coords="1885,251,2081,278"/>
-<area shape="rect" id="node55" href="$vae__bank__manager_8hpp.html" title=" " alt="" coords="3072,341,3256,367"/>
-<area shape="rect" id="node76" href="$vae__processor_8hpp.html" title=" " alt="" coords="778,505,995,531"/>
-<area shape="rect" id="node77" href="$vae__spatial__processor_8hpp.html" title=" " alt="" coords="1811,155,1983,196"/>
-<area shape="rect" id="node83" href="$vae__mixer__processor_8hpp.html" title=" " alt="" coords="3133,497,3299,539"/>
-<area shape="rect" id="node85" href="$vae__default__backend_8hpp.html" title=" " alt="" coords="3937,244,4092,285"/>
-<area shape="rect" id="node90" title=" " alt="" coords="4657,162,4721,189"/>
-<area shape="rect" id="node91" title=" " alt="" coords="4746,162,4889,189"/>
-<area shape="rect" id="node6" href="$vae__profiler_8hpp.html" title=" " alt="" coords="4130,1137,4329,1164"/>
-<area shape="rect" id="node8" title=" " alt="" coords="2658,1026,2787,1067"/>
-<area shape="rect" id="node9" href="$_t_audio_buffer_8hpp.html" title=" " alt="" coords="3606,1130,3845,1171"/>
-<area shape="rect" id="node34" href="$_t_audio_ring_buffer_8hpp.html" title=" " alt="" coords="3295,1019,3497,1075"/>
-<area shape="rect" id="node35" href="$_t_string_8hpp.html" title=" " alt="" coords="3213,1130,3376,1171"/>
-<area shape="rect" id="node36" href="$vae__allocators_8hpp.html" title=" " alt="" coords="503,1033,657,1060"/>
-<area shape="rect" id="node10" title=" " alt="" coords="3980,1316,4065,1343"/>
-<area shape="rect" id="node11" title=" " alt="" coords="335,1391,393,1417"/>
-<area shape="rect" id="node12" title=" " alt="" coords="3679,1234,3771,1261"/>
-<area shape="rect" id="node13" href="$_t_memory_8hpp.html" title=" " alt="" coords="4409,1234,4601,1261"/>
-<area shape="rect" id="node21" href="$_t_assert_8h.html" title=" " alt="" coords="4591,1480,4710,1507"/>
-<area shape="rect" id="node29" title=" " alt="" coords="3796,1227,3985,1268"/>
-<area shape="rect" id="node30" href="$_t_heap_buffer_8hpp.html" title=" " alt="" coords="3513,1234,3655,1261"/>
-<area shape="rect" id="node14" href="$_t_memory_pool_8hpp.html" title=" " alt="" coords="4256,1391,4403,1417"/>
-<area shape="rect" id="node26" href="$_t_memory_pool_std_8hpp.html" title=" " alt="" coords="4187,1316,4355,1343"/>
-<area shape="rect" id="node27" href="$_t_memory_pool_stack_8hpp.html" title=" " alt="" coords="4430,1316,4613,1343"/>
-<area shape="rect" id="node15" title=" " alt="" coords="4161,1480,4221,1507"/>
-<area shape="rect" id="node16" title=" " alt="" coords="4488,1480,4555,1507"/>
-<area shape="rect" id="node17" title=" " alt="" coords="3530,1480,3579,1507"/>
-<area shape="rect" id="node18" href="$_t_memory_util_8hpp.html" title=" " alt="" coords="3757,1480,3899,1507"/>
-<area shape="rect" id="node23" href="$_t_spin_lock_8hpp.html" title=" " alt="" coords="4245,1480,4413,1507"/>
-<area shape="rect" id="node24" href="$_t_lock_guard_8hpp.html" title=" " alt="" coords="4323,1569,4458,1596"/>
-<area shape="rect" id="node25" title=" " alt="" coords="3975,1465,4137,1521"/>
-<area shape="rect" id="node19" title=" " alt="" coords="3609,1569,3676,1596"/>
-<area shape="rect" id="node20" title=" " alt="" coords="3793,1569,3863,1596"/>
-<area shape="rect" id="node22" title=" " alt="" coords="4616,1569,4685,1596"/>
-<area shape="rect" id="node31" title=" " alt="" coords="1394,1316,1457,1343"/>
-<area shape="rect" id="node32" href="$_t_allocator_8hpp.html" title=" " alt="" coords="3271,1316,3454,1343"/>
-<area shape="rect" id="node33" title=" " alt="" coords="3139,1391,3213,1417"/>
-<area shape="rect" id="node37" title=" " alt="" coords="699,1137,765,1164"/>
-<area shape="rect" id="node38" title=" " alt="" coords="605,1137,675,1164"/>
-<area shape="rect" id="node42" title=" " alt="" coords="4452,1033,4519,1060"/>
-<area shape="rect" id="node46" href="$vae__source_8hpp.html" title=" " alt="" coords="975,855,1135,881"/>
-<area shape="rect" id="node47" href="$vae__event_8hpp.html" title=" " alt="" coords="2409,683,2564,710"/>
-<area shape="rect" id="node50" href="$vae__voice_8hpp.html" title=" " alt="" coords="619,765,789,792"/>
-<area shape="rect" id="node52" href="$vae__voice__pan_8hpp.html" title=" " alt="" coords="661,676,803,717"/>
-<area shape="rect" id="node53" href="$vae__voice__hrtf_8hpp.html" title=" " alt="" coords="757,847,899,889"/>
-<area shape="rect" id="node48" href="$vae__mixer_8hpp.html" title=" " alt="" coords="2809,765,2935,792"/>
-<area shape="rect" id="node49" href="$vae__effect_8hpp.html" title=" " alt="" coords="2911,855,3038,881"/>
-<area shape="rect" id="node75" title=" " alt="" coords="1802,333,1979,375"/>
-<area shape="rect" id="node56" href="$vae__bank_8hpp.html" title=" " alt="" coords="2505,594,2655,621"/>
-<area shape="rect" id="node57" href="$vae__bank__loader_8hpp.html" title=" " alt="" coords="2377,505,2559,531"/>
-<area shape="rect" id="node66" href="$_t_resampler_8hpp.html" title=" " alt="" coords="4537,840,4732,896"/>
-<area shape="rect" id="node69" href="$vae__effects__factory_8hpp.html" title=" " alt="" coords="3219,423,3431,449"/>
-<area shape="rect" id="node58" href="$vae__source__loader_8hpp.html" title=" " alt="" coords="3351,765,3529,792"/>
-<area shape="rect" id="node63" href="$vae__fs_8hpp.html" title=" " alt="" coords="3789,855,3966,881"/>
-<area shape="rect" id="node64" title=" " alt="" coords="1783,847,1972,889"/>
-<area shape="rect" id="node65" title=" " alt="" coords="2097,847,2287,889"/>
-<area shape="rect" id="node59" href="$_t_wave_file_8hpp.html" title=" " alt="" coords="3622,1026,3847,1067"/>
-<area shape="rect" id="node61" href="$_t_ogg_file_8hpp.html" title=" " alt="" coords="3871,1026,4086,1067"/>
-<area shape="rect" id="node60" title=" " alt="" coords="3401,1130,3530,1171"/>
-<area shape="rect" id="node62" title=" " alt="" coords="3920,1130,4056,1171"/>
-<area shape="rect" id="node67" href="$_t_resampler_speex_8hpp.html" title=" " alt="" coords="4644,1033,4820,1060"/>
-<area shape="rect" id="node68" title=" " alt="" coords="4588,1123,4769,1179"/>
-<area shape="rect" id="node70" href="$vae__effects__list_8hpp.html" title=" " alt="" coords="3426,505,3587,531"/>
-<area shape="rect" id="node71" href="$vae__effect__base_8hpp.html" title=" " alt="" coords="3009,765,3175,792"/>
-<area shape="rect" id="node72" href="$reverb__gen_8hpp.html" title=" " alt="" coords="3714,587,3857,628"/>
-<area shape="rect" id="node73" href="$vae__faust__common_8hpp.html" title=" " alt="" coords="3170,683,3361,710"/>
-<area shape="rect" id="node74" title=" " alt="" coords="3719,683,3787,710"/>
-<area shape="rect" id="node78" href="$vae__spcap_8hpp.html" title=" " alt="" coords="4116,765,4279,792"/>
-<area shape="rect" id="node79" href="$vae__hrtf__util_8hpp.html" title=" " alt="" coords="1335,765,1511,792"/>
-<area shape="rect" id="node81" href="$vae__hrtf__loader_8hpp.html" title=" " alt="" coords="1940,765,2119,792"/>
-<area shape="rect" id="node82" title=" " alt="" coords="2361,847,2583,889"/>
-<area shape="rect" id="node80" href="$vae__hrtf_8hpp.html" title=" " alt="" coords="1463,855,1607,881"/>
-<area shape="rect" id="node84" href="$vae__effects__processor_8hpp.html" title=" " alt="" coords="2892,683,3095,710"/>
-<area shape="rect" id="node86" href="$vae__device__dummy_8hpp.html" title=" " alt="" coords="3804,423,3991,449"/>
-<area shape="rect" id="node87" href="$vae__device_8hpp.html" title=" " alt="" coords="3554,765,3686,792"/>
-<area shape="rect" id="node88" href="$_t_delegate_8hpp.html" title=" " alt="" coords="4041,847,4225,889"/>
-<area shape="rect" id="node89" href="$vae__backend_8hpp.html" title=" " alt="" coords="3417,855,3561,881"/>
+<area shape="rect" id="node4" href="$vae__engine_8hpp.html" title=" " alt="" coords="3050,80,3219,107"/>
+<area shape="rect" id="node3" href="$vae_8hpp.html" title="Contains all public API types for VAE." alt="" coords="2767,1137,2849,1164"/>
+<area shape="rect" id="node5" href="$vae__types_8hpp.html" title="Internal types used across VAE." alt="" coords="2643,944,2768,971"/>
+<area shape="rect" id="node7" href="$vae__config_8hpp.html" title=" " alt="" coords="1146,1033,1275,1060"/>
+<area shape="rect" id="node28" href="$_t_math_8hpp.html" title=" " alt="" coords="4457,1234,4596,1261"/>
+<area shape="rect" id="node39" title=" " alt="" coords="3656,1033,3720,1060"/>
+<area shape="rect" id="node40" href="$vae__util_8hpp.html" title=" " alt="" coords="3782,855,3893,881"/>
+<area shape="rect" id="node41" href="$vae__logger_8hpp.html" title=" " alt="" coords="4072,944,4200,971"/>
+<area shape="rect" id="node45" href="$vae__listener_8hpp.html" title=" " alt="" coords="1970,423,2134,449"/>
+<area shape="rect" id="node46" href="$vae__emitter_8hpp.html" title=" " alt="" coords="3468,341,3631,367"/>
+<area shape="rect" id="node47" href="$vae__voice__manager_8hpp.html" title="Holds all voices and starts/stops them." alt="" coords="1019,594,1205,621"/>
+<area shape="rect" id="node53" href="$vae__voice__filter_8hpp.html" title=" " alt="" coords="827,676,970,717"/>
+<area shape="rect" id="node56" href="$vae__spatial__manager_8hpp.html" title=" " alt="" coords="2781,251,2977,278"/>
+<area shape="rect" id="node57" href="$vae__bank__manager_8hpp.html" title=" " alt="" coords="3043,341,3227,367"/>
+<area shape="rect" id="node78" href="$vae__processor_8hpp.html" title=" " alt="" coords="675,505,893,531"/>
+<area shape="rect" id="node79" href="$vae__spatial__processor_8hpp.html" title=" " alt="" coords="1334,155,1506,196"/>
+<area shape="rect" id="node85" href="$vae__mixer__processor_8hpp.html" title=" " alt="" coords="2446,497,2613,539"/>
+<area shape="rect" id="node87" href="$vae__default__backend_8hpp.html" title=" " alt="" coords="3968,244,4123,285"/>
+<area shape="rect" id="node92" title=" " alt="" coords="4659,162,4723,189"/>
+<area shape="rect" id="node93" title=" " alt="" coords="4747,162,4890,189"/>
+<area shape="rect" id="node6" href="$vae__profiler_8hpp.html" title=" " alt="" coords="3551,1137,3750,1164"/>
+<area shape="rect" id="node8" title=" " alt="" coords="2641,1026,2770,1067"/>
+<area shape="rect" id="node9" href="$_t_audio_buffer_8hpp.html" title=" " alt="" coords="4054,1130,4293,1171"/>
+<area shape="rect" id="node34" href="$_t_audio_ring_buffer_8hpp.html" title=" " alt="" coords="3430,1019,3631,1075"/>
+<area shape="rect" id="node35" href="$_t_string_8hpp.html" title=" " alt="" coords="2580,1130,2743,1171"/>
+<area shape="rect" id="node36" href="$vae__allocators_8hpp.html" title=" " alt="" coords="2998,1033,3151,1060"/>
+<area shape="rect" id="node10" title=" " alt="" coords="4025,1316,4111,1343"/>
+<area shape="rect" id="node11" title=" " alt="" coords="456,1391,515,1417"/>
+<area shape="rect" id="node12" title=" " alt="" coords="4341,1234,4433,1261"/>
+<area shape="rect" id="node13" href="$_t_memory_8hpp.html" title=" " alt="" coords="4772,1234,4964,1261"/>
+<area shape="rect" id="node21" href="$_t_assert_8h.html" title=" " alt="" coords="4330,1480,4449,1507"/>
+<area shape="rect" id="node29" title=" " alt="" coords="4076,1227,4265,1268"/>
+<area shape="rect" id="node30" href="$_t_heap_buffer_8hpp.html" title=" " alt="" coords="3694,1234,3837,1261"/>
+<area shape="rect" id="node14" href="$_t_memory_pool_8hpp.html" title=" " alt="" coords="4863,1391,5009,1417"/>
+<area shape="rect" id="node26" href="$_t_memory_pool_std_8hpp.html" title=" " alt="" coords="4973,1316,5141,1343"/>
+<area shape="rect" id="node27" href="$_t_memory_pool_stack_8hpp.html" title=" " alt="" coords="4766,1316,4949,1343"/>
+<area shape="rect" id="node15" title=" " alt="" coords="4639,1480,4699,1507"/>
+<area shape="rect" id="node16" title=" " alt="" coords="5152,1480,5219,1507"/>
+<area shape="rect" id="node17" title=" " alt="" coords="3682,1480,3731,1507"/>
+<area shape="rect" id="node18" href="$_t_memory_util_8hpp.html" title=" " alt="" coords="4473,1480,4615,1507"/>
+<area shape="rect" id="node23" href="$_t_spin_lock_8hpp.html" title=" " alt="" coords="4960,1480,5128,1507"/>
+<area shape="rect" id="node24" href="$_t_lock_guard_8hpp.html" title=" " alt="" coords="4915,1569,5050,1596"/>
+<area shape="rect" id="node25" title=" " alt="" coords="4723,1465,4885,1521"/>
+<area shape="rect" id="node19" title=" " alt="" coords="3557,1569,3624,1596"/>
+<area shape="rect" id="node20" title=" " alt="" coords="4509,1569,4579,1596"/>
+<area shape="rect" id="node22" title=" " alt="" coords="4355,1569,4424,1596"/>
+<area shape="rect" id="node31" title=" " alt="" coords="1795,1316,1858,1343"/>
+<area shape="rect" id="node32" href="$_t_allocator_8hpp.html" title=" " alt="" coords="3705,1316,3887,1343"/>
+<area shape="rect" id="node33" title=" " alt="" coords="3963,1391,4037,1417"/>
+<area shape="rect" id="node37" title=" " alt="" coords="2997,1137,3062,1164"/>
+<area shape="rect" id="node38" title=" " alt="" coords="3086,1137,3157,1164"/>
+<area shape="rect" id="node42" title=" " alt="" coords="3744,1033,3811,1060"/>
+<area shape="rect" id="node43" title=" " alt="" coords="3936,1033,4011,1060"/>
+<area shape="rect" id="node44" title=" " alt="" coords="4035,1026,4213,1067"/>
+<area shape="rect" id="node48" href="$vae__source_8hpp.html" title=" " alt="" coords="3917,855,4077,881"/>
+<area shape="rect" id="node49" href="$vae__event_8hpp.html" title=" " alt="" coords="1979,683,2133,710"/>
+<area shape="rect" id="node52" href="$vae__voice_8hpp.html" title=" " alt="" coords="569,765,740,792"/>
+<area shape="rect" id="node54" href="$vae__voice__pan_8hpp.html" title=" " alt="" coords="457,676,599,717"/>
+<area shape="rect" id="node55" href="$vae__voice__hrtf_8hpp.html" title=" " alt="" coords="675,847,818,889"/>
+<area shape="rect" id="node50" href="$vae__mixer_8hpp.html" title=" " alt="" coords="2411,765,2536,792"/>
+<area shape="rect" id="node51" href="$vae__effect_8hpp.html" title=" " alt="" coords="2595,855,2722,881"/>
+<area shape="rect" id="node77" title=" " alt="" coords="2790,333,2967,375"/>
+<area shape="rect" id="node58" href="$vae__bank_8hpp.html" title=" " alt="" coords="2136,594,2285,621"/>
+<area shape="rect" id="node59" href="$vae__bank__loader_8hpp.html" title=" " alt="" coords="2821,505,3003,531"/>
+<area shape="rect" id="node68" href="$_t_resampler_8hpp.html" title=" " alt="" coords="4659,840,4853,896"/>
+<area shape="rect" id="node71" href="$vae__effects__factory_8hpp.html" title=" " alt="" coords="3301,423,3513,449"/>
+<area shape="rect" id="node60" href="$vae__source__loader_8hpp.html" title=" " alt="" coords="4107,765,4285,792"/>
+<area shape="rect" id="node65" href="$vae__fs_8hpp.html" title=" " alt="" coords="4203,855,4381,881"/>
+<area shape="rect" id="node66" title=" " alt="" coords="1965,847,2155,889"/>
+<area shape="rect" id="node67" title=" " alt="" coords="2179,847,2368,889"/>
+<area shape="rect" id="node61" href="$_t_wave_file_8hpp.html" title=" " alt="" coords="4679,1026,4905,1067"/>
+<area shape="rect" id="node63" href="$_t_ogg_file_8hpp.html" title=" " alt="" coords="4339,1026,4554,1067"/>
+<area shape="rect" id="node62" title=" " alt="" coords="4681,1130,4810,1171"/>
+<area shape="rect" id="node64" title=" " alt="" coords="4368,1130,4504,1171"/>
+<area shape="rect" id="node69" href="$_t_resampler_speex_8hpp.html" title=" " alt="" coords="5029,1033,5205,1060"/>
+<area shape="rect" id="node70" title=" " alt="" coords="5037,1123,5219,1179"/>
+<area shape="rect" id="node72" href="$vae__effects__list_8hpp.html" title=" " alt="" coords="3602,505,3763,531"/>
+<area shape="rect" id="node73" href="$vae__effect__base_8hpp.html" title=" " alt="" coords="3000,765,3165,792"/>
+<area shape="rect" id="node74" href="$reverb__gen_8hpp.html" title=" " alt="" coords="4277,587,4419,628"/>
+<area shape="rect" id="node75" href="$vae__faust__common_8hpp.html" title=" " alt="" coords="3107,683,3298,710"/>
+<area shape="rect" id="node76" title=" " alt="" coords="4314,683,4382,710"/>
+<area shape="rect" id="node80" href="$vae__spcap_8hpp.html" title=" " alt="" coords="2712,765,2875,792"/>
+<area shape="rect" id="node81" href="$vae__hrtf__util_8hpp.html" title=" " alt="" coords="1331,765,1507,792"/>
+<area shape="rect" id="node83" href="$vae__hrtf__loader_8hpp.html" title=" " alt="" coords="1955,765,2133,792"/>
+<area shape="rect" id="node84" title=" " alt="" coords="1299,847,1520,889"/>
+<area shape="rect" id="node82" href="$vae__hrtf_8hpp.html" title=" " alt="" coords="1595,855,1739,881"/>
+<area shape="rect" id="node86" href="$vae__effects__processor_8hpp.html" title=" " alt="" coords="2461,683,2664,710"/>
+<area shape="rect" id="node88" href="$vae__device__dummy_8hpp.html" title=" " alt="" coords="3964,423,4151,449"/>
+<area shape="rect" id="node89" href="$vae__device_8hpp.html" title=" " alt="" coords="3342,765,3474,792"/>
+<area shape="rect" id="node90" href="$_t_delegate_8hpp.html" title=" " alt="" coords="3573,847,3757,889"/>
+<area shape="rect" id="node91" href="$vae__backend_8hpp.html" title=" " alt="" coords="3253,855,3397,881"/>
 </map>

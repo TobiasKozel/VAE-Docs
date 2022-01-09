@@ -1,4 +1,6 @@
 <map id="vae::core::Engine::setSpeed" name="vae::core::Engine::setSpeed">
-<area shape="rect" id="node1" title="Set the playback speed." alt="" coords="256,5,399,47"/>
-<area shape="rect" id="node2" href="$classvae_1_1_engine_pimpl.html#aa1d281cbc38abb9612849d5e333f1f6c" title="Set the playback speed." alt="" coords="5,13,208,39"/>
+<area shape="rect" id="node1" title="Set the playback speed." alt="" coords="359,23,501,65"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#afe1c3ff6204d9b675caf60b5545e3e54" title=" " alt="" coords="170,5,249,32"/>
+<area shape="rect" id="node4" href="$classvae_1_1_engine_pimpl.html#aa1d281cbc38abb9612849d5e333f1f6c" title="Set the playback speed." alt="" coords="108,56,311,83"/>
+<area shape="rect" id="node3" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,60,32"/>
 </map>

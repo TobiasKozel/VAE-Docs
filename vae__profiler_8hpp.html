@@ -94,7 +94,8 @@ $(document).ready(function(){initNavTree('vae__profiler_8hpp.html',''); initResi
 <div class="textblock"><div class="dynheader">
 This graph shows which files directly or indirectly include this file:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="vae__profiler_8hpp__dep__incl.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="vae__profiler_8hpp__dep__incl.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
 </div>
 </div>
 <p><a href="vae__profiler_8hpp_source.html">Go to the source code of this file.</a></p>
@@ -133,8 +134,11 @@ Macros</h2></td></tr>
 <tr class="memdesc:ad23806edae663817bf6cb5a7766557c6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets name for current thread.  <a href="vae__profiler_8hpp.html#ad23806edae663817bf6cb5a7766557c6">More...</a><br /></td></tr>
 <tr class="separator:ad23806edae663817bf6cb5a7766557c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a189f0b4a59731c3aa5940facd7c9455b"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__profiler_8hpp.html#a189f0b4a59731c3aa5940facd7c9455b">VAE_PROFILER_MESSAGE_L</a>(msg)</td></tr>
-<tr class="memdesc:a189f0b4a59731c3aa5940facd7c9455b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Send message to profiler.  <a href="vae__profiler_8hpp.html#a189f0b4a59731c3aa5940facd7c9455b">More...</a><br /></td></tr>
+<tr class="memdesc:a189f0b4a59731c3aa5940facd7c9455b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Send literal message to profiler.  <a href="vae__profiler_8hpp.html#a189f0b4a59731c3aa5940facd7c9455b">More...</a><br /></td></tr>
 <tr class="separator:a189f0b4a59731c3aa5940facd7c9455b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac7f3eda6cc2d1d4420327e5fca7c14b6"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__profiler_8hpp.html#ac7f3eda6cc2d1d4420327e5fca7c14b6">VAE_PROFILER_MESSAGE</a>(msg,  size)</td></tr>
+<tr class="memdesc:ac7f3eda6cc2d1d4420327e5fca7c14b6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Send dynamic string message.  <a href="vae__profiler_8hpp.html#ac7f3eda6cc2d1d4420327e5fca7c14b6">More...</a><br /></td></tr>
+<tr class="separator:ac7f3eda6cc2d1d4420327e5fca7c14b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9a9b93c78e17860edc23ccc0b31b90eb"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__profiler_8hpp.html#a9a9b93c78e17860edc23ccc0b31b90eb">VAE_PROFILER_MALLOC</a>(ptr,  size)</td></tr>
 <tr class="memdesc:a9a9b93c78e17860edc23ccc0b31b90eb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Track allocation.  <a href="vae__profiler_8hpp.html#a9a9b93c78e17860edc23ccc0b31b90eb">More...</a><br /></td></tr>
 <tr class="separator:a9a9b93c78e17860edc23ccc0b31b90eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -215,7 +219,7 @@ Variables</h2></td></tr>
 
 <p>Marks a frame to calculate FPS, not really needed for audio. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00068">68</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00069">69</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
 
 </div>
 </div>
@@ -237,7 +241,7 @@ Variables</h2></td></tr>
 
 <p>Stops a named frame. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00070">70</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00071">71</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
 
 </div>
 </div>
@@ -259,7 +263,7 @@ Variables</h2></td></tr>
 
 <p>Starts a named frame, uses const defined above to maintain the same pointer. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00069">69</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00070">70</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
 
 </div>
 </div>
@@ -281,7 +285,7 @@ Variables</h2></td></tr>
 
 <p>Track free. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00077">77</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00079">79</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
 
 </div>
 </div>
@@ -313,7 +317,7 @@ Variables</h2></td></tr>
 
 <p>Track named allocaions. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00080">80</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00082">82</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
 
 </div>
 </div>
@@ -345,7 +349,7 @@ Variables</h2></td></tr>
 
 <p>Track allocation. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00076">76</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00078">78</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
 
 </div>
 </div>
@@ -383,7 +387,39 @@ Variables</h2></td></tr>
 
 <p>Track named allocaions. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00081">81</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00083">83</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
+
+</div>
+</div>
+<a id="ac7f3eda6cc2d1d4420327e5fca7c14b6" name="ac7f3eda6cc2d1d4420327e5fca7c14b6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac7f3eda6cc2d1d4420327e5fca7c14b6">&#9670;&nbsp;</a></span>VAE_PROFILER_MESSAGE</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define VAE_PROFILER_MESSAGE</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">msg, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">size&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Send dynamic string message. </p>
+
+<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00077">77</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
 
 </div>
 </div>
@@ -403,9 +439,9 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p>Send message to profiler. </p>
+<p>Send literal message to profiler. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00075">75</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00076">76</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
 
 </div>
 </div>
@@ -441,7 +477,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00079">79</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00081">81</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
 
 </div>
 </div>
@@ -462,7 +498,7 @@ Variables</h2></td></tr>
 
 <p>Overloads new and delete of class to be tracked. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00078">78</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00080">80</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
 
 </div>
 </div>
@@ -494,7 +530,7 @@ Variables</h2></td></tr>
 
 <p>Records a value. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00073">73</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00074">74</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
 
 </div>
 </div>
@@ -515,7 +551,7 @@ Variables</h2></td></tr>
 
 <p>Profiles a scope. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00071">71</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00072">72</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
 
 </div>
 </div>
@@ -537,7 +573,7 @@ Variables</h2></td></tr>
 
 <p>Profiles a scope and names it. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00072">72</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00073">73</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
 
 </div>
 </div>
@@ -559,7 +595,7 @@ Variables</h2></td></tr>
 
 <p>Sets name for current thread. </p>
 
-<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00074">74</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__profiler_8hpp_source.html#l00075">75</a> of file <a class="el" href="vae__profiler_8hpp_source.html">vae_profiler.hpp</a>.</p>
 
 </div>
 </div>

@@ -85,16 +85,22 @@ $(document).ready(function(){initNavTree('vae__logger_8hpp.html',''); initResiza
 
 <div class="header">
   <div class="summary">
-<a href="#define-members">Macros</a>  </div>
+<a href="#define-members">Macros</a> &#124;
+<a href="#func-members">Functions</a>  </div>
   <div class="headertitle"><div class="title">vae_logger.hpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;stdio.h&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="vae_8hpp_source.html">../../include/vae/vae.hpp</a>&quot;</code><br />
+<code>#include &lt;stdio.h&gt;</code><br />
+<code>#include &quot;<a class="el" href="vae__profiler_8hpp_source.html">../wrapped/vae_profiler.hpp</a>&quot;</code><br />
+<code>#include &lt;stdarg.h&gt;</code><br />
 <code>#include &lt;cstring&gt;</code><br />
+<code>#include &quot;../../external/headeronly/stb_sprintf.h&quot;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for vae_logger.hpp:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="vae__logger_8hpp__incl.svg" width="168" height="112"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="vae__logger_8hpp__incl.svg" width="100%" height="395"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
 </div>
 </div><div class="textblock"><div class="dynheader">
 This graph shows which files directly or indirectly include this file:</div>
@@ -106,39 +112,44 @@ This graph shows which files directly or indirectly include this file:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
 Macros</h2></td></tr>
-<tr class="memitem:a812fa7e62a3a008a41e354e40029ea61"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__logger_8hpp.html#a812fa7e62a3a008a41e354e40029ea61">VAE_FORCE_LOG</a></td></tr>
-<tr class="separator:a812fa7e62a3a008a41e354e40029ea61"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aba237dce4573f12fed88577d6de9a114"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__logger_8hpp.html#aba237dce4573f12fed88577d6de9a114">VAE_PRINT</a>(...)&#160;&#160;&#160;printf(__VA_ARGS__);</td></tr>
-<tr class="separator:aba237dce4573f12fed88577d6de9a114"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5fccb4fc71e44089a1b1a77fc76c0b68"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__logger_8hpp.html#a5fccb4fc71e44089a1b1a77fc76c0b68">__FILENAME__</a>&#160;&#160;&#160;(strrchr(__FILE__, '/') ? strrchr(__FILE__, '/') + 1 : __FILE__)</td></tr>
-<tr class="separator:a5fccb4fc71e44089a1b1a77fc76c0b68"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6d1a28e591026d301c7272fe99e95428"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__logger_8hpp.html#a6d1a28e591026d301c7272fe99e95428">VAE_DEBUG</a>(msg, ...)&#160;&#160;&#160;<a class="el" href="vae__logger_8hpp.html#aba237dce4573f12fed88577d6de9a114">VAE_PRINT</a>(&quot;DEBUG\t| %s:%i \t| &quot; msg &quot;\n&quot;, __FILENAME__, __LINE__, ## __VA_ARGS__); <a class="el" href="vae__profiler_8hpp.html#a189f0b4a59731c3aa5940facd7c9455b">VAE_PROFILER_MESSAGE_L</a>(&quot;DEBUG\t&quot; msg)</td></tr>
-<tr class="separator:a6d1a28e591026d301c7272fe99e95428"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a43d4ce2dfdb2be44a3211c2025c3ddaf"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__logger_8hpp.html#a43d4ce2dfdb2be44a3211c2025c3ddaf">VAE_INFO</a>(msg, ...)&#160;&#160;&#160;<a class="el" href="vae__logger_8hpp.html#aba237dce4573f12fed88577d6de9a114">VAE_PRINT</a>( &quot;INFO\t| %s:%i \t| &quot; msg &quot;\n&quot;, __FILENAME__, __LINE__, ## __VA_ARGS__); <a class="el" href="vae__profiler_8hpp.html#a189f0b4a59731c3aa5940facd7c9455b">VAE_PROFILER_MESSAGE_L</a>(&quot;INFO\t&quot;  msg)</td></tr>
-<tr class="separator:a43d4ce2dfdb2be44a3211c2025c3ddaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2e91349d29889f2beee861fbbc54f849"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__logger_8hpp.html#a2e91349d29889f2beee861fbbc54f849">VAE_WARN</a>(msg, ...)&#160;&#160;&#160;<a class="el" href="vae__logger_8hpp.html#aba237dce4573f12fed88577d6de9a114">VAE_PRINT</a>( &quot;WARN\t| %s:%i \t| &quot; msg &quot;\n&quot;, __FILENAME__, __LINE__, ## __VA_ARGS__); <a class="el" href="vae__profiler_8hpp.html#a189f0b4a59731c3aa5940facd7c9455b">VAE_PROFILER_MESSAGE_L</a>(&quot;WARN\t&quot;  msg)</td></tr>
-<tr class="separator:a2e91349d29889f2beee861fbbc54f849"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2af9baa51a2fe469be610977a3751fb0"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__logger_8hpp.html#a2af9baa51a2fe469be610977a3751fb0">VAE_ERROR</a>(msg, ...)&#160;&#160;&#160;<a class="el" href="vae__logger_8hpp.html#aba237dce4573f12fed88577d6de9a114">VAE_PRINT</a>(&quot;ERROR\t| %s:%i \t| &quot; msg &quot;\n&quot;, __FILENAME__, __LINE__, ## __VA_ARGS__); <a class="el" href="vae__profiler_8hpp.html#a189f0b4a59731c3aa5940facd7c9455b">VAE_PROFILER_MESSAGE_L</a>(&quot;ERROR\t&quot; msg)</td></tr>
+<tr class="memitem:a840dcc5088daf9a542cceb05e306855c"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__logger_8hpp.html#a840dcc5088daf9a542cceb05e306855c">STB_SPRINTF_IMPLEMENTATION</a></td></tr>
+<tr class="separator:a840dcc5088daf9a542cceb05e306855c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2af9baa51a2fe469be610977a3751fb0"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__logger_8hpp.html#a2af9baa51a2fe469be610977a3751fb0">VAE_ERROR</a>(msg, ...)&#160;&#160;&#160;<a class="el" href="vae__logger_8hpp.html#a4766b6d6634397fdb88782a499adcf0f">vae_print_path</a>(<a class="el" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840a902b0d55fddef6f8d651fe1035b7d4bd">vae::LogLevel::Error</a>, __FILE__, __LINE__, msg, ## __VA_ARGS__);</td></tr>
 <tr class="separator:a2af9baa51a2fe469be610977a3751fb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9daaedc5fdf63979687c42d06bf98641"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__logger_8hpp.html#a9daaedc5fdf63979687c42d06bf98641">VAE_DEBUG_VOICES</a>(msg, ...)&#160;&#160;&#160;;</td></tr>
+<tr class="memitem:a6d1a28e591026d301c7272fe99e95428"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__logger_8hpp.html#a6d1a28e591026d301c7272fe99e95428">VAE_DEBUG</a>(msg, ...)&#160;&#160;&#160;<a class="el" href="vae__logger_8hpp.html#a4766b6d6634397fdb88782a499adcf0f">vae_print_path</a>(<a class="el" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840aa603905470e2a5b8c13e96b579ef0dba">vae::LogLevel::Debug</a>, __FILE__, __LINE__, msg, ## __VA_ARGS__);</td></tr>
+<tr class="separator:a6d1a28e591026d301c7272fe99e95428"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43d4ce2dfdb2be44a3211c2025c3ddaf"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__logger_8hpp.html#a43d4ce2dfdb2be44a3211c2025c3ddaf">VAE_INFO</a>(msg, ...)&#160;&#160;&#160;<a class="el" href="vae__logger_8hpp.html#a4766b6d6634397fdb88782a499adcf0f">vae_print_path</a>(<a class="el" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840a4059b0251f66a18cb56f544728796875">vae::LogLevel::Info</a>,  __FILE__, __LINE__, msg, ## __VA_ARGS__);</td></tr>
+<tr class="separator:a43d4ce2dfdb2be44a3211c2025c3ddaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2e91349d29889f2beee861fbbc54f849"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__logger_8hpp.html#a2e91349d29889f2beee861fbbc54f849">VAE_WARN</a>(msg, ...)&#160;&#160;&#160;<a class="el" href="vae__logger_8hpp.html#a4766b6d6634397fdb88782a499adcf0f">vae_print_path</a>(<a class="el" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840a56525ae64d370c0b448ac0d60710ef17">vae::LogLevel::Warn</a>,  __FILE__, __LINE__, msg, ## __VA_ARGS__);</td></tr>
+<tr class="separator:a2e91349d29889f2beee861fbbc54f849"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9daaedc5fdf63979687c42d06bf98641"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__logger_8hpp.html#a9daaedc5fdf63979687c42d06bf98641">VAE_DEBUG_VOICES</a>(msg, ...)</td></tr>
 <tr class="separator:a9daaedc5fdf63979687c42d06bf98641"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4c00c4201d507286f676d3d95125fa1f"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__logger_8hpp.html#a4c00c4201d507286f676d3d95125fa1f">VAE_DEBUG_EVENT</a>(msg, ...)&#160;&#160;&#160;;</td></tr>
+<tr class="memitem:a4c00c4201d507286f676d3d95125fa1f"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__logger_8hpp.html#a4c00c4201d507286f676d3d95125fa1f">VAE_DEBUG_EVENT</a>(msg, ...)</td></tr>
 <tr class="separator:a4c00c4201d507286f676d3d95125fa1f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:afa9f2bbdbe8708cfcc096897cdb44211"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__logger_8hpp.html#afa9f2bbdbe8708cfcc096897cdb44211">vae_print</a> (<a class="el" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840">vae::LogLevel</a> level, const char *message)</td></tr>
+<tr class="separator:afa9f2bbdbe8708cfcc096897cdb44211"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf66628e4617ad79d92111f27307b4cb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__logger_8hpp.html#adf66628e4617ad79d92111f27307b4cb">vae_print_va</a> (<a class="el" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840">vae::LogLevel</a> level, const char *format, va_list va)</td></tr>
+<tr class="separator:adf66628e4617ad79d92111f27307b4cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4766b6d6634397fdb88782a499adcf0f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="vae__logger_8hpp.html#a4766b6d6634397fdb88782a499adcf0f">vae_print_path</a> (<a class="el" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840">vae::LogLevel</a> level, const char *path, int line, const char *format,...)</td></tr>
+<tr class="separator:a4766b6d6634397fdb88782a499adcf0f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a5fccb4fc71e44089a1b1a77fc76c0b68" name="a5fccb4fc71e44089a1b1a77fc76c0b68"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5fccb4fc71e44089a1b1a77fc76c0b68">&#9670;&nbsp;</a></span>__FILENAME__</h2>
+<a id="a840dcc5088daf9a542cceb05e306855c" name="a840dcc5088daf9a542cceb05e306855c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a840dcc5088daf9a542cceb05e306855c">&#9670;&nbsp;</a></span>STB_SPRINTF_IMPLEMENTATION</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define __FILENAME__&#160;&#160;&#160;(strrchr(__FILE__, '/') ? strrchr(__FILE__, '/') + 1 : __FILE__)</td>
+          <td class="memname">#define STB_SPRINTF_IMPLEMENTATION</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="vae__logger_8hpp_source.html#l00035">35</a> of file <a class="el" href="vae__logger_8hpp_source.html">vae_logger.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__logger_8hpp_source.html#l00028">28</a> of file <a class="el" href="vae__logger_8hpp_source.html">vae_logger.hpp</a>.</p>
 
 </div>
 </div>
@@ -163,12 +174,12 @@ Macros</h2></td></tr>
         <tr>
           <td></td>
           <td>)</td>
-          <td></td><td>&#160;&#160;&#160;<a class="el" href="vae__logger_8hpp.html#aba237dce4573f12fed88577d6de9a114">VAE_PRINT</a>(&quot;DEBUG\t| %s:%i \t| &quot; msg &quot;\n&quot;, __FILENAME__, __LINE__, ## __VA_ARGS__); <a class="el" href="vae__profiler_8hpp.html#a189f0b4a59731c3aa5940facd7c9455b">VAE_PROFILER_MESSAGE_L</a>(&quot;DEBUG\t&quot; msg)</td>
+          <td></td><td>&#160;&#160;&#160;<a class="el" href="vae__logger_8hpp.html#a4766b6d6634397fdb88782a499adcf0f">vae_print_path</a>(<a class="el" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840aa603905470e2a5b8c13e96b579ef0dba">vae::LogLevel::Debug</a>, __FILE__, __LINE__, msg, ## __VA_ARGS__);</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="vae__logger_8hpp_source.html#l00038">38</a> of file <a class="el" href="vae__logger_8hpp_source.html">vae_logger.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__logger_8hpp_source.html#l00083">83</a> of file <a class="el" href="vae__logger_8hpp_source.html">vae_logger.hpp</a>.</p>
 
 </div>
 </div>
@@ -193,12 +204,12 @@ Macros</h2></td></tr>
         <tr>
           <td></td>
           <td>)</td>
-          <td></td><td>&#160;&#160;&#160;;</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="vae__logger_8hpp_source.html#l00052">52</a> of file <a class="el" href="vae__logger_8hpp_source.html">vae_logger.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__logger_8hpp_source.html#l00096">96</a> of file <a class="el" href="vae__logger_8hpp_source.html">vae_logger.hpp</a>.</p>
 
 </div>
 </div>
@@ -223,12 +234,12 @@ Macros</h2></td></tr>
         <tr>
           <td></td>
           <td>)</td>
-          <td></td><td>&#160;&#160;&#160;;</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="vae__logger_8hpp_source.html#l00046">46</a> of file <a class="el" href="vae__logger_8hpp_source.html">vae_logger.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__logger_8hpp_source.html#l00090">90</a> of file <a class="el" href="vae__logger_8hpp_source.html">vae_logger.hpp</a>.</p>
 
 </div>
 </div>
@@ -253,28 +264,12 @@ Macros</h2></td></tr>
         <tr>
           <td></td>
           <td>)</td>
-          <td></td><td>&#160;&#160;&#160;<a class="el" href="vae__logger_8hpp.html#aba237dce4573f12fed88577d6de9a114">VAE_PRINT</a>(&quot;ERROR\t| %s:%i \t| &quot; msg &quot;\n&quot;, __FILENAME__, __LINE__, ## __VA_ARGS__); <a class="el" href="vae__profiler_8hpp.html#a189f0b4a59731c3aa5940facd7c9455b">VAE_PROFILER_MESSAGE_L</a>(&quot;ERROR\t&quot; msg)</td>
+          <td></td><td>&#160;&#160;&#160;<a class="el" href="vae__logger_8hpp.html#a4766b6d6634397fdb88782a499adcf0f">vae_print_path</a>(<a class="el" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840a902b0d55fddef6f8d651fe1035b7d4bd">vae::LogLevel::Error</a>, __FILE__, __LINE__, msg, ## __VA_ARGS__);</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="vae__logger_8hpp_source.html#l00041">41</a> of file <a class="el" href="vae__logger_8hpp_source.html">vae_logger.hpp</a>.</p>
-
-</div>
-</div>
-<a id="a812fa7e62a3a008a41e354e40029ea61" name="a812fa7e62a3a008a41e354e40029ea61"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a812fa7e62a3a008a41e354e40029ea61">&#9670;&nbsp;</a></span>VAE_FORCE_LOG</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define VAE_FORCE_LOG</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="vae__logger_8hpp_source.html#l00004">4</a> of file <a class="el" href="vae__logger_8hpp_source.html">vae_logger.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__logger_8hpp_source.html#l00080">80</a> of file <a class="el" href="vae__logger_8hpp_source.html">vae_logger.hpp</a>.</p>
 
 </div>
 </div>
@@ -299,32 +294,12 @@ Macros</h2></td></tr>
         <tr>
           <td></td>
           <td>)</td>
-          <td></td><td>&#160;&#160;&#160;<a class="el" href="vae__logger_8hpp.html#aba237dce4573f12fed88577d6de9a114">VAE_PRINT</a>( &quot;INFO\t| %s:%i \t| &quot; msg &quot;\n&quot;, __FILENAME__, __LINE__, ## __VA_ARGS__); <a class="el" href="vae__profiler_8hpp.html#a189f0b4a59731c3aa5940facd7c9455b">VAE_PROFILER_MESSAGE_L</a>(&quot;INFO\t&quot;  msg)</td>
+          <td></td><td>&#160;&#160;&#160;<a class="el" href="vae__logger_8hpp.html#a4766b6d6634397fdb88782a499adcf0f">vae_print_path</a>(<a class="el" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840a4059b0251f66a18cb56f544728796875">vae::LogLevel::Info</a>,  __FILE__, __LINE__, msg, ## __VA_ARGS__);</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="vae__logger_8hpp_source.html#l00039">39</a> of file <a class="el" href="vae__logger_8hpp_source.html">vae_logger.hpp</a>.</p>
-
-</div>
-</div>
-<a id="aba237dce4573f12fed88577d6de9a114" name="aba237dce4573f12fed88577d6de9a114"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aba237dce4573f12fed88577d6de9a114">&#9670;&nbsp;</a></span>VAE_PRINT</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define VAE_PRINT</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>...</em></td><td>)</td>
-          <td>&#160;&#160;&#160;printf(__VA_ARGS__);</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="definition">Definition at line <a class="el" href="vae__logger_8hpp_source.html#l00011">11</a> of file <a class="el" href="vae__logger_8hpp_source.html">vae_logger.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__logger_8hpp_source.html#l00084">84</a> of file <a class="el" href="vae__logger_8hpp_source.html">vae_logger.hpp</a>.</p>
 
 </div>
 </div>
@@ -349,12 +324,209 @@ Macros</h2></td></tr>
         <tr>
           <td></td>
           <td>)</td>
-          <td></td><td>&#160;&#160;&#160;<a class="el" href="vae__logger_8hpp.html#aba237dce4573f12fed88577d6de9a114">VAE_PRINT</a>( &quot;WARN\t| %s:%i \t| &quot; msg &quot;\n&quot;, __FILENAME__, __LINE__, ## __VA_ARGS__); <a class="el" href="vae__profiler_8hpp.html#a189f0b4a59731c3aa5940facd7c9455b">VAE_PROFILER_MESSAGE_L</a>(&quot;WARN\t&quot;  msg)</td>
+          <td></td><td>&#160;&#160;&#160;<a class="el" href="vae__logger_8hpp.html#a4766b6d6634397fdb88782a499adcf0f">vae_print_path</a>(<a class="el" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840a56525ae64d370c0b448ac0d60710ef17">vae::LogLevel::Warn</a>,  __FILE__, __LINE__, msg, ## __VA_ARGS__);</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="vae__logger_8hpp_source.html#l00040">40</a> of file <a class="el" href="vae__logger_8hpp_source.html">vae_logger.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="vae__logger_8hpp_source.html#l00085">85</a> of file <a class="el" href="vae__logger_8hpp_source.html">vae_logger.hpp</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="afa9f2bbdbe8708cfcc096897cdb44211" name="afa9f2bbdbe8708cfcc096897cdb44211"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afa9f2bbdbe8708cfcc096897cdb44211">&#9670;&nbsp;</a></span>vae_print()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void vae_print </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840">vae::LogLevel</a>&#160;</td>
+          <td class="paramname"><em>level</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>message</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="vae__logger_8hpp_source.html#l00018">18</a> of file <a class="el" href="vae__logger_8hpp_source.html">vae_logger.hpp</a>.</p>
+<div class="fragment"><div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>                                                               {</div>
+<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>            printf(message);</div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>            printf(<span class="stringliteral">&quot;\n&quot;</span>);</div>
+<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span>        }</div>
+</div><!-- fragment --><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="vae__logger_8hpp_afa9f2bbdbe8708cfcc096897cdb44211_icgraph.svg" width="415" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+
+</div>
+</div>
+<a id="a4766b6d6634397fdb88782a499adcf0f" name="a4766b6d6634397fdb88782a499adcf0f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4766b6d6634397fdb88782a499adcf0f">&#9670;&nbsp;</a></span>vae_print_path()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void vae_print_path </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840">vae::LogLevel</a>&#160;</td>
+          <td class="paramname"><em>level</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>path</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>line</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>format</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>...</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="vae__logger_8hpp_source.html#l00044">44</a> of file <a class="el" href="vae__logger_8hpp_source.html">vae_logger.hpp</a>.</p>
+<div class="fragment"><div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>                                                                                                {</div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span>        <span class="keywordflow">if</span> (path == <span class="keyword">nullptr</span>) { <span class="keywordflow">return</span>; }</div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>        <span class="keywordflow">if</span> (format == <span class="keyword">nullptr</span>) { <span class="keywordflow">return</span>; }</div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span> </div>
+<div class="line"><a id="l00048" name="l00048"></a><span class="lineno">   48</span>        <span class="keyword">constexpr</span> <span class="keywordtype">int</span> bufferSize = 1024;</div>
+<div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>        <span class="keyword">constexpr</span> <span class="keywordtype">int</span> fixedPathLength = 16;</div>
+<div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>        <span class="keyword">static</span> <span class="keywordtype">bool</span> locked = <span class="keyword">false</span>;</div>
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>        <span class="keyword">static</span> <span class="keywordtype">char</span> buffer[bufferSize];</div>
+<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span> </div>
+<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>        <span class="comment">// Make all paths the same length so log is less messy</span></div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>        <span class="keywordtype">int</span> pathLength = strlen(path);</div>
+<div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>        <span class="keywordflow">if</span> (fixedPathLength &lt; pathLength) {</div>
+<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>            path += (pathLength - fixedPathLength);</div>
+<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span>        }</div>
+<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span> </div>
+<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>        <span class="keywordflow">while</span>(locked) { }</div>
+<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span>        locked = <span class="keyword">true</span>;</div>
+<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span> </div>
+<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>        <span class="keywordflow">switch</span> (level) {</div>
+<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840aa603905470e2a5b8c13e96b579ef0dba">vae::LogLevel::Debug</a>:      stbsp_snprintf(buffer, bufferSize, <span class="stringliteral">&quot;DEBUG | %s:%i \t| %s&quot;</span>, path, line, format); <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840a4059b0251f66a18cb56f544728796875">vae::LogLevel::Info</a>:       stbsp_snprintf(buffer, bufferSize, <span class="stringliteral">&quot; INFO | %s:%i \t| %s&quot;</span>, path, line, format); <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840a56525ae64d370c0b448ac0d60710ef17">vae::LogLevel::Warn</a>:       stbsp_snprintf(buffer, bufferSize, <span class="stringliteral">&quot; WARN | %s:%i \t| %s&quot;</span>, path, line, format); <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840a902b0d55fddef6f8d651fe1035b7d4bd">vae::LogLevel::Error</a>:      stbsp_snprintf(buffer, bufferSize, <span class="stringliteral">&quot;ERROR | %s:%i \t| %s&quot;</span>, path, line, format); <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840ade256ac3e92e33d2bf8266a3e1dc08e7">vae::LogLevel::Ciritical</a>:  stbsp_snprintf(buffer, bufferSize, <span class="stringliteral">&quot; CRIT | %s:%i \t| %s&quot;</span>, path, line, format); <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>            <span class="keywordflow">default</span>: <span class="keywordflow">break</span>;</div>
+<div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span>        }</div>
+<div class="line"><a id="l00070" name="l00070"></a><span class="lineno">   70</span> </div>
+<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>        va_list va;</div>
+<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>        va_start(va, format);</div>
+<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>        <a class="code hl_function" href="vae__logger_8hpp.html#adf66628e4617ad79d92111f27307b4cb">vae_print_va</a>(level, buffer, va);</div>
+<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span>        va_end(va);</div>
+<div class="line"><a id="l00075" name="l00075"></a><span class="lineno">   75</span> </div>
+<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>        locked = <span class="keyword">false</span>;</div>
+<div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span>    }</div>
+<div class="ttc" id="anamespacevae_html_adde3c3c3e95236a2cba5c16a9794e840a4059b0251f66a18cb56f544728796875"><div class="ttname"><a href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840a4059b0251f66a18cb56f544728796875">vae::LogLevel::Info</a></div><div class="ttdeci">@ Info</div></div>
+<div class="ttc" id="anamespacevae_html_adde3c3c3e95236a2cba5c16a9794e840a56525ae64d370c0b448ac0d60710ef17"><div class="ttname"><a href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840a56525ae64d370c0b448ac0d60710ef17">vae::LogLevel::Warn</a></div><div class="ttdeci">@ Warn</div></div>
+<div class="ttc" id="anamespacevae_html_adde3c3c3e95236a2cba5c16a9794e840a902b0d55fddef6f8d651fe1035b7d4bd"><div class="ttname"><a href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840a902b0d55fddef6f8d651fe1035b7d4bd">vae::LogLevel::Error</a></div><div class="ttdeci">@ Error</div></div>
+<div class="ttc" id="anamespacevae_html_adde3c3c3e95236a2cba5c16a9794e840aa603905470e2a5b8c13e96b579ef0dba"><div class="ttname"><a href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840aa603905470e2a5b8c13e96b579ef0dba">vae::LogLevel::Debug</a></div><div class="ttdeci">@ Debug</div></div>
+<div class="ttc" id="anamespacevae_html_adde3c3c3e95236a2cba5c16a9794e840ade256ac3e92e33d2bf8266a3e1dc08e7"><div class="ttname"><a href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840ade256ac3e92e33d2bf8266a3e1dc08e7">vae::LogLevel::Ciritical</a></div><div class="ttdeci">@ Ciritical</div></div>
+<div class="ttc" id="avae__logger_8hpp_html_adf66628e4617ad79d92111f27307b4cb"><div class="ttname"><a href="vae__logger_8hpp.html#adf66628e4617ad79d92111f27307b4cb">vae_print_va</a></div><div class="ttdeci">void vae_print_va(vae::LogLevel level, const char *format, va_list va)</div><div class="ttdef"><b>Definition:</b> <a href="vae__logger_8hpp_source.html#l00031">vae_logger.hpp:31</a></div></div>
+</div><!-- fragment --><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="vae__logger_8hpp_a4766b6d6634397fdb88782a499adcf0f_cgraph.svg" width="415" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+
+</div>
+</div>
+<a id="adf66628e4617ad79d92111f27307b4cb" name="adf66628e4617ad79d92111f27307b4cb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adf66628e4617ad79d92111f27307b4cb">&#9670;&nbsp;</a></span>vae_print_va()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void vae_print_va </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840">vae::LogLevel</a>&#160;</td>
+          <td class="paramname"><em>level</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>format</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">va_list&#160;</td>
+          <td class="paramname"><em>va</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="vae__logger_8hpp_source.html#l00031">31</a> of file <a class="el" href="vae__logger_8hpp_source.html">vae_logger.hpp</a>.</p>
+<div class="fragment"><div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>                                                                         {</div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>        <span class="keyword">constexpr</span> <span class="keywordtype">int</span> bufferSize = 1024;</div>
+<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span>        <span class="keyword">static</span> <span class="keywordtype">bool</span> locked = <span class="keyword">false</span>;</div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>        <span class="keyword">static</span> <span class="keywordtype">char</span> buffer[bufferSize];</div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>        <span class="keywordflow">while</span>(locked) { }</div>
+<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span>        locked = <span class="keyword">true</span>;</div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>        <span class="keyword">const</span> <span class="keywordtype">int</span> length = stbsp_vsnprintf(buffer, bufferSize, format, va);</div>
+<div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>        buffer[bufferSize - 1] = <span class="charliteral">&#39;\0&#39;</span>;</div>
+<div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>        <a class="code hl_function" href="vae__logger_8hpp.html#afa9f2bbdbe8708cfcc096897cdb44211">vae_print</a>(level, buffer);</div>
+<div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>        <a class="code hl_define" href="vae__profiler_8hpp.html#ac7f3eda6cc2d1d4420327e5fca7c14b6">VAE_PROFILER_MESSAGE</a>(buffer, length)</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>        locked = <span class="keyword">false</span>;</div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>    }</div>
+<div class="ttc" id="avae__logger_8hpp_html_afa9f2bbdbe8708cfcc096897cdb44211"><div class="ttname"><a href="vae__logger_8hpp.html#afa9f2bbdbe8708cfcc096897cdb44211">vae_print</a></div><div class="ttdeci">void vae_print(vae::LogLevel level, const char *message)</div><div class="ttdef"><b>Definition:</b> <a href="vae__logger_8hpp_source.html#l00018">vae_logger.hpp:18</a></div></div>
+<div class="ttc" id="avae__profiler_8hpp_html_ac7f3eda6cc2d1d4420327e5fca7c14b6"><div class="ttname"><a href="vae__profiler_8hpp.html#ac7f3eda6cc2d1d4420327e5fca7c14b6">VAE_PROFILER_MESSAGE</a></div><div class="ttdeci">#define VAE_PROFILER_MESSAGE(msg, size)</div><div class="ttdoc">Send dynamic string message.</div><div class="ttdef"><b>Definition:</b> <a href="vae__profiler_8hpp_source.html#l00077">vae_profiler.hpp:77</a></div></div>
+</div><!-- fragment --><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="vae__logger_8hpp_adf66628e4617ad79d92111f27307b4cb_cgraph.svg" width="248" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="vae__logger_8hpp_adf66628e4617ad79d92111f27307b4cb_icgraph.svg" width="284" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
 
 </div>
 </div>

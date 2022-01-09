@@ -104,8 +104,7 @@ $(document).ready(function(){initNavTree('classtklb_1_1_audio_buffer_tpl.html','
 <div class="dynheader">
 Inheritance diagram for tklb::AudioBufferTpl&lt; T, STORAGE &gt;:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl__inherit__graph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl__inherit__graph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <div class="dynheader">
 Collaboration diagram for tklb::AudioBufferTpl&lt; T, STORAGE &gt;:</div>
@@ -822,8 +821,7 @@ template&lt;typename T , class STORAGE  = HeapBuffer&lt;T, DEFAULT_ALIGNMENT&gt;
 </div><!-- fragment --><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl_a4e0c07e687fa445e8b058381a696d0b7_icgraph.svg" width="563" height="142"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl_a4e0c07e687fa445e8b058381a696d0b7_icgraph.svg" width="563" height="142"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 
 </div>
@@ -860,8 +858,7 @@ template&lt;typename T , class STORAGE  = HeapBuffer&lt;T, DEFAULT_ALIGNMENT&gt;
 </div><!-- fragment --><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl_a7859b26033cbb893c2ea7acea54d8013_icgraph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl_a7859b26033cbb893c2ea7acea54d8013_icgraph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 
 </div>
@@ -945,8 +942,7 @@ template&lt;typename T , class STORAGE  = HeapBuffer&lt;T, DEFAULT_ALIGNMENT&gt;
 </div><!-- fragment --><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl_aee0540e90ae2790f9a809917bc5a04fd_icgraph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl_aee0540e90ae2790f9a809917bc5a04fd_icgraph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 
 </div>
@@ -1026,17 +1022,16 @@ template&lt;typename T1 , typename T2 , typename Ratio  = float&gt; </div>
 <p class="definition">Definition at line <a class="el" href="_t_audio_buffer_8hpp_source.html#l00114">114</a> of file <a class="el" href="_t_audio_buffer_8hpp_source.html">TAudioBuffer.hpp</a>.</p>
 <div class="fragment"><div class="line"><a id="l00114" name="l00114"></a><span class="lineno">  114</span>                                                    {</div>
 <div class="line"><a id="l00115" name="l00115"></a><span class="lineno">  115</span>            <span class="keyword">const</span> Ratio maxt = std::is_floating_point&lt;T2&gt;::value ?</div>
-<div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span>                1.0 : <a class="code hl_function" href="namespacetklb.html#a7dc2203e89c331e3c85b9e7f16fa6763">std::numeric_limits&lt;T2&gt;::max</a>() - 1;</div>
+<div class="line"><a id="l00116" name="l00116"></a><span class="lineno">  116</span>                Ratio(1.0) : Ratio(std::numeric_limits&lt;T2&gt;::<a class="code hl_function" href="namespacetklb.html#a7dc2203e89c331e3c85b9e7f16fa6763">max</a>()) - Ratio(1);</div>
 <div class="line"><a id="l00117" name="l00117"></a><span class="lineno">  117</span>            <span class="keyword">const</span> Ratio maxt2 = std::is_floating_point&lt;T1&gt;::value ?</div>
-<div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>                1.0 : <a class="code hl_function" href="namespacetklb.html#a7dc2203e89c331e3c85b9e7f16fa6763">std::numeric_limits&lt;T1&gt;::max</a>() - 1;</div>
+<div class="line"><a id="l00118" name="l00118"></a><span class="lineno">  118</span>                Ratio(1.0) : Ratio(std::numeric_limits&lt;T1&gt;::<a class="code hl_function" href="namespacetklb.html#a7dc2203e89c331e3c85b9e7f16fa6763">max</a>()) - Ratio(1);</div>
 <div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>            <span class="keywordflow">return</span> maxt / maxt2;</div>
 <div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>        }</div>
 <div class="ttc" id="anamespacetklb_html_a7dc2203e89c331e3c85b9e7f16fa6763"><div class="ttname"><a href="namespacetklb.html#a7dc2203e89c331e3c85b9e7f16fa6763">tklb::max</a></div><div class="ttdeci">T max(const T &amp;v1, const T &amp;v2)</div><div class="ttdef"><b>Definition:</b> <a href="_t_math_8hpp_source.html#l00021">TMath.hpp:21</a></div></div>
 </div><!-- fragment --><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl_af91434689c277747417b84a3717cd811_cgraph.svg" width="302" height="52"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl_af91434689c277747417b84a3717cd811_cgraph.svg" width="302" height="52"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 
 </div>
@@ -1140,8 +1135,7 @@ Here is the call graph for this function:</div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl_a97728ddd08f299f5965e4e4b519d3809_icgraph.svg" width="358" height="142"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl_a97728ddd08f299f5965e4e4b519d3809_icgraph.svg" width="358" height="142"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 
 </div>
@@ -1824,8 +1818,7 @@ Here is the call graph for this function:</div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl_ad8dfcd5de2eff24076178f14474b4751_icgraph.svg" width="616" height="162"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl_ad8dfcd5de2eff24076178f14474b4751_icgraph.svg" width="616" height="162"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 
 </div>
@@ -2260,8 +2253,7 @@ Here is the call graph for this function:</div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl_ab6e5250746ca3784a568591a3ffdbc12_icgraph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl_ab6e5250746ca3784a568591a3ffdbc12_icgraph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 
 </div>
@@ -2560,8 +2552,7 @@ Here is the call graph for this function:</div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl_ab4e27a0d2eca612dcfc2a6a1c8678428_icgraph.svg" width="100%" height="466"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl_ab4e27a0d2eca612dcfc2a6a1c8678428_icgraph.svg" width="100%" height="466"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 
 </div>
@@ -2600,8 +2591,7 @@ template&lt;typename T , class STORAGE  = HeapBuffer&lt;T, DEFAULT_ALIGNMENT&gt;
 </div><!-- fragment --><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl_af6df8d7e6840eee3f84807bd1662c3ed_icgraph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl_af6df8d7e6840eee3f84807bd1662c3ed_icgraph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 
 </div>
@@ -2639,8 +2629,7 @@ template&lt;typename T , class STORAGE  = HeapBuffer&lt;T, DEFAULT_ALIGNMENT&gt;
 </div><!-- fragment --><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl_a86cec40e8c99a90d93db996d92ddfece_icgraph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classtklb_1_1_audio_buffer_tpl_a86cec40e8c99a90d93db996d92ddfece_icgraph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 
 </div>

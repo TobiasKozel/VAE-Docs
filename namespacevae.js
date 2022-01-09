@@ -2,16 +2,7 @@ var namespacevae =
 [
     [ "Config", "namespacevae_1_1_config.html", null ],
     [ "core", "namespacevae_1_1core.html", "namespacevae_1_1core" ],
-    [ "StaticConfig", "namespacevae_1_1_static_config.html", [
-      [ "MaxBlock", "namespacevae_1_1_static_config.html#a7fc8cd884a19dab8c404695deeffffef", null ],
-      [ "MaxChainedEvents", "namespacevae_1_1_static_config.html#a85f082edd5624f9ec4025ada826d9b1f", null ],
-      [ "MaxChannels", "namespacevae_1_1_static_config.html#acc7f8c3b935987ac0efb174c6e640fdb", null ],
-      [ "MaxEffectsParameter", "namespacevae_1_1_static_config.html#a9fc4e571d6bffc7e712492e414aac0e3", null ],
-      [ "MaxListeners", "namespacevae_1_1_static_config.html#a4d73d1abf5df0745135e82d798410fe2", null ],
-      [ "MaxMixerEffects", "namespacevae_1_1_static_config.html#af485bf70bcd1a198950d6ac27333b59d", null ],
-      [ "MinVolume", "namespacevae_1_1_static_config.html#a0d6f7b1ad4808a34c01f68b15795448c", null ],
-      [ "StreamPrefetch", "namespacevae_1_1_static_config.html#aee44df947fc8cc7ff32fed1680aeb3fa", null ]
-    ] ],
+    [ "StaticConfig", "namespacevae_1_1_static_config.html", "namespacevae_1_1_static_config" ],
     [ "DeviceInfo", "structvae_1_1_device_info.html", "structvae_1_1_device_info" ],
     [ "EngineConfig", "structvae_1_1_engine_config.html", "structvae_1_1_engine_config" ],
     [ "EnginePimpl", "classvae_1_1_engine_pimpl.html", "classvae_1_1_engine_pimpl" ],
@@ -35,6 +26,13 @@ var namespacevae =
     [ "SmallHandle", "namespacevae.html#a11b96be562b84505ec05448e7bdb7802", null ],
     [ "SourceHandle", "namespacevae.html#aea2c7f668dde2566eb1e2ab0ebc1e5f3", null ],
     [ "Time", "namespacevae.html#a583a4fbb511eca52468fbfa963a88e88", null ],
+    [ "LogLevel", "namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840", [
+      [ "Debug", "namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840aa603905470e2a5b8c13e96b579ef0dba", null ],
+      [ "Info", "namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840a4059b0251f66a18cb56f544728796875", null ],
+      [ "Warn", "namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840a56525ae64d370c0b448ac0d60710ef17", null ],
+      [ "Error", "namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840a902b0d55fddef6f8d651fe1035b7d4bd", null ],
+      [ "Ciritical", "namespacevae.html#adde3c3c3e95236a2cba5c16a9794e840ade256ac3e92e33d2bf8266a3e1dc08e7", null ]
+    ] ],
     [ "Result", "namespacevae.html#aad3c85b8987f29bac8e35c69d926bb49", [
       [ "Success", "namespacevae.html#aad3c85b8987f29bac8e35c69d926bb49a505a83f220c02df2f85c3810cd9ceb38", null ],
       [ "GenericFailure", "namespacevae.html#aad3c85b8987f29bac8e35c69d926bb49a7f19ca866caebb1e42be9bb9fbb1a1c7", null ],

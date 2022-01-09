@@ -100,8 +100,7 @@ $(document).ready(function(){initNavTree('structvae_1_1core_1_1_event.html','');
 <div class="dynheader">
 Collaboration diagram for vae::core::Event:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="structvae_1_1core_1_1_event__coll__graph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="structvae_1_1core_1_1_event__coll__graph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
@@ -188,9 +187,9 @@ Public Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a425d1baf7f7d1e2ef9031faec3050e76aea2b2676c28c0db26d39331a336c6b92" name="a425d1baf7f7d1e2ef9031faec3050e76aea2b2676c28c0db26d39331a336c6b92"></a>start&#160;</td><td class="fielddoc"><p >Starts a source. </p>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a425d1baf7f7d1e2ef9031faec3050e76aea2b2676c28c0db26d39331a336c6b92" name="a425d1baf7f7d1e2ef9031faec3050e76aea2b2676c28c0db26d39331a336c6b92"></a>start&#160;</td><td class="fielddoc"><p >Starts a source if defined and every <a class="el" href="structvae_1_1core_1_1_event.html" title="An Event is used to control most of the eingines behavior.">Event</a> in chained_events. </p>
 </td></tr>
-<tr><td class="fieldname"><a id="a425d1baf7f7d1e2ef9031faec3050e76aef399b2d446bb37b7c32ad2cc1b6045b" name="a425d1baf7f7d1e2ef9031faec3050e76aef399b2d446bb37b7c32ad2cc1b6045b"></a>stop&#160;</td><td class="fielddoc"><p >Stops a source. </p>
+<tr><td class="fieldname"><a id="a425d1baf7f7d1e2ef9031faec3050e76aef399b2d446bb37b7c32ad2cc1b6045b" name="a425d1baf7f7d1e2ef9031faec3050e76aef399b2d446bb37b7c32ad2cc1b6045b"></a>stop&#160;</td><td class="fielddoc"><p >Stops a source if defined and stops every voice started from a event in chained_events. </p>
 </td></tr>
 <tr><td class="fieldname"><a id="a425d1baf7f7d1e2ef9031faec3050e76a92b5a0856db64ef58a310a5481700ea6" name="a425d1baf7f7d1e2ef9031faec3050e76a92b5a0856db64ef58a310a5481700ea6"></a>emit&#160;</td><td class="fielddoc"><p >Emits an event to the EventCallback defined in the engine config. </p>
 </td></tr>
@@ -200,8 +199,8 @@ Public Attributes</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="vae__event_8hpp_source.html#l00015">15</a> of file <a class="el" href="vae__event_8hpp_source.html">vae_event.hpp</a>.</p>
 <div class="fragment"><div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>                          {</div>
-<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>            start = 0,      <span class="comment">///&lt; Starts a source</span></div>
-<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>            stop,           <span class="comment">///&lt; Stops a source</span></div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>            start = 0,      <span class="comment">///&lt; Starts a source if defined and every Event in chained_events</span></div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>            stop,           <span class="comment">///&lt; Stops a source if defined and stops every voice started from a event in chained_events</span></div>
 <div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>            emit,           <span class="comment">///&lt; Emits an event to the EventCallback defined in the engine config</span></div>
 <div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>            random          <span class="comment">///&lt; triggers one random chained_events event</span></div>
 <div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>        } <a class="code hl_variable" href="structvae_1_1core_1_1_event.html#aad7cf2b17d95fba921881505442251e7">action</a> : 3;</div>

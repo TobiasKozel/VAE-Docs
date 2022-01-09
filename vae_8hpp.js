@@ -25,6 +25,13 @@ var vae_8hpp =
     [ "SmallHandle", "vae_8hpp.html#a11b96be562b84505ec05448e7bdb7802", null ],
     [ "SourceHandle", "vae_8hpp.html#aea2c7f668dde2566eb1e2ab0ebc1e5f3", null ],
     [ "Time", "vae_8hpp.html#a583a4fbb511eca52468fbfa963a88e88", null ],
+    [ "LogLevel", "vae_8hpp.html#adde3c3c3e95236a2cba5c16a9794e840", [
+      [ "Debug", "vae_8hpp.html#adde3c3c3e95236a2cba5c16a9794e840aa603905470e2a5b8c13e96b579ef0dba", null ],
+      [ "Info", "vae_8hpp.html#adde3c3c3e95236a2cba5c16a9794e840a4059b0251f66a18cb56f544728796875", null ],
+      [ "Warn", "vae_8hpp.html#adde3c3c3e95236a2cba5c16a9794e840a56525ae64d370c0b448ac0d60710ef17", null ],
+      [ "Error", "vae_8hpp.html#adde3c3c3e95236a2cba5c16a9794e840a902b0d55fddef6f8d651fe1035b7d4bd", null ],
+      [ "Ciritical", "vae_8hpp.html#adde3c3c3e95236a2cba5c16a9794e840ade256ac3e92e33d2bf8266a3e1dc08e7", null ]
+    ] ],
     [ "Result", "vae_8hpp.html#aad3c85b8987f29bac8e35c69d926bb49", [
       [ "Success", "vae_8hpp.html#aad3c85b8987f29bac8e35c69d926bb49a505a83f220c02df2f85c3810cd9ceb38", null ],
       [ "GenericFailure", "vae_8hpp.html#aad3c85b8987f29bac8e35c69d926bb49a7f19ca866caebb1e42be9bb9fbb1a1c7", null ],
@@ -43,6 +50,9 @@ var vae_8hpp =
       [ "InvalidEmitter", "vae_8hpp.html#aad3c85b8987f29bac8e35c69d926bb49a45a5386dc340fd3e2f4fee403ae65dd4", null ]
     ] ],
     [ "AllListeners", "vae_8hpp.html#a02d0f7f326b8665a8156b34abac2d12b", null ],
+    [ "center", "vae_8hpp.html#ad549474d4baeb6f08008001bd3f40eed", null ],
+    [ "frontLeft", "vae_8hpp.html#aa239ad609d33c02c5257aace5bdb0310", null ],
+    [ "frontRight", "vae_8hpp.html#ae32d9b434da26d669f557e7e647bc924", null ],
     [ "InvalidBankHandle", "vae_8hpp.html#aafa9ec6d016a4411f4b713607ade307a", null ],
     [ "InvalidEmitterHandle", "vae_8hpp.html#a04a98a6e8af7e68128c0a29d970b93c6", null ],
     [ "InvalidEventHandle", "vae_8hpp.html#a6afd62f62529f98fb46fe0dac51fb52e", null ],
@@ -51,6 +61,7 @@ var vae_8hpp =
     [ "InvalidListenerHandle", "vae_8hpp.html#a931f24cd6a5d10a46a31a21019cc54dc", null ],
     [ "InvalidMixerHandle", "vae_8hpp.html#aef1c7f16b913d4f698bbe5640bf78408", null ],
     [ "InvalidSourceHandle", "vae_8hpp.html#a4c5032dbb0d38eeffa17d0c7de8b2e13", null ],
+    [ "left", "vae_8hpp.html#afcf0d1b912a0ecca307c2b6789a1999f", null ],
     [ "MaxBlock", "vae_8hpp.html#a7fc8cd884a19dab8c404695deeffffef", null ],
     [ "MaxChainedEvents", "vae_8hpp.html#a85f082edd5624f9ec4025ada826d9b1f", null ],
     [ "MaxChannels", "vae_8hpp.html#acc7f8c3b935987ac0efb174c6e640fdb", null ],
@@ -58,5 +69,8 @@ var vae_8hpp =
     [ "MaxListeners", "vae_8hpp.html#a4d73d1abf5df0745135e82d798410fe2", null ],
     [ "MaxMixerEffects", "vae_8hpp.html#af485bf70bcd1a198950d6ac27333b59d", null ],
     [ "MinVolume", "vae_8hpp.html#a0d6f7b1ad4808a34c01f68b15795448c", null ],
+    [ "rearLeft", "vae_8hpp.html#a4d0acfd0e6fad05676bfe7479c0b637b", null ],
+    [ "rearRight", "vae_8hpp.html#a7cf0fcb8560ed12cd0561641ee8db155", null ],
+    [ "right", "vae_8hpp.html#a4b77c3982516220a377e11cf0da04b40", null ],
     [ "StreamPrefetch", "vae_8hpp.html#aee44df947fc8cc7ff32fed1680aeb3fa", null ]
 ];

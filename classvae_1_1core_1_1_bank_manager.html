@@ -244,7 +244,7 @@ Here is the caller graph for this function:</div>
 <div class="line"><a id="l00143" name="l00143"></a><span class="lineno">  143</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="namespacevae.html#aad3c85b8987f29bac8e35c69d926bb49a505a83f220c02df2f85c3810cd9ceb38">Result::Success</a>;</div>
 <div class="line"><a id="l00144" name="l00144"></a><span class="lineno">  144</span>        }</div>
 <div class="ttc" id="anamespacevae_1_1core_html_a5ab943f18d5a5b2479e0b2993faf271c"><div class="ttname"><a href="namespacevae_1_1core.html#a5ab943f18d5a5b2479e0b2993faf271c">vae::core::Lock</a></div><div class="ttdeci">std::unique_lock&lt; Mutex &gt; Lock</div><div class="ttdef"><b>Definition:</b> <a href="vae__types_8hpp_source.html#l00053">vae_types.hpp:53</a></div></div>
-<div class="ttc" id="avae__profiler_8hpp_html_a674e5339bfbebf4ff5ad35db76d36fee"><div class="ttname"><a href="vae__profiler_8hpp.html#a674e5339bfbebf4ff5ad35db76d36fee">VAE_PROFILER_SCOPE</a></div><div class="ttdeci">#define VAE_PROFILER_SCOPE()</div><div class="ttdoc">Profiles a scope.</div><div class="ttdef"><b>Definition:</b> <a href="vae__profiler_8hpp_source.html#l00071">vae_profiler.hpp:71</a></div></div>
+<div class="ttc" id="avae__profiler_8hpp_html_a674e5339bfbebf4ff5ad35db76d36fee"><div class="ttname"><a href="vae__profiler_8hpp.html#a674e5339bfbebf4ff5ad35db76d36fee">VAE_PROFILER_SCOPE</a></div><div class="ttdeci">#define VAE_PROFILER_SCOPE()</div><div class="ttdoc">Profiles a scope.</div><div class="ttdef"><b>Definition:</b> <a href="vae__profiler_8hpp_source.html#l00072">vae_profiler.hpp:72</a></div></div>
 </div><!-- fragment --><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
@@ -300,8 +300,8 @@ Here is the caller graph for this function:</div>
 <div class="line"><a id="l00155" name="l00155"></a><span class="lineno">  155</span>            bank.mixers[mixer.id] = std::move(mixer);</div>
 <div class="line"><a id="l00156" name="l00156"></a><span class="lineno">  156</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="namespacevae.html#aad3c85b8987f29bac8e35c69d926bb49a505a83f220c02df2f85c3810cd9ceb38">Result::Success</a>;</div>
 <div class="line"><a id="l00157" name="l00157"></a><span class="lineno">  157</span>        }</div>
-<div class="ttc" id="anamespacevae_1_1_static_config_html_a7fc8cd884a19dab8c404695deeffffef"><div class="ttname"><a href="namespacevae_1_1_static_config.html#a7fc8cd884a19dab8c404695deeffffef">vae::StaticConfig::MaxBlock</a></div><div class="ttdeci">constexpr Size MaxBlock</div><div class="ttdoc">Maximum block size Used to preallocate buffers for mixers and dsp.</div><div class="ttdef"><b>Definition:</b> <a href="vae_8hpp_source.html#l00264">vae.hpp:264</a></div></div>
-<div class="ttc" id="anamespacevae_1_1_static_config_html_acc7f8c3b935987ac0efb174c6e640fdb"><div class="ttname"><a href="namespacevae_1_1_static_config.html#acc7f8c3b935987ac0efb174c6e640fdb">vae::StaticConfig::MaxChannels</a></div><div class="ttdeci">constexpr unsigned char MaxChannels</div><div class="ttdoc">Maximum channel count used to pre allocate buffers.</div><div class="ttdef"><b>Definition:</b> <a href="vae_8hpp_source.html#l00256">vae.hpp:256</a></div></div>
+<div class="ttc" id="anamespacevae_1_1_static_config_html_a7fc8cd884a19dab8c404695deeffffef"><div class="ttname"><a href="namespacevae_1_1_static_config.html#a7fc8cd884a19dab8c404695deeffffef">vae::StaticConfig::MaxBlock</a></div><div class="ttdeci">constexpr Size MaxBlock</div><div class="ttdoc">Maximum block size.</div><div class="ttdef"><b>Definition:</b> <a href="vae_8hpp_source.html#l00276">vae.hpp:276</a></div></div>
+<div class="ttc" id="anamespacevae_1_1_static_config_html_acc7f8c3b935987ac0efb174c6e640fdb"><div class="ttname"><a href="namespacevae_1_1_static_config.html#acc7f8c3b935987ac0efb174c6e640fdb">vae::StaticConfig::MaxChannels</a></div><div class="ttdeci">constexpr unsigned char MaxChannels</div><div class="ttdoc">Maximum channel count used to pre allocate buffers.</div><div class="ttdef"><b>Definition:</b> <a href="vae_8hpp_source.html#l00268">vae.hpp:268</a></div></div>
 </div><!-- fragment --><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -461,7 +461,7 @@ template&lt;class Func &gt; </div>
 <div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>            }</div>
 <div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span>        }</div>
 <div class="ttc" id="anamespacevae_html_aafa9ec6d016a4411f4b713607ade307a"><div class="ttname"><a href="namespacevae.html#aafa9ec6d016a4411f4b713607ade307a">vae::InvalidBankHandle</a></div><div class="ttdeci">constexpr BankHandle InvalidBankHandle</div><div class="ttdef"><b>Definition:</b> <a href="vae_8hpp_source.html#l00057">vae.hpp:57</a></div></div>
-<div class="ttc" id="avae__profiler_8hpp_html_a31738f99f75dabdb89f10c54346aa5f8"><div class="ttname"><a href="vae__profiler_8hpp.html#a31738f99f75dabdb89f10c54346aa5f8">VAE_PROFILER_SCOPE_NAMED</a></div><div class="ttdeci">#define VAE_PROFILER_SCOPE_NAMED(name)</div><div class="ttdoc">Profiles a scope and names it.</div><div class="ttdef"><b>Definition:</b> <a href="vae__profiler_8hpp_source.html#l00072">vae_profiler.hpp:72</a></div></div>
+<div class="ttc" id="avae__profiler_8hpp_html_a31738f99f75dabdb89f10c54346aa5f8"><div class="ttname"><a href="vae__profiler_8hpp.html#a31738f99f75dabdb89f10c54346aa5f8">VAE_PROFILER_SCOPE_NAMED</a></div><div class="ttdeci">#define VAE_PROFILER_SCOPE_NAMED(name)</div><div class="ttdoc">Profiles a scope and names it.</div><div class="ttdef"><b>Definition:</b> <a href="vae__profiler_8hpp_source.html#l00073">vae_profiler.hpp:73</a></div></div>
 </div><!-- fragment --><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
@@ -499,7 +499,7 @@ Here is the caller graph for this function:</div>
 </div><!-- fragment --><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classvae_1_1core_1_1_bank_manager_a4ec4afe30adb6e0108e799d26070a3a5_icgraph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classvae_1_1core_1_1_bank_manager_a4ec4afe30adb6e0108e799d26070a3a5_icgraph.svg" width="100%" height="563"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 </div>
 
@@ -538,8 +538,7 @@ Here is the caller graph for this function:</div>
 </div><!-- fragment --><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classvae_1_1core_1_1_bank_manager_aef2d335fb63d6f4be9f5b4793e309c99_icgraph.svg" width="100%" height="539"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classvae_1_1core_1_1_bank_manager_aef2d335fb63d6f4be9f5b4793e309c99_icgraph.svg" width="100%" height="539"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 
 </div>
@@ -654,7 +653,7 @@ Here is the call graph for this function:</div>
 <div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>        }</div>
 <div class="ttc" id="aclassvae_1_1core_1_1_bank_manager_html_ae04256d1f2f2df47d3239993c9bbf12c"><div class="ttname"><a href="classvae_1_1core_1_1_bank_manager.html#ae04256d1f2f2df47d3239993c9bbf12c">vae::core::BankManager::init</a></div><div class="ttdeci">void init(const char *rootPath, int sampleRate)</div><div class="ttdoc">Will unload all the banks.</div><div class="ttdef"><b>Definition:</b> <a href="vae__bank__manager_8hpp_source.html#l00040">vae_bank_manager.hpp:40</a></div></div>
 <div class="ttc" id="aclassvae_1_1core_1_1effect_1_1_effects_factory_html_ace857f89f07cd4b9d13eb6814425180e"><div class="ttname"><a href="classvae_1_1core_1_1effect_1_1_effects_factory.html#ace857f89f07cd4b9d13eb6814425180e">vae::core::effect::EffectsFactory::create</a></div><div class="ttdeci">static EffectBase * create(IdString &amp;id)</div><div class="ttdef"><b>Definition:</b> <a href="vae__effects__factory_8hpp_source.html#l00010">vae_effects_factory.hpp:10</a></div></div>
-<div class="ttc" id="avae__logger_8hpp_html_a2af9baa51a2fe469be610977a3751fb0"><div class="ttname"><a href="vae__logger_8hpp.html#a2af9baa51a2fe469be610977a3751fb0">VAE_ERROR</a></div><div class="ttdeci">#define VAE_ERROR(msg,...)</div><div class="ttdef"><b>Definition:</b> <a href="vae__logger_8hpp_source.html#l00041">vae_logger.hpp:41</a></div></div>
+<div class="ttc" id="avae__logger_8hpp_html_a2af9baa51a2fe469be610977a3751fb0"><div class="ttname"><a href="vae__logger_8hpp.html#a2af9baa51a2fe469be610977a3751fb0">VAE_ERROR</a></div><div class="ttdeci">#define VAE_ERROR(msg,...)</div><div class="ttdef"><b>Definition:</b> <a href="vae__logger_8hpp_source.html#l00080">vae_logger.hpp:80</a></div></div>
 </div><!-- fragment --><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -739,7 +738,7 @@ Here is the caller graph for this function:</div>
 <div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>        }</div>
 <div class="ttc" id="aclassvae_1_1core_1_1_bank_manager_html_a2e7de1d8768b886383a38377dbfeeb0d"><div class="ttname"><a href="classvae_1_1core_1_1_bank_manager.html#a2e7de1d8768b886383a38377dbfeeb0d">vae::core::BankManager::initMixer</a></div><div class="ttdeci">void initMixer(Mixer &amp;mixer, Size sampleRate)</div><div class="ttdef"><b>Definition:</b> <a href="vae__bank__manager_8hpp_source.html#l00020">vae_bank_manager.hpp:20</a></div></div>
 <div class="ttc" id="anamespacevae_html_aad3c85b8987f29bac8e35c69d926bb49"><div class="ttname"><a href="namespacevae.html#aad3c85b8987f29bac8e35c69d926bb49">vae::Result</a></div><div class="ttdeci">Result</div><div class="ttdoc">Return Types for most engine functions.</div><div class="ttdef"><b>Definition:</b> <a href="vae_8hpp_source.html#l00073">vae.hpp:73</a></div></div>
-<div class="ttc" id="avae__logger_8hpp_html_a43d4ce2dfdb2be44a3211c2025c3ddaf"><div class="ttname"><a href="vae__logger_8hpp.html#a43d4ce2dfdb2be44a3211c2025c3ddaf">VAE_INFO</a></div><div class="ttdeci">#define VAE_INFO(msg,...)</div><div class="ttdef"><b>Definition:</b> <a href="vae__logger_8hpp_source.html#l00039">vae_logger.hpp:39</a></div></div>
+<div class="ttc" id="avae__logger_8hpp_html_a43d4ce2dfdb2be44a3211c2025c3ddaf"><div class="ttname"><a href="vae__logger_8hpp.html#a43d4ce2dfdb2be44a3211c2025c3ddaf">VAE_INFO</a></div><div class="ttdeci">#define VAE_INFO(msg,...)</div><div class="ttdef"><b>Definition:</b> <a href="vae__logger_8hpp_source.html#l00084">vae_logger.hpp:84</a></div></div>
 </div><!-- fragment --><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -811,8 +810,7 @@ Here is the call graph for this function:</div>
 </div><!-- fragment --><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classvae_1_1core_1_1_bank_manager_a246219d73b46775ec119e704c758dd0b_cgraph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classvae_1_1core_1_1_bank_manager_a246219d73b46775ec119e704c758dd0b_cgraph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -850,8 +848,7 @@ Here is the caller graph for this function:</div>
 </div><!-- fragment --><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classvae_1_1core_1_1_bank_manager_a5a3fbdf25cfbfa0f5a025a93c892927b_icgraph.svg" width="100%" height="454"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classvae_1_1core_1_1_bank_manager_a5a3fbdf25cfbfa0f5a025a93c892927b_icgraph.svg" width="100%" height="454"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 
 </div>
@@ -947,7 +944,7 @@ Here is the caller graph for this function:</div>
 <div class="line"><a id="l00186" name="l00186"></a><span class="lineno">  186</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="namespacevae.html#aad3c85b8987f29bac8e35c69d926bb49a505a83f220c02df2f85c3810cd9ceb38">Result::Success</a>;</div>
 <div class="line"><a id="l00187" name="l00187"></a><span class="lineno">  187</span>        }</div>
 <div class="ttc" id="anamespacevae_html_aad3c85b8987f29bac8e35c69d926bb49a673139bdc2587ecbe62795a58e6210f6"><div class="ttname"><a href="namespacevae.html#aad3c85b8987f29bac8e35c69d926bb49a673139bdc2587ecbe62795a58e6210f6">vae::Result::ElementNotFound</a></div><div class="ttdeci">@ ElementNotFound</div><div class="ttdoc">Referenced data not found.</div></div>
-<div class="ttc" id="avae__logger_8hpp_html_a2e91349d29889f2beee861fbbc54f849"><div class="ttname"><a href="vae__logger_8hpp.html#a2e91349d29889f2beee861fbbc54f849">VAE_WARN</a></div><div class="ttdeci">#define VAE_WARN(msg,...)</div><div class="ttdef"><b>Definition:</b> <a href="vae__logger_8hpp_source.html#l00040">vae_logger.hpp:40</a></div></div>
+<div class="ttc" id="avae__logger_8hpp_html_a2e91349d29889f2beee861fbbc54f849"><div class="ttname"><a href="vae__logger_8hpp.html#a2e91349d29889f2beee861fbbc54f849">VAE_WARN</a></div><div class="ttdeci">#define VAE_WARN(msg,...)</div><div class="ttdef"><b>Definition:</b> <a href="vae__logger_8hpp_source.html#l00085">vae_logger.hpp:85</a></div></div>
 <div class="ttc" id="avae__util_8hpp_html_a5a2d371fa8d5dcfc0f5f8a6825b14256"><div class="ttname"><a href="vae__util_8hpp.html#a5a2d371fa8d5dcfc0f5f8a6825b14256">VAE_ASSERT</a></div><div class="ttdeci">#define VAE_ASSERT(condition)</div><div class="ttdef"><b>Definition:</b> <a href="vae__util_8hpp_source.html#l00011">vae_util.hpp:11</a></div></div>
 </div><!-- fragment --><div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -985,8 +982,7 @@ Here is the caller graph for this function:</div>
 </div><!-- fragment --><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classvae_1_1core_1_1_bank_manager_a33ded40dcd72a14c7988112528c72b65_icgraph.svg" width="100%" height="454"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="classvae_1_1core_1_1_bank_manager_a33ded40dcd72a14c7988112528c72b65_icgraph.svg" width="100%" height="454"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 
 </div>
